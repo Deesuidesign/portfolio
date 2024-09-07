@@ -1,3 +1,31 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap");
+
+body {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.ellipse{
+    height: 65px;
+    width: 190px;
+    border-radius: 50%;
+    border: 1px solid white;
+    color: #0B78F4;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.ellipse-2{
+  height: 65px;
+  width: 190px;
+  border-radius: 50%;
+  border: 1px solid white;
+  color: #0B78F4;
+  font-weight: bold;
+}
+  

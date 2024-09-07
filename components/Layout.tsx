@@ -2,12 +2,9 @@
 import Head from "next/head";
 import React, { ReactNode, useEffect } from "react";
 import type { Metadata } from "next";
-import { Montserrat } from "next/font/google";
-import { useDispatch } from "react-redux";
 import Header from "./Header";
-import Sidebar from "./Sidebar";
+import Footer from "./Footer";
 
-const montserrat = Montserrat({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Create Next App",
@@ -19,13 +16,15 @@ interface LayoutProps {
 }
 
 const Layout: React.FC<LayoutProps> = ({ children }) => {
- 
-
   return (
-    <div className={montserrat.className}>
+    <div>
       <Head>
-        <title>Herconomy - Bank with us</title>
-        <meta name="description" content="Checkout our cool page" key="desc" />
+        <title>Taiwo Ademola</title>
+        <meta
+          name="description"
+          content="Checkout my portolio page"
+          key="desc"
+        />
         <meta property="og:title" content="Social Title for Cool Page" />
         <meta
           property="og:description"
@@ -37,13 +36,14 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
         />
       </Head>
 
-      <div className="flex h-screen bg-gray-50">
-        <Sidebar />
-        <div className="flex-1 flex flex-col overflow-hidden">
+      <div className="flex bg-[#190634]">
+        <div className="flex-1 flex flex-col max-w-screen-2xl mx-auto px-4">
           <Header />
-          <main className="flex-1 overflow-x-hidden overflow-y-auto bg-gray-50 p-4 md:p-6">
+          <main className="flex-1 p-4 md:p-6">
             {children}
           </main>
+          <Footer />
+
         </div>
       </div>
     </div>
