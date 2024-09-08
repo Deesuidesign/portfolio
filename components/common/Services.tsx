@@ -12,7 +12,7 @@ const Reviews = () => {
     <div className="my-32 lg:flex justify-between" id="services">
       <div className="lg:w-1/2">
         <div className="ellipse flex justify-center items-center">
-          <span>UI/UX Portfolio</span>
+          <span>Services</span>
         </div>
         <h2 className="mt-4 md:w-4/6 text-white text-3xl md:text-4xl font-semibold">
           Why Hire Me For Your Next{" "}
