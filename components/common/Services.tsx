@@ -6,6 +6,8 @@ import Photoshop from "../../public/photoshot.png";
 import Premier from "../../public/premier.png";
 import Corel from "../../public/corel.png";
 import Service from "../../public/service-illustration.png";
+import Link from "next/link";
+
 
 const Reviews = () => {
   return (
@@ -58,6 +60,7 @@ const Reviews = () => {
             </p>
           </div>
         </div>
+        <Link href="#contact">
         <button className="bg-[#0B78F4] text-white mt-6 font-bold flex items-center rounded-3xl px-8 py-2">
           Hire Me{" "}
           <svg
@@ -74,10 +77,12 @@ const Reviews = () => {
             />
           </svg>
         </button>
+        </Link>
+        
       </div>
 
       <div className="lg:w-1/2">
-        <Image src={Service} className="w-full h-full" alt="figma" />
+        <Image src={Service} className="w-full h-full object-contain" alt="figma" />
         
       </div>
     </div>

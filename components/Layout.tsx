@@ -37,7 +37,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
       </Head>
 
       <div className="flex bg-[#190634]">
-        <div className="flex-1 flex flex-col max-w-screen-2xl mx-auto px-4">
+        <div className="flex-1 bg-[#190634] flex flex-col max-w-screen-2xl mx-auto px-4">
           <Header />
           <main className="flex-1 p-4 md:p-6">
             {children}

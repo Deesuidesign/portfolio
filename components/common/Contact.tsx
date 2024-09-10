@@ -1,6 +1,9 @@
 // components/common/Certificate.js
 import Image from "next/image";
 import Avatar from "../../public/avatar.svg";
+import Phone from "../../public/phone.svg";
+import Email from "../../public/email.svg";
+import Location from "../../public/location.svg";
 import React, { useState } from "react";
 import { styled } from "@mui/material/styles";
 import {
@@ -143,8 +146,34 @@ const ContactForm = () => {
         </p>
 
         <div className="mt-6 w-full grid md:grid-cols-3 gap-10">
-          {/* Contact Information */}
-          {/* ...existing code for Contact Information... */}
+          <div className="p-6 flex items-center bg-[#6EBFF439] rounded-2xl space-x-3">
+            <div className="p-4 w-fit rounded-xl bg-[#0B78F4]">
+              <Image src={Phone} alt="" />
+            </div>
+            <div>
+              <h4 className="text-[#0B78F4] mb-2 font-bold">Call me</h4>
+              <p className="text-white">+234 806 834 3889</p>
+              <p className="text-white">+234 818 175 4074</p>
+            </div>
+          </div>
+          <div className="p-6 flex items-center bg-[#6EBFF439] rounded-2xl space-x-3">
+            <div className="p-4 w-fit rounded-xl bg-[#0B78F4]">
+              <Image src={Email} alt="" />
+            </div>
+            <div>
+              <h4 className="text-[#0B78F4] mb-2 font-bold">Email me</h4>
+              <p className="text-white">hello@taiwoademola.com</p>
+            </div>
+          </div>
+          <div className="p-6 flex items-center bg-[#6EBFF439] rounded-2xl space-x-3">
+            <div className="p-4 w-fit rounded-xl bg-[#0B78F4]">
+              <Image src={Location} alt="" />
+            </div>
+            <div>
+              <h4 className="text-[#0B78F4] mb-2 font-bold">Address</h4>
+              <p className="text-white">Lagos, Nigeria</p>
+            </div>
+          </div>
         </div>
 
         <div className="flex items-center mt-20 justify-center w-full my-4">
