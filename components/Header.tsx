@@ -43,7 +43,7 @@ const Header: React.FC = () => {
             <Link href="#certification">Certification</Link>
           </li>
           <li>
-            <Link href="#contact">Resources</Link>
+            <a href="https://www.figma.com/@DeesUI">Resources</a>
           </li>
           <Link href="#contact">
             <button className="bg-[#0B78F4] text-white justify-center flex items-center rounded-3xl px-8 py-2">
@@ -83,7 +83,7 @@ const Header: React.FC = () => {
                 <Link href="#certification">Certification</Link>
               </li>
               <li>
-                <Link href="#contact">Resources</Link>
+                <a href="https://www.figma.com/@DeesUI">Resources</a>
               </li>
               <Link href="#contact">
                 <button className="bg-[#0B78F4] flex items-center rounded-3xl px-8 py-2">
