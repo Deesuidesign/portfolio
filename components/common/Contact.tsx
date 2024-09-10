@@ -157,12 +157,12 @@ const ContactForm = () => {
             </div>
           </div>
           <div className="p-6 flex items-center bg-[#6EBFF439] rounded-2xl space-x-3">
-            <div className="p-4 w-fit rounded-xl bg-[#0B78F4]">
+            <div className="p-4 w-[56p  rounded-xl bg-[#0B78F4]">
               <Image src={Email} alt="" />
             </div>
-            <div>
+            <div className="w-4/6">
               <h4 className="text-[#0B78F4] mb-2 font-bold">Email me</h4>
-              <p className="text-white">hello@taiwoademola.com</p>
+              <p className="text-white break-words">hello@taiwoademola.com</p>
             </div>
           </div>
           <div className="p-6 flex items-center bg-[#6EBFF439] rounded-2xl space-x-3">
