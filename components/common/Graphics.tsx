@@ -108,17 +108,17 @@ const Reviews = () => {
             textAlign: "center",
           }}
         >
-          <div className="grid grid-cols-3 gap-3">
+          <div className="flex justify-between items-center mb-4">
             <button onClick={handlePreviousImage}>Previous</button>
-            <Image
-              src={selectedImages[activeImageIndex]}
-              alt={`Project Image ${activeImageIndex + 1}`}
-              width={600}
-              height={400}
-              className="object-cover"
-            />
             <button onClick={handleNextImage}>Next</button>
           </div>
+          <Image
+            src={selectedImages[activeImageIndex]}
+            alt={`Project Image ${activeImageIndex + 1}`}
+            width={600}
+            height={400}
+            className="object-cover"
+          />
         </Box>
       </Modal>
     </div>
