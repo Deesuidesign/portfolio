@@ -1,14 +1,59 @@
 // components/common/Certificate.js
 import Image from "next/image";
-import Project1 from "../../public/project-1.png";
-import Project2 from "../../public/project-2.png";
-import Project3 from "../../public/project-3.png";
+import { useState } from "react";
+import Modal from "@mui/material/Modal";
+import { Box } from "@mui/material";
+
+const projects = [
+  {
+    title: "Jumia Website Revamped",
+    status: "Launched",
+    images: ["/project-1.png", "/project-2.png", "/project-3.png"],
+  },
+  {
+    title: "Jumia App Revamped",
+    status: "Launched",
+    images: ["/project-2.png", "/project-3.png", "/project-1.png"],
+  },
+  {
+    title: "TAMS Website Redesign",
+    status: "In Progress",
+    images: ["/project-3.png", "/project-1.png", "/project-2.png"],
+  },
+  // Add more projects as needed
+];
 
 const Reviews = () => {
+  const [open, setOpen] = useState(false);
+  const [selectedImages, setSelectedImages] = useState([]);
+  const [activeImageIndex, setActiveImageIndex] = useState(0);
+
+  const handleOpen = (images: any) => {
+    setSelectedImages(images);
+    setOpen(true);
+    setActiveImageIndex(0); // Start at the first image
+  };
+
+  const handleClose = () => {
+    setOpen(false);
+  };
+
+  const handleNextImage = () => {
+    setActiveImageIndex((prevIndex) =>
+      prevIndex === selectedImages.length - 1 ? 0 : prevIndex + 1
+    );
+  };
+
+  const handlePreviousImage = () => {
+    setActiveImageIndex((prevIndex) =>
+      prevIndex === 0 ? selectedImages.length - 1 : prevIndex - 1
+    );
+  };
+
   return (
     <div className="my-32" id="graphics">
       <div className="ellipse flex justify-center items-center">
-        <span>Graphics</span>
+        <span>Graphics Portolio</span>
       </div>
       <h2 className="mt-4 text-white text-3xl md:text-4xl font-semibold">
         My Graphics Design Latest{" "}
@@ -20,91 +65,62 @@ const Reviews = () => {
       </p>
 
       <div className="mt-6 grid md:grid-cols-2 lg:grid-cols-3 gap-12">
-        <div className="bg-[#0B78F4] items-center">
-          <Image
-            className="w-full h-96 object-cover"
-            src={Project1}
-            alt="avatar"
-          />
+        {projects.map((project, index) => (
+          <div
+            key={index}
+            className="bg-[#0B78F4] items-center cursor-pointer"
+            onClick={() => handleOpen(project.images)}
+          >
+            <Image
+              className="w-full h-96 object-cover"
+              src={project.images[0]} // Display the first image
+              alt={project.title}
+              width={300}
+              height={300}
+            />
 
-          <div className="p-4">
-            <h3 className="font-bold text-white text-center text-2xl">
-              Jumia Website Revamped{" "}
-            </h3>
-            <p className="font-semibold text-center text-[#190634]">Launched</p>
+            <div className="p-4">
+              <h3 className="font-bold text-white text-center text-2xl">
+                {project.title}
+              </h3>
+              <p className="font-semibold text-center text-[#190634]">
+                {project.status}
+              </p>
+            </div>
           </div>
-        </div>
-        <div className="bg-[#0B78F4] items-center">
-          <Image
-            className="w-full h-96 object-cover"
-            src={Project2}
-            alt="avatar"
-          />
-
-          <div className="p-4">
-            <h3 className="font-bold text-white text-center text-2xl">
-              Jumia Website Revamped{" "}
-            </h3>
-            <p className="font-semibold text-center text-[#190634]">Launched</p>
-          </div>
-        </div>
-        <div className="bg-[#0B78F4] items-center">
-          <Image
-            className="w-full h-96 object-cover"
-            src={Project3}
-            alt="avatar"
-          />
-
-          <div className="p-4">
-            <h3 className="font-bold text-white text-center text-2xl">
-              Jumia Website Revamped{" "}
-            </h3>
-            <p className="font-semibold text-center text-[#190634]">Launched</p>
-          </div>
-        </div>
-        <div className="bg-[#0B78F4] items-center">
-          <Image
-            className="w-full h-96 object-cover"
-            src={Project1}
-            alt="avatar"
-          />
-
-          <div className="p-4">
-            <h3 className="font-bold text-white text-center text-2xl">
-              Jumia Website Revamped{" "}
-            </h3>
-            <p className="font-semibold text-center text-[#190634]">Launched</p>
-          </div>
-        </div>
-        <div className="bg-[#0B78F4] items-center">
-          <Image
-            className="w-full h-96 object-cover"
-            src={Project2}
-            alt="avatar"
-          />
-
-          <div className="p-4">
-            <h3 className="font-bold text-white text-center text-2xl">
-              Jumia Website Revamped{" "}
-            </h3>
-            <p className="font-semibold text-center text-[#190634]">Launched</p>
-          </div>
-        </div>
-        <div className="bg-[#0B78F4] items-center">
-          <Image
-            className="w-full h-96 object-cover"
-            src={Project3}
-            alt="avatar"
-          />
-
-          <div className="p-4">
-            <h3 className="font-bold text-white text-center text-2xl">
-              Jumia Website Revamped{" "}
-            </h3>
-            <p className="font-semibold text-center text-[#190634]">Launched</p>
-          </div>
-        </div>
+        ))}
       </div>
+
+      {/* Modal for Image Slider */}
+      <Modal open={open} onClose={handleClose}>
+        <Box
+          sx={{
+            position: "absolute",
+            top: "50%",
+            left: "50%",
+            transform: "translate(-50%, -50%)",
+            width: "80%",
+            bgcolor: "background.paper",
+            boxShadow: 24,
+            p: 4,
+            outline: "none",
+            maxWidth: 800,
+            textAlign: "center",
+          }}
+        >
+          <div className="grid grid-cols-3 gap-3">
+            <button onClick={handlePreviousImage}>Previous</button>
+            <Image
+              src={selectedImages[activeImageIndex]}
+              alt={`Project Image ${activeImageIndex + 1}`}
+              width={600}
+              height={400}
+              className="object-cover"
+            />
+            <button onClick={handleNextImage}>Next</button>
+          </div>
+        </Box>
+      </Modal>
     </div>
   );
 };

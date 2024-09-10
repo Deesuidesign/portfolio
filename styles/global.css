@@ -8,6 +8,10 @@ body {
   font-family: "Plus Jakarta Sans", sans-serif;
   font-optical-sizing: auto;
   font-style: normal;
+  background: #190634;
+}
+html {
+  scroll-behavior: smooth;
 }
 
 .ellipse{
