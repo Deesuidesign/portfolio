@@ -6,11 +6,11 @@ import Link from "next/link";
 
 const Hero = () => {
   return (
-    <div className="my-32 lg:flex items-center justify-between" id="hero">
+    <div className="my-20 lg:flex items-center justify-between" id="hero">
       <div className="lg:w-1/2 relative">
         <Image src={Me} className="w-full h-full" alt="me" />
         <Image
-          style={{ bottom: "34rem" }}
+          style={{ bottom: "30rem" }}
           src={MeArrow}
           className="absolute hidden lg:flex right-0 "
           alt="me-arrow"
