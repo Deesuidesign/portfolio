@@ -26,12 +26,12 @@ const projects = [
     images: ["https://res.cloudinary.com/delbjwwfy/image/upload/v1726079910/RCC_23_cwwj0j.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067364/RCC_5_jca9aw.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067406/RCC_2_ujakoy.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067365/RCC_4_d1m8zb.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067365/RCC_3_p7z7lt.png"],
   },
   {
-    title: "Noble-Mind Schools Yearbook designs",
+    title: "Noble-Mind Schools Yearbook Designs",
     status: "Delivered",
     images: ["https://res.cloudinary.com/delbjwwfy/image/upload/v1726067444/Noble_mind_yearbook_2024_gw7yxg.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067443/Noble_mind_yearbook_2022_wak4ix.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067442/Noble_mind_yearbook_2019_uwn9n8.png"],
   },
    {
-    title: "Other brands designs",
+    title: "Other Brands Designs",
     status: "Delivered",
     images: ["https://res.cloudinary.com/delbjwwfy/image/upload/v1726067314/other_1_yoepsw.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067313/other_5_z7cofm.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067312/other_4_bkfeoh.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067315/other_2_fnr4ni.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067313/other_3_g3r2n2.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067312/other_7_ghjlge.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067318/SB_Telecoms_2_pyp8gz.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067315/SB_Telecoms_4_nkhdyz.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067320/SB_Telecoms_rweibw.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067314/SB_Telecoms_5_tjwrag.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067317/SB_Telecoms_3_mf4rvi.png"],
   },
