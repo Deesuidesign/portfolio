@@ -1,6 +1,6 @@
 // components/common/Trusted.js
 import Image from "next/image";
-import BaoBad Plus from "../../public/https://res.cloudinary.com/delbjwwfy/image/upload/v1726056450/lu6tcgjzvzbqjwoknooo.svg";
+import BaoBad Plus from "https://res.cloudinary.com/delbjwwfy/image/upload/v1726056450/lu6tcgjzvzbqjwoknooo.svg";
 import Spotify from "../../public/sportify.svg";
 import Zoom from "../../public/zoom.svg";
 import Slack from "../../public/slack.svg";
