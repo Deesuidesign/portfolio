@@ -1,5 +1,4 @@
 // components/common/Reviews.js
-import Image from "next/image";
 
 // Array of reviews
 const reviews = [
