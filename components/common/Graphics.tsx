@@ -6,7 +6,7 @@ import { Box } from "@mui/material";
 
 const projects = [
   {
-    title: "Loyal Milk Souvenirs Design",
+    title: "Loya Milk Souvenirs Design",
     status: "Delivered",
     images: ["https://res.cloudinary.com/delbjwwfy/image/upload/v1726079685/Loya_Milk_1_dyp83u.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067437/Loya_Milk_2_ltnvdg.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067437/Loya_Milk_2_ltnvdg.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067434/Loya_Milk_3_g04ndt.png"],
   },
