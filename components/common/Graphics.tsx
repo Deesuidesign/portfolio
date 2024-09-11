@@ -16,9 +16,14 @@ const projects = [
     images: ["https://res.cloudinary.com/delbjwwfy/image/upload/v1726067359/ZKTeco_drahkm.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067352/ZKTeco_6_ydiiuv.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067321/ZKTeco_7_jsmbw2.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067366/ZKTeco_4_oyq5pc.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067358/ZKTeco_2_w8sjap.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067365/ZKTeco_3_h21lvl.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067366/ZKTeco_4_oyq5pc.png"],
   },
   {
-    title: "TAMS Website Redesign",
-    status: "In Progress",
-    images: ["/project-3.png", "/project-1.png", "/project-2.png"],
+    title: "RCCG Banners",
+    status: "Delivered",
+    images: ["https://res.cloudinary.com/delbjwwfy/image/upload/v1726067442/RCC_gmcwcu.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067364/RCC_5_jca9aw.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067406/RCC_2_ujakoy.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067365/RCC_4_d1m8zb.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067365/RCC_3_p7z7lt.png"],
+  },
+  {
+    title: "RCCG Banners",
+    status: "Delivered",
+    images: ["https://res.cloudinary.com/delbjwwfy/image/upload/v1726067442/RCC_gmcwcu.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067364/RCC_5_jca9aw.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067406/RCC_2_ujakoy.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067365/RCC_4_d1m8zb.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067365/RCC_3_p7z7lt.png"],
   },
   // Add more projects as needed
 ];
