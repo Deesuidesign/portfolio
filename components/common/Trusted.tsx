@@ -1,6 +1,6 @@
 // components/common/Trusted.js
 import Image from "next/image";
-import Jumia from "../../public/https://res.cloudinary.com/delbjwwfy/image/upload/v1726056708/iotms51iydugdan84vp0.png";
+import BaoBad Plus from "../../public/https://res.cloudinary.com/delbjwwfy/image/upload/v1726056450/lu6tcgjzvzbqjwoknooo.svg";
 import Spotify from "../../public/sportify.svg";
 import Zoom from "../../public/zoom.svg";
 import Slack from "../../public/slack.svg";
@@ -9,7 +9,7 @@ import Adobe from "../../public/adobe.svg";
 
 // Array of company logos
 const companies = [
-  { name: "Jumia", logo: Jumia },
+  { name: "BaoBad Plus", logo: BaoBad Plus },
   { name: "Spotify", logo: Spotify },
   { name: "Zoom", logo: Zoom },
   { name: "Slack", logo: Slack },
