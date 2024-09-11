@@ -15,24 +15,24 @@ const reviews = [
     description: "Product Manager, SG Scoot",
   },
   {
-    text: "The technical support and UI/UX design they delivered are top-notch, improving our customer retention significantly.",
-    name: "Amazon",
-    description: "AWS Cloud Solutions Architect",
+    text: "You were incredibly professional throughout the project. The design was delivered on time, and the process was smooth from start to finish. We really appreciate your dedication and responsiveness.",
+    name: "Afolabi Abiodun",
+    description: "CEO, Spark Xplorer",
   },
   {
-    text: "Working with them has been a great experience. They really understand user needs and deliver high-quality solutions.",
-    name: "Spotify",
-    description: "Music App Development Team",
+    text: "We are thrilled with the final design. It’s exactly what we wanted, and we’re excited to use it in our marketing materials. We look forward to working with you again!",
+    name: "Oluwafemi Kolawole",
+    description: "Human Resource Manager, Jumia Nigeria",
   },
   {
-    text: "Their attention to detail in UX design and SEO strategies boosted our traffic and sales enormously.",
-    name: "Adobe",
-    description: "Creative Cloud Team",
+    text: "The design is stunning! The visuals are crisp and vibrant, exactly what we were looking for. It’s clear that a lot of thought went into making the design visually compelling.",
+    name: "Hikmat Bakare",
+    description: "Human Resource Manager, BaoBad Plus",
   },
   {
-    text: "The results exceeded our expectations. They provide fast and reliable service.",
-    name: "Slack",
-    description: "Enterprise Communications",
+    text: "Communication throughout the project was excellent. You were open to our ideas and provided regular updates. It was a pleasure working with someone so responsive and professional.",
+    name: "Mrs. Abiodun-Akintola",
+    description: "Proprietress, Noble-Mind Schools",
   },
 ];
 
