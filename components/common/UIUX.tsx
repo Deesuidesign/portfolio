@@ -6,7 +6,7 @@ const projects = [
   {
     title: "Xotaxi Ride Hailing App Design",
     status: "Devevelopment Stage",
-    image: "/https://res.cloudinary.com/delbjwwfy/image/upload/v1726058331/uvaymw6lo5l0hiuqzel2.png", // Image path
+    image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726058331/uvaymw6lo5l0hiuqzel2.png", // Image path
   },
   {
     title: "StyleCart",
