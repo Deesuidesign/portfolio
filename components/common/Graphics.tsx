@@ -25,6 +25,16 @@ const projects = [
     status: "Delivered",
     images: ["https://res.cloudinary.com/delbjwwfy/image/upload/v1726067442/RCC_gmcwcu.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067364/RCC_5_jca9aw.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067406/RCC_2_ujakoy.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067365/RCC_4_d1m8zb.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067365/RCC_3_p7z7lt.png"],
   },
+   {
+    title: "RCCG Banners",
+    status: "Delivered",
+    images: ["https://res.cloudinary.com/delbjwwfy/image/upload/v1726067442/RCC_gmcwcu.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067364/RCC_5_jca9aw.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067406/RCC_2_ujakoy.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067365/RCC_4_d1m8zb.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067365/RCC_3_p7z7lt.png"],
+  },
+   {
+    title: "RCCG Banners",
+    status: "Delivered",
+    images: ["https://res.cloudinary.com/delbjwwfy/image/upload/v1726067442/RCC_gmcwcu.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067364/RCC_5_jca9aw.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067406/RCC_2_ujakoy.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067365/RCC_4_d1m8zb.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067365/RCC_3_p7z7lt.png"],
+  },
   // Add more projects as needed
 ];
 
