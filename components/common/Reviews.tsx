@@ -1,4 +1,6 @@
 // components/common/Reviews.js
+import Image from "next/image";
+import Avatar from "../../public/avatar.svg";
 
 // Array of reviews
 const reviews = [
