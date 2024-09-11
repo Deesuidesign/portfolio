@@ -6,14 +6,14 @@ import { Box } from "@mui/material";
 
 const projects = [
   {
-    title: "Jumia Website Revamped",
-    status: "Launched",
-    images: ["/project-1.png", "/project-2.png", "/project-3.png"],
+    title: "Loyal Milk Souvenirs Design",
+    status: "Delivered",
+    images: ["https://res.cloudinary.com/delbjwwfy/image/upload/v1726067436/Loya_Milk_hy71of.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067437/Loya_Milk_2_ltnvdg.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067437/Loya_Milk_2_ltnvdg.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067434/Loya_Milk_3_g04ndt.png"],
   },
   {
-    title: "Jumia App Revamped",
-    status: "Launched",
-    images: ["/project-2.png", "/project-3.png", "/project-1.png"],
+    title: "ZKTeco Marketing Material Design",
+    status: "Delivered",
+    images: ["https://res.cloudinary.com/delbjwwfy/image/upload/v1726067359/ZKTeco_drahkm.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067352/ZKTeco_6_ydiiuv.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067321/ZKTeco_7_jsmbw2.png, "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067366/ZKTeco_4_oyq5pc.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067358/ZKTeco_2_w8sjap.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067365/ZKTeco_3_h21lvl.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067366/ZKTeco_4_oyq5pc.png"],
   },
   {
     title: "TAMS Website Redesign",
