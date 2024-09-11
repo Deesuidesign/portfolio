@@ -15,6 +15,11 @@ const projects = [
     status: "Delivered",
     images: ["https://res.cloudinary.com/delbjwwfy/image/upload/v1726067359/ZKTeco_drahkm.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067352/ZKTeco_6_ydiiuv.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067321/ZKTeco_7_jsmbw2.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067366/ZKTeco_4_oyq5pc.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067358/ZKTeco_2_w8sjap.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067365/ZKTeco_3_h21lvl.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067366/ZKTeco_4_oyq5pc.png"],
   },
+ {
+    title: "BaoBad Plus Designs",
+    status: "Delivered",
+    images: ["https://res.cloudinary.com/delbjwwfy/image/upload/v1726070011/BaoBad_Plus_jxpoew.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726070010/BaoBad_Plus_3_o59ulq.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726070011/BaoBad_Plus_2_wry2t5.png"],
+  },
   {
     title: "RCCG Banners",
     status: "Delivered",
@@ -24,11 +29,6 @@ const projects = [
     title: "Noble-Mind Schools Yearbook designs",
     status: "Delivered",
     images: ["https://res.cloudinary.com/delbjwwfy/image/upload/v1726067444/Noble_mind_yearbook_2024_gw7yxg.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067443/Noble_mind_yearbook_2022_wak4ix.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067442/Noble_mind_yearbook_2019_uwn9n8.png"],
-  },
-   {
-    title: "BaoBad Plus Designs",
-    status: "Delivered",
-    images: ["https://res.cloudinary.com/delbjwwfy/image/upload/v1726070011/BaoBad_Plus_jxpoew.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726070010/BaoBad_Plus_3_o59ulq.png", "https://res.cloudinary.com/delbjwwfy/image/upload/v1726070011/BaoBad_Plus_2_wry2t5.png"],
   },
    {
     title: "Other brands designs",
