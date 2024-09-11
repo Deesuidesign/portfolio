@@ -1,6 +1,6 @@
 // components/common/Trusted.js
 import Image from "next/image";
-import Zapier from "../../public/https://res.cloudinary.com/delbjwwfy/image/upload/v1726056708/iotms51iydugdan84vp0.png";
+import Jumia from "../../public/https://res.cloudinary.com/delbjwwfy/image/upload/v1726056708/iotms51iydugdan84vp0.png";
 import Spotify from "../../public/sportify.svg";
 import Zoom from "../../public/zoom.svg";
 import Slack from "../../public/slack.svg";
