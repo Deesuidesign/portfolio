@@ -1,6 +1,6 @@
 // components/common/Trusted.js
 import Image from "next/image";
-import BaoBad Plus from "../../public/zoom.svg";
+import BaoBadPlus from "../../public/zoom.svg";
 import Spotify from "../../public/sportify.svg";
 import Zoom from "../../public/zoom.svg";
 import Slack from "../../public/slack.svg";
@@ -9,7 +9,7 @@ import Adobe from "../../public/adobe.svg";
 
 // Array of company logos
 const companies = [
-  { name: "BaoBad Plus", logo: BaoBad Plus },
+  { name: "BaoBadPlus", logo: BaoBadPlus },
   { name: "Spotify", logo: Spotify },
   { name: "Zoom", logo: Zoom },
   { name: "Slack", logo: Slack },
