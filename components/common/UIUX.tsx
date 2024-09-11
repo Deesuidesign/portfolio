@@ -9,9 +9,9 @@ const projects = [
     image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726051639/yy6m80cdczygxijoh6ig.png, // Image path
   },
   {
-    title: "Jumia App Redesign",
+    title: "Style Cart",
     status: "Launched",
-    image: "/project-2.png",
+    image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726052549/gnrf8qxtvwqbevqde01l.png",
   },
   {
     title: "TAMS Website Revamp",
