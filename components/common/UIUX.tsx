@@ -4,9 +4,9 @@ import Image from "next/image";
 // Array of project data
 const projects = [
   {
-    title: "FlowWave Fintech App",
+    title: "Xotaxi Ride Hailing App Design",
     status: "Devevelopment Stage",
-    image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726051639/yy6m80cdczygxijoh6ig.png, // Image path
+    image: "/https://res.cloudinary.com/delbjwwfy/image/upload/v1726058331/uvaymw6lo5l0hiuqzel2.png", // Image path
   },
   {
     title: "StyleCart",
