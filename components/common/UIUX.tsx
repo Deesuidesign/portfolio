@@ -9,7 +9,7 @@ const projects = [
     image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726051639/yy6m80cdczygxijoh6ig.png, // Image path
   },
   {
-    title: "Style Cart",
+    title: "StyleCart",
     status: "Launched",
     image: "/https://res.cloudinary.com/delbjwwfy/image/upload/v1726052549/gnrf8qxtvwqbevqde01l.png",
   },
