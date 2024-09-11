@@ -26,7 +26,7 @@ const Reviews = () => {
           set in Graphic Design, user research, wireframe development,
           microinteractions and UI design, I propel startups and large
           corporations towards success by designing the perfect digital
-          solutions.
+          solutions.......
         </p>
         <div className=" grid grid-cols-3 md:grid-cols-5 lg:grid-cols-6 gap-6 items-center">
           <div className="flex flex-col items-center justify-center">
