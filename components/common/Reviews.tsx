@@ -69,7 +69,7 @@ const Reviews = () => {
             </div>
             <p className="mt-5">{review.text}</p>
             <div className="flex mt-4 items-center space-x-3">
-              <Image src={Avatar} alt="avatar" />
+              {/* <Image src={Avatar} alt="avatar" /> */}
               <div className="">
                 <h3 className="font-bold">{review.name}</h3>
                 <p className="text-sm text-gray-500">{review.description}</p>

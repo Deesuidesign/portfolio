@@ -4,34 +4,40 @@ import Image from "next/image";
 // Array of project data
 const projects = [
   {
-    title: "Jumia Website Revamped",
+    title: "Xotaxi Ride Hailing App Design",
     status: "Launched",
-    image: "/project-1.png", // Image path
+    image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726058331/uvaymw6lo5l0hiuqzel2.png",
+    link: "https://www.behance.net/gallery/191870853/Xotaxi-A-Ride-hailing-app-Case-study",
   },
   {
-    title: "Jumia App Redesign",
+    title: "Flowwave Fintech App Design",
     status: "Launched",
-    image: "/project-2.png",
+    image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726051639/yy6m80cdczygxijoh6ig.png",
+    link: "https://www.behance.net/gallery/191419067/FlowWave-Fintech-App-Design",
   },
   {
-    title: "TAMS Website Revamp",
-    status: "Launched",
-    image: "/project-3.png",
+    title: "StyleCart Ecommerce App Design",
+    status: "Development Stage",
+    image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726052549/gnrf8qxtvwqbevqde01l.png",
+    link: "https://www.figma.com/proto/gfNvrjCS6lOTzsy2YAdSWL/Sneakers-UI?page-id=0%3A1&node-id=3-2446&node-type=frame&viewport=307%2C275%2C0.2&t=yvWHdNpPOlCtcUzo-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2",
   },
   {
-    title: "Jumia Website Revamped",
+    title: "Spark Bridges Website",
     status: "Launched",
-    image: "/project-1.png",
+    image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726059688/Spart_Bridges_Website_pw6byi.png",
+    link: "https://www.sparkbridges.com/",
   },
   {
-    title: "Jumia App Redesign",
+    title: "NGTeco E-Commerce Website",
     status: "Launched",
-    image: "/project-2.png",
+    image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726060568/NGTeco_ght9at.png",
+    link: "https://ngteco.ng/",
   },
   {
-    title: "TAMS Website Revamp",
-    status: "Launched",
-    image: "/project-3.png",
+    title: "SG Scoot App Design",
+    status: "Development Stage",
+    image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726062138/SG_Scoot_Mobile_App_nepvaz.png",
+    link: "https://www.figma.com/proto/XnNlcGJfRCa4i00VBQTCYQ/Scooter-app?page-id=0%3A1&node-id=6-3337&node-type=frame&viewport=931%2C408%2C0.36&t=7mzG3vZboe79OSkn-1&scaling=scale-down&content-scaling=fixed",
   },
 ];
 
@@ -52,24 +58,31 @@ const UIUX = () => {
       <div className="mt-6 grid md:grid-cols-2 lg:grid-cols-3 gap-12">
         {/* Loop through the projects array */}
         {projects.map((project, index) => (
-          <div key={index} className="bg-[#0B78F4] items-center">
-            <Image
-              className="w-full h-96 object-cover"
-              src={project.image} // Use image from the project array
-              alt={project.title}
-              width={300}
-              height={300}
-            />
+          <a
+            key={index}
+            href={project.link} // Link to the redirected URL
+            target="_blank" // Open in a new tab
+            rel="noopener noreferrer" // Security attribute
+          >
+            <div className="bg-[#0B78F4] items-center">
+              <Image
+                className="w-full h-96 object-cover"
+                src={project.image} // Use image from the project array
+                alt={project.title}
+                width={300}
+                height={300}
+              />
 
-            <div className="p-4">
-              <h3 className="font-bold text-white text-center text-2xl">
-                {project.title}
-              </h3>
-              <p className="font-semibold text-center text-[#190634]">
-                {project.status}
-              </p>
+              <div className="p-4">
+                <h3 className="font-bold text-white text-center text-xl">
+                  {project.title}
+                </h3>
+                <p className="font-semibold text-center text-[#190634]">
+                  {project.status}
+                </p>
+              </div>
             </div>
-          </div>
+          </a>
         ))}
       </div>
     </div>
