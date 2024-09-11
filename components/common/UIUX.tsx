@@ -6,7 +6,7 @@ const projects = [
   {
     title: "FlowWave Fintech App",
     status: "Devevelopment Stage",
-    image: "/https://res.cloudinary.com/delbjwwfy/image/upload/v1726051639/yy6m80cdczygxijoh6ig.png, // Image path
+    image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726051639/yy6m80cdczygxijoh6ig.png, // Image path
   },
   {
     title: "Style Cart",
