@@ -33,16 +33,6 @@ const projects = [
     status: "Development Stage",
     image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726062138/SG_Scoot_Mobile_App_nepvaz.png",
   },
-  {
-    title: "SG Scoot App Design",
-    status: "Development Stage",
-    image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726062138/SG_Scoot_Mobile_App_nepvaz.png",
-  },
-  {
-    title: "SG Scoot App Design",
-    status: "Development Stage",
-    image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726062138/SG_Scoot_Mobile_App_nepvaz.png",
-  },
 ];
 
 const UIUX = () => {
