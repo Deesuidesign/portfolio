@@ -5,14 +5,14 @@ import Avatar from "../../public/avatar.svg";
 // Array of reviews
 const reviews = [
   {
-    text: "We will also facilitate the business marketing of these products with our SEO experts so that they become a ready-to-use website & help sell the product from the company.",
-    name: "Google",
-    description: "Foundation of User Experience Design",
+    text: "The design is absolutely stunning! The creativity and attention to detail are impressive. The visuals are striking and really capture the essence of our brand.",
+    name: "Helen Davies",
+    description: "Product Manager, Flowwave Inc",
   },
   {
-    text: "Their services have been outstanding, and the platform they provided helped us reach new customers easily.",
-    name: "Microsoft",
-    description: "Azure Cloud Service Team",
+    text: "The design communicates our message clearly and effectively. The layout is clean, and the hierarchy of information is easy to follow. Our audience will have no trouble understanding what we’re about",
+    name: "Evans Thomas",
+    description: "Product Manager, SG Scoot",
   },
   {
     text: "The technical support and UI/UX design they delivered are top-notch, improving our customer retention significantly.",
