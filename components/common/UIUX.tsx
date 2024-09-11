@@ -6,7 +6,7 @@ const projects = [
   {
     title: "Jumia Website Revamped",
     status: "Launched",
-    image: "/project-1.png", // Image path
+    image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726049315/xmtm3l1i7tzudmqrgvth.png", // Image path
   },
   {
     title: "Jumia App Redesign",
