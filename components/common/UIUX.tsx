@@ -5,33 +5,33 @@ import Image from "next/image";
 const projects = [
   {
     title: "Xotaxi Ride Hailing App Design",
-    status: "Devevelopment Stage",
+    status: "Launched",
     image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726058331/uvaymw6lo5l0hiuqzel2.png", // Image path
   },
   {
-    title: "StyleCart",
+    title: "Flowwave Fintech App Design",
     status: "Launched",
-    image: "/https://res.cloudinary.com/delbjwwfy/image/upload/v1726052549/gnrf8qxtvwqbevqde01l.png",
+    image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726051639/yy6m80cdczygxijoh6ig.png",
   },
   {
-    title: "TAMS Website Revamp",
-    status: "Launched",
-    image: "/project-3.png",
+    title: "StyleCart Ecommerce Mobile App Design",
+    status: "Development Stage",
+    image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726052549/gnrf8qxtvwqbevqde01l.png",
   },
   {
-    title: "Jumia Website Revamped",
+    title: "Spark Bridges Website",
     status: "Launched",
-    image: "/project-1.png",
+    image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726059688/Spart_Bridges_Website_pw6byi.png",
   },
   {
-    title: "Jumia App Redesign",
+    title: "NGTeco E-Commerce Website",
     status: "Launched",
-    image: "/project-2.png",
+    image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726060568/NGTeco_ght9at.png",
   },
   {
-    title: "TAMS Website Revamp",
-    status: "Launched",
-    image: "/project-3.png",
+    title: "SG Scoot App Design",
+    status: "Development Stage",
+    image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726062138/SG_Scoot_Mobile_App_nepvaz.png",
   },
 ];
 
