@@ -14,6 +14,36 @@ const certifications = [
     description: "Design Thinking: Understanding the Process",
     url: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726084123/Design_Thinking_Understanding_the_Process_iagkas.png",
   },
+   {
+    logo: Google,
+    title: "LinkedIn Learning",
+    description: "Design Thinking: Understanding the Process",
+    url: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726084123/Design_Thinking_Understanding_the_Process_iagkas.png",
+  },
+   {
+    logo: Google,
+    title: "LinkedIn Learning",
+    description: "Design Thinking: Understanding the Process",
+    url: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726084123/Design_Thinking_Understanding_the_Process_iagkas.png",
+  },
+   {
+    logo: Google,
+    title: "LinkedIn Learning",
+    description: "Design Thinking: Understanding the Process",
+    url: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726084123/Design_Thinking_Understanding_the_Process_iagkas.png",
+  },
+   {
+    logo: Google,
+    title: "LinkedIn Learning",
+    description: "Design Thinking: Understanding the Process",
+    url: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726084123/Design_Thinking_Understanding_the_Process_iagkas.png",
+  },
+   {
+    logo: Google,
+    title: "LinkedIn Learning",
+    description: "Design Thinking: Understanding the Process",
+    url: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726084123/Design_Thinking_Understanding_the_Process_iagkas.png",
+  },
   // Add other certification objects...
 ];
 
