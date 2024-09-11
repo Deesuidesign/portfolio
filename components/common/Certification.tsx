@@ -10,9 +10,9 @@ import Button from "@mui/material/Button";
 const certifications = [
   {
     logo: Google,
-    title: "Google",
-    description: "Foundation of User Experience Design",
-    url: "https://miro.medium.com/v2/resize:fit:1055/1*ZuVqMhX5KyWa1_iIxA3jDA.png",
+    title: "LinkedIn Learning",
+    description: "Design Thinking: Understanding the Process",
+    url: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726084123/Design_Thinking_Understanding_the_Process_iagkas.png",
   },
   // Add other certification objects...
 ];
