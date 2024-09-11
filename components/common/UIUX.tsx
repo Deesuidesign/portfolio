@@ -4,9 +4,9 @@ import Image from "next/image";
 // Array of project data
 const projects = [
   {
-    title: "Jumia Website Revamped",
-    status: "Launched",
-    image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726049315/xmtm3l1i7tzudmqrgvth.png", // Image path
+    title: "FlowWave Fintech App",
+    status: "Devevelopment Stage",
+    image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726051639/yy6m80cdczygxijoh6ig.png, // Image path
   },
   {
     title: "Jumia App Redesign",
