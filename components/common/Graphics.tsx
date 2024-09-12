@@ -62,7 +62,7 @@ const projects = [
     images: [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067314/other_1_yoepsw.png", // Cover Image
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067320/SB_Telecoms_rweibw.png",
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067314/SB_Telecoms_5_tjwrag.png"
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067314/SB_Telecoms_5_tjwrag.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067318/SB_Telecoms_2_pyp8gz.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067312/other_4_bkfeoh.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067315/other_2_fnr4ni.png",
