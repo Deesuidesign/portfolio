@@ -22,9 +22,33 @@ const certifications = [
   },
    {
     logo: Google,
+    title: "Entry Level",
+    description: "UX Designer",
+    url: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726132958/UX_Designer_Level_1_pm1z1w.png",
+  },
+  {
+    logo: Google,
     title: "LinkedIn Learning",
-    description: "Design Thinking: Understanding the Process",
-    url: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726084123/Design_Thinking_Understanding_the_Process_iagkas.png",
+    description: "Adobe XD: Migrating from Sketch",
+    url: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726132955/Adobe_XD_Migrating_from_Sketch_rfvved.png",
+  },
+  {
+    logo: Google,
+    title: "Lynda",
+    description: "SEO Keyword Strategy",
+    url: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726132957/SEO_Keyword_Strategy_bkrmkq.png",
+  },
+  {
+    logo: Google,
+    title: "Lynda",
+    description: "Marketing Foundations Integrated Marketing Strategies",
+    url: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726132957/Marketing_Foundations_Integrated_Marketing_Strategies_btaqc6.png",
+  },
+   {
+    logo: Google,
+    title: "Harde Business School",
+    description: "Designing Irresistible Interfaces for Grand User Experiences",
+    url: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726132962/Designing_UIUX_with_Dexterity_Designing_Irresistible_Interfaces_for_Grand_User_Experiences_s3ntdx.png",
   },
   // Add other certification objects...
 ];
