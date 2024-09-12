@@ -61,10 +61,19 @@ const projects = [
     status: "Delivered",
     images: [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067314/other_1_yoepsw.png", // Cover Image
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067313/other_5_z7cofm.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067320/SB_Telecoms_rweibw.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067314/SB_Telecoms_5_tjwrag.png"
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067318/SB_Telecoms_2_pyp8gz.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067312/other_4_bkfeoh.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067315/other_2_fnr4ni.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067313/other_3_g3r2n2.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726068900/SB_Telecoms_7_svcipu.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067315/SB_Telecoms_4_nkhdyz.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067313/other_5_z7cofm.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067317/SB_Telecoms_3_mf4rvi.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067312/other_7_ghjlge.png",
+      
+      
     ],
   },
 ];
