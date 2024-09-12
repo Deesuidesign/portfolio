@@ -56,6 +56,12 @@ const certifications = [
     description: "Complete Web & Mobile Designer",
     url: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726134219/Complete_Web_Mobile_Designer_in_2023_UIUX_Figma_and_more_elpxgm.png",
   },
+   {
+    logo: Google,
+    title: "LinkedIn Learning",
+    description: "Debbie Millman on Branding Design",
+    url: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726134510/Debbie_Millman_on_Branding_Design_cer_wxl6fc.png",
+  },
   // Add other certification objects...
 ];
 
