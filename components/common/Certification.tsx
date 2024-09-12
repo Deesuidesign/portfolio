@@ -50,6 +50,12 @@ const certifications = [
     description: "Designing Irresistible Interfaces for Grand User Experiences",
     url: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726132962/Designing_UIUX_with_Dexterity_Designing_Irresistible_Interfaces_for_Grand_User_Experiences_s3ntdx.png",
   },
+  {
+    logo: Google,
+    title: "Udemy",
+    description: "Complete Web & Mobile Designer",
+    url: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726134219/Complete_Web_Mobile_Designer_in_2023_UIUX_Figma_and_more_elpxgm.png",
+  },
   // Add other certification objects...
 ];
 
