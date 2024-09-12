@@ -21,7 +21,7 @@ const Trusted = () => {
     <div className="my-20" id="trusted">
       <div className="flex justify-center items-center">
         <div className="text-white border-2 border-[#0B78F4] w-fit px-7 font-semibold py-3 rounded-3xl">
-          Trusted By 10+ Companies
+          Trusted By 50+ Companies
         </div>
       </div>
 
