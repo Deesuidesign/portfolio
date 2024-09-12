@@ -10,7 +10,7 @@ const projects = [
     title: "Loyal Milk Souvenirs Design",
     status: "Delivered",
     images: [
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067436/Loya_Milk_hy71of.png", // Cover Image
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726079685/Loya_Milk_1_dyp83u.png", // Cover Image
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067437/Loya_Milk_2_ltnvdg.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067434/Loya_Milk_3_g04ndt.png",
     ],
@@ -31,7 +31,7 @@ const projects = [
     title: "RCCG Banners",
     status: "Delivered",
     images: [
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067442/RCC_gmcwcu.png", // Cover Image
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726079910/RCC_23_cwwj0j.png", // Cover Image
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067364/RCC_5_jca9aw.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067406/RCC_2_ujakoy.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067365/RCC_4_d1m8zb.png",
