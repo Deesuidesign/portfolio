@@ -10,7 +10,7 @@ const companies = [
   { name: "FlowWave Inc", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726056451/n4jr30qmompcmywolfla.svg" },
   { name: "Spark Xplorer", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726056455/ucupwtrkswhk3yiligvi.svg" },
   { name: "1401 Apartment", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726056449/t18vxcz2dohrhsq0qd2w.svg" },
-  { name: "Noble Mind", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726056451/ytl0j6sgamls9fq1qelw.svg" },
+  { name: "TSL Logistic", logo: "https://tsllimited.com/wp-content/uploads/2018/11/TSL-Limited-Logo.png" },
   { name: "Riverdean", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726056452/bvhbfbilhh8ufthx2gma.svg" },
   { name: "SB Telecoms", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726056453/y1j3ljfisbquayj4r2z9.svg" },
   { name: "Living", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726056451/cvbojlojfuqygoqrrc8v.svg" },
