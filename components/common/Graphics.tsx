@@ -46,6 +46,15 @@ const projects = [
     ],
   },
     {
+    title: "Roducate Designs",
+    status: "Delivered",
+    images: [
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726216820/Roducate_rf58hi.png", // Cover Image
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726216818/Roducate_2_wbgqsp.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726216818/Roducate_3_rgk4uv.png",
+    ],
+  },
+  {
     title: "RCCG Banners",
     status: "Delivered",
     images: [
@@ -54,15 +63,6 @@ const projects = [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067406/RCC_2_ujakoy.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067365/RCC_4_d1m8zb.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067365/RCC_3_p7z7lt.png",
-    ],
-  },
-    {
-    title: "Roducate Designs",
-    status: "Delivered",
-    images: [
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726216820/Roducate_rf58hi.png", // Cover Image
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726216818/Roducate_2_wbgqsp.png",
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726216818/Roducate_3_rgk4uv.png",
     ],
   },
    {
