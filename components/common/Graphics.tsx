@@ -66,6 +66,18 @@ const projects = [
     ],
   },
    {
+    title: "SB Telecoms Design",
+    status: "Delivered",
+    images: [
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067320/SB_Telecoms_rweibw.png", // Cover Image
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067318/SB_Telecoms_2_pyp8gz.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067314/SB_Telecoms_5_tjwrag.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067315/SB_Telecoms_4_nkhdyz.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067315/SB_Telecoms_6_eale72.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067317/SB_Telecoms_3_mf4rvi.png",
+    ],
+  },
+   {
     title: "Other Brands Design",
     status: "Delivered",
     images: [
