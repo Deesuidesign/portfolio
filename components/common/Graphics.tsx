@@ -79,6 +79,22 @@ const projects = [
     ],
   },
    {
+    title: " Brands Logo Design",
+    status: "Delivered",
+    images: [
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726218964/Sprout_logo_nnvjug.png", // Cover Image
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726218992/isource_e_trwe6i.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726218986/bavms_fczpj0.png"
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726219327/BioTime_Africa_clcdzj.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726219324/Securetech_vv2gau.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726219169/Xplorer_hhk2ik.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726219027/wearhouse_pj1lnz.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726219007/Untitled-2gfryty_di95sq.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726219118/Schoolprnuer_logo_i0hf5j.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726218994/The_Service_hhqgeu.png",
+    ],
+  },
+  {
     title: "Other Brands Design",
     status: "Delivered",
     images: [
