@@ -5,7 +5,7 @@ import Illustrator from "../../public/illustrator.png";
 import Photoshop from "../../public/photoshot.png";
 import Premier from "../../public/premier.png";
 import Corel from "../../public/corel.png";
-import Service from "../../public/service-illustration.png";
+import Service from "../../public/service.png";
 import Link from "next/link";
 
 
