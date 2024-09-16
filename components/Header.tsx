@@ -13,7 +13,10 @@ const Header: React.FC = () => {
   return (
     <header className="max-w-screen-2xl mx-auto bg-[#190634] left-0 right-0 w-full fixed text-white z-50">
       <div className="lg:hidden mt-4 flex justify-between items-center px-4 py-2">
-        <Image src={Logo} alt="Logo" className="h-7 w-14 object-contain" />
+        <Link href="/">
+          <Image src={Logo} alt="Logo" className="h-7 w-14 object-contain" />
+        </Link>
+
         <svg
           onClick={handleMobileMenuToggle}
           xmlns="http://www.w3.org/2000/svg"
@@ -67,7 +70,10 @@ const Header: React.FC = () => {
       </nav>
       <div className="hidden lg:flex items-center px-4 py-2">
         <div className="flex w-full mt-4 justify-between items-center">
-          <Image src={Logo} alt="Logo" className="h-14 w-36 object-contain" />
+          <Link href="/">
+            <Image src={Logo} alt="Logo" className="h-14 w-36 object-contain" />
+          </Link>
+
           <nav>
             <ul className="flex items-center space-x-14 font-semibold">
               <li>
