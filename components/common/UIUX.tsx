@@ -48,7 +48,7 @@ const UIUX = () => {
         <span>UI/UX Portfolio</span>
       </div>
       <h2 className="mt-4 text-white text-3xl md:text-4xl font-semibold">
-        My UI/UX Latest <span className="text-[#0B78F4]">Projects</span>
+        My Latest UI/UX <span className="text-[#0B78F4]">Projects</span>
       </h2>
       <p className="text-white my-3 opacity-85">
         I have selected and mentioned here some of my latest projects to share
