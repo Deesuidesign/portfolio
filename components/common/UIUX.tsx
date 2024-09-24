@@ -39,6 +39,12 @@ const projects = [
     image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726062138/SG_Scoot_Mobile_App_nepvaz.png",
     link: "https://www.figma.com/proto/XnNlcGJfRCa4i00VBQTCYQ/Scooter-app?page-id=0%3A1&node-id=6-3337&node-type=frame&viewport=931%2C408%2C0.36&t=7mzG3vZboe79OSkn-1&scaling=scale-down&content-scaling=fixed",
   },
+   {
+    title: "Car Hire/Rental Animated Homepage",
+    status: "Resources",
+    image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1727169710/Animated_Website_txzgq8.png",
+    link: "https://www.figma.com/proto/vQCbzL7xxUURsAhzDHp1uH/Car-Rental?page-id=0%3A1&node-id=8-620&node-type=frame&viewport=763%2C383%2C0.08&t=VC0CM66uftlA7Vvz-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A2",
+  },
 ];
 
 const UIUX = () => {
