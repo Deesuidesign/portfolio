@@ -16,16 +16,22 @@ const projects = [
     link: "https://www.behance.net/gallery/191419067/FlowWave-Fintech-App-Design",
   },
   {
-    title: "HomeOptions App Design",
+    title: "Home Options App Design",
     status: "Development Stage",
     image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1727174764/Capturerewewewewe_fjr1ia.png",
     link: "https://www.figma.com/proto/ObKlv5lEfuk0EznE9aJNMC/Home-Options-App-Design?page-id=0%3A1&node-id=15-567&node-type=frame&viewport=943%2C315%2C0.36&t=X4VhNApiSJtT9Nsd-1&scaling=scale-down&content-scaling=fixed",
   },
   {
     title: "Spark Bridges Website",
-    status: "Launched",
+    status: "Live",
     image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726059688/Spart_Bridges_Website_pw6byi.png",
     link: "https://www.sparkbridges.com/",
+  },
+  {
+    title: "ZKDigimax Website",
+    status: "Live",
+    image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1727177789/Capturelpoioioi_ruykwt.png",
+    link: "https://www.zkdigimax.com/",
   },
   {
     title: "StyleCart Ecommerce App Design",
@@ -35,7 +41,7 @@ const projects = [
   },
   {
     title: "NGTeco E-Commerce Website",
-    status: "Launched",
+    status: "Live",
     image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726060568/NGTeco_ght9at.png",
     link: "https://ngteco.ng/",
   },
