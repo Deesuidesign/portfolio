@@ -46,6 +46,12 @@ const projects = [
     link: "https://www.figma.com/proto/XnNlcGJfRCa4i00VBQTCYQ/Scooter-app?page-id=0%3A1&node-id=6-3337&node-type=frame&viewport=931%2C408%2C0.36&t=7mzG3vZboe79OSkn-1&scaling=scale-down&content-scaling=fixed",
   },
    {
+    title: "Bigi Animated Mobile App Design",
+    status: "",
+    image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1727175334/Capturerfdfdf_ft7dbe.png",
+    link: "https://www.figma.com/proto/BO3h7OYGcjPixyin9yW2SZ/Bigi-Mobile-App?page-id=0%3A1&node-id=5-252&node-type=frame&viewport=924%2C432%2C0.29&t=pLF4TZY8vk2AGd40-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=2%3A45",
+  },
+   {
     title: "Car Hire/Rental Animated Homepage",
     status: "",
     image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1727169710/Animated_Website_txzgq8.png",
