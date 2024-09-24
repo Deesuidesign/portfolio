@@ -16,10 +16,10 @@ const projects = [
     link: "https://www.behance.net/gallery/191419067/FlowWave-Fintech-App-Design",
   },
   {
-    title: "StyleCart Ecommerce App Design",
+    title: "HomeOptions App Design",
     status: "Development Stage",
-    image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726052549/gnrf8qxtvwqbevqde01l.png",
-    link: "https://www.figma.com/proto/gfNvrjCS6lOTzsy2YAdSWL/Sneakers-UI?page-id=0%3A1&node-id=3-2446&node-type=frame&viewport=307%2C275%2C0.2&t=yvWHdNpPOlCtcUzo-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2",
+    image: "https://www.figma.com/proto/ObKlv5lEfuk0EznE9aJNMC/Home-Options-App-Design?page-id=0%3A1&node-id=15-567&node-type=frame&viewport=943%2C315%2C0.36&t=X4VhNApiSJtT9Nsd-1&scaling=scale-down&content-scaling=fixed",
+    link: "https://ngteco.ng/",
   },
   {
     title: "Spark Bridges Website",
@@ -28,10 +28,10 @@ const projects = [
     link: "https://www.sparkbridges.com/",
   },
   {
-    title: "HomeOptions App Design",
+    title: "StyleCart Ecommerce App Design",
     status: "Development Stage",
-    image: "https://www.figma.com/proto/ObKlv5lEfuk0EznE9aJNMC/Home-Options-App-Design?page-id=0%3A1&node-id=15-567&node-type=frame&viewport=943%2C315%2C0.36&t=X4VhNApiSJtT9Nsd-1&scaling=scale-down&content-scaling=fixed",
-    link: "https://ngteco.ng/",
+    image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726052549/gnrf8qxtvwqbevqde01l.png",
+    link: "https://www.figma.com/proto/gfNvrjCS6lOTzsy2YAdSWL/Sneakers-UI?page-id=0%3A1&node-id=3-2446&node-type=frame&viewport=307%2C275%2C0.2&t=yvWHdNpPOlCtcUzo-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2",
   },
   {
     title: "NGTeco E-Commerce Website",
