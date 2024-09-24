@@ -45,6 +45,12 @@ const projects = [
     image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1727169710/Animated_Website_txzgq8.png",
     link: "https://www.figma.com/proto/vQCbzL7xxUURsAhzDHp1uH/Car-Rental?page-id=0%3A1&node-id=8-620&node-type=frame&viewport=763%2C383%2C0.08&t=VC0CM66uftlA7Vvz-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A2",
   },
+  {
+    title: "Animated Gaming Hompeage Website",
+    status: "Resources",
+    image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1727172865/Gaming_Website_bixllu.png",
+    link: "https://www.figma.com/proto/onz2RjvPiQ01huayNMZsrp/Crest-Gaming-Website?page-id=0%3A1&node-id=5-646&node-type=frame&viewport=224%2C215%2C0.16&t=5cFMk3wDyRrjsXs2-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=5%3A269",
+  },
 ];
 
 const UIUX = () => {
