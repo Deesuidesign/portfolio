@@ -4,6 +4,12 @@ import Image from "next/image";
 // Array of project data
 const projects = [
   {
+    title: "Home Options App Design",
+    status: "Development Stage",
+    image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1727174764/Capturerewewewewe_fjr1ia.png",
+    link: "https://www.figma.com/proto/ObKlv5lEfuk0EznE9aJNMC/Home-Options-App-Design?page-id=0%3A1&node-id=15-567&node-type=frame&viewport=943%2C315%2C0.36&t=X4VhNApiSJtT9Nsd-1&scaling=scale-down&content-scaling=fixed",
+  },
+  {
     title: "Xotaxi Ride Hailing App Design",
     status: "Launched",
     image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726058331/uvaymw6lo5l0hiuqzel2.png",
@@ -14,12 +20,6 @@ const projects = [
     status: "Launched",
     image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726051639/yy6m80cdczygxijoh6ig.png",
     link: "https://www.behance.net/gallery/191419067/FlowWave-Fintech-App-Design",
-  },
-  {
-    title: "Home Options App Design",
-    status: "Development Stage",
-    image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1727174764/Capturerewewewewe_fjr1ia.png",
-    link: "https://www.figma.com/proto/ObKlv5lEfuk0EznE9aJNMC/Home-Options-App-Design?page-id=0%3A1&node-id=15-567&node-type=frame&viewport=943%2C315%2C0.36&t=X4VhNApiSJtT9Nsd-1&scaling=scale-down&content-scaling=fixed",
   },
   {
     title: "Spark Bridges Website",
