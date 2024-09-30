@@ -21,7 +21,7 @@ const Reviews = () => {
           <span className="text-[#0B78F4]">Projects</span>
         </h2>
         <p className="text-white md:w-5/6 opacity-85 leading-loose font-normal my-3">
-          I am a Graphic & Product Designer with a keen eye for user-centered,
+          I am a Product & Graphic Designer with a keen eye for user-centered,
           intuitive, and visually stimulating designs. With my distinct skill
           set in Graphic Design, user research, wireframe development,
           microinteractions and UI design, I propel startups and large
