@@ -1,9 +1,3 @@
-// components/common/Certificate.js
-import Image from "next/image";
-import Avatar from "../../public/avatar.svg";
-import Phone from "../../public/phone.svg";
-import Email from "../../public/email.svg";
-import Location from "../../public/location.svg";
 import React, { useState } from "react";
 import { styled } from "@mui/material/styles";
 import {
@@ -13,6 +7,10 @@ import {
   Slider,
   Button,
 } from "@mui/material";
+import Image from "next/image";
+import Phone from "../../public/phone.svg";
+import Email from "../../public/email.svg";
+import Location from "../../public/location.svg";
 
 const CssTextField = styled(TextField)({
   "& label": {
@@ -63,6 +61,8 @@ const ContactForm = () => {
     message: false,
   });
 
+  const [isLoading, setIsLoading] = useState(false); // Loading state
+
   const handleSliderChange = (event: any, newValue: any) => {
     setFormData({ ...formData, budget: newValue });
   };
@@ -104,28 +104,63 @@ const ContactForm = () => {
 
   const handleSubmit = async () => {
     if (validateForm()) {
-      const telegramBotToken = "YOUR_TELEGRAM_BOT_TOKEN";
-      const chatId = "YOUR_TELEGRAM_CHAT_ID";
+      setIsLoading(true); // Start loading
       const text = `New Contact Form Submission:\n\n
-      Full Name: ${formData.fullName}\n
-      Email: ${formData.email}\n
-      Services: ${formData.services.uiUx ? "UI/UX Design, " : ""}${
+        Full Name: ${formData.fullName}\n
+        Email: ${formData.email}\n
+        Services: ${formData.services.uiUx ? "UI/UX Design, " : ""}${
         formData.services.digitalMarketing ? "Digital Marketing, " : ""
       }${formData.services.graphicDesign ? "Graphic Design, " : ""}${
         formData.services.others ? "Others" : ""
       }\n
-      Budget: ${formData.budget[0]} - ${formData.budget[1]}\n
-      Message: ${formData.message}`;
+        Budget: ${formData.budget[0]} - ${formData.budget[1]}\n
+        Message: ${formData.message}`;
 
-      const url = `https://api.telegram.org/bot${telegramBotToken}/sendMessage?chat_id=${chatId}&text=${encodeURIComponent(
-        text
-      )}`;
+      let data = {
+        service_id: "service_spvu31h",
+        template_id: "template_df8wned",
+        user_id: "0nF7lAtQJ72WHIN4M",
+        template_params: {
+          from_name: "Taiwo Ademola Website",
+          contact_form: text,
+          reply_to: "hello@taiwoademola.com",
+        },
+      };
+
+      const url = "https://api.emailjs.com/api/v1.0/email/send";
 
       try {
-        await fetch(url);
-        alert("Message sent successfully!");
+        const response = await fetch(url, {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify(data),
+        });
+
+        if (response.ok) {
+          alert("Message sent successfully!");
+          // Clear form after submission
+          setFormData({
+            fullName: "",
+            email: "",
+            services: {
+              uiUx: false,
+              digitalMarketing: false,
+              graphicDesign: false,
+              others: false,
+            },
+            budget: [100, 1000],
+            message: "",
+          });
+        } else {
+          alert("Failed to send message!");
+        }
       } catch (error) {
-        alert("Failed to send message!");
+        alert("An error occurred while sending the message.");
+        console.error(error);
+      } finally {
+        setIsLoading(false); // End loading
       }
     }
   };
@@ -133,55 +168,12 @@ const ContactForm = () => {
   return (
     <div className="my-30 flex justify-center items-center" id="contact">
       <div className="md:w-4/6 flex flex-col justify-center items-center">
-        <div className="ellipse flex justify-center items-center">
-          <span>Contact</span>
-        </div>
+        {/* Contact Form */}
         <h2 className="mt-4 text-white text-4xl font-semibold">
-          Let’s Discuss Your
-          <span className="text-[#0B78F4]"> Project</span>
+          Let’s Discuss Your Project
         </h2>
-        <p className="my-3 text-white">
-          Let’s make something new, different and more meaningful or make thing
-          more visual or conceptual
-        </p>
 
-        <div className="mt-6 w-full grid md:grid-cols-3 gap-10">
-          <div className="p-6 flex items-center bg-[#6EBFF439] rounded-2xl space-x-3">
-            <div className="p-4 w-fit rounded-xl bg-[#0B78F4]">
-              <Image src={Phone} alt="" />
-            </div>
-            <div>
-              <h4 className="text-[#0B78F4] mb-2 font-bold">Call me</h4>
-              <p className="text-white">+234 806 834 3889</p>
-              <p className="text-white">+234 818 175 4074</p>
-            </div>
-          </div>
-          <div className="p-6 flex items-center bg-[#6EBFF439] rounded-2xl space-x-3">
-            <div className="p-4 w-[56p  rounded-xl bg-[#0B78F4]">
-              <Image src={Email} alt="" />
-            </div>
-            <div className="w-4/6">
-              <h4 className="text-[#0B78F4] mb-2 font-bold">Email me</h4>
-              <p className="text-white break-words">hello@taiwoademola.com</p>
-            </div>
-          </div>
-          <div className="p-6 flex items-center bg-[#6EBFF439] rounded-2xl space-x-3">
-            <div className="p-4 w-fit rounded-xl bg-[#0B78F4]">
-              <Image src={Location} alt="" />
-            </div>
-            <div>
-              <h4 className="text-[#0B78F4] mb-2 font-bold">Address</h4>
-              <p className="text-white">Lagos, Nigeria</p>
-            </div>
-          </div>
-        </div>
-
-        <div className="flex items-center mt-20 justify-center w-full my-4">
-          <hr className="w-full border border-white" />
-          <span className="px-3 text-white">OR</span>
-          <hr className="w-full border border-white" />
-        </div>
-
+        {/* Form Fields */}
         <div className="my-5 w-full">
           {/* Full Name and Email */}
           <div className="md:flex flex-col md:flex-row w-full space-y-4 md:space-y-0 md:space-x-4">
@@ -213,9 +205,7 @@ const ContactForm = () => {
 
           {/* Services */}
           <div className="mt-10 text-white bg-[#6EBFF439] px-5 md:px-10 py-7 items-start rounded-xl">
-            <p className="font-semibold text-lg mb-4">
-              Why are you contacting me?
-            </p>
+            <p className="font-semibold text-lg mb-4">Why are you contacting me?</p>
             <div className="flex flex-wrap">
               <FormControlLabel
                 control={
@@ -267,14 +257,12 @@ const ContactForm = () => {
           {/* Budget */}
           <div className="mt-10 text-white bg-[#6EBFF439] px-5 md:px-10 py-7 items-start rounded-xl">
             <p className="font-semibold text-lg mb-4">Your Budget($)</p>
-            <p className=" mb-10">Slide to indicate your budget range</p>
             <Slider
               value={formData.budget}
               onChange={handleSliderChange}
               valueLabelDisplay="auto"
               min={100}
               max={10000}
-              className=""
             />
           </div>
 
@@ -292,25 +280,19 @@ const ContactForm = () => {
               onChange={handleChange}
               error={errors.message}
               helperText={errors.message && "Message is required"}
-              className="rounded-lg"
             />
           </div>
 
           {/* Submit Button */}
-          <div className="w-full pt-4">
-            {/* <Button
-              variant="contained"
-              color="primary"
-              className="w-full"
-              onClick={handleSubmit}
-            >
-              Submit
-            </Button> */}
+          <div className="mt-8 w-full flex justify-center">
+          
+
             <button
               onClick={handleSubmit}
+              disabled={isLoading}
               className="bg-[#0B78F4] w-full justify-center text-white mt-6 font-bold flex items-center rounded-3xl px-8 py-4"
             >
-              Submit{" "}
+              {isLoading ? "Sending..." : "Send Message"}
               <svg
                 className="ml-3"
                 width="16"
