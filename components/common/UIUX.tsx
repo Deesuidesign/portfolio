@@ -21,6 +21,12 @@ const projects = [
     image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726062138/SG_Scoot_Mobile_App_nepvaz.png",
     link: "https://www.figma.com/proto/XnNlcGJfRCa4i00VBQTCYQ/Scooter-app?page-id=0%3A1&node-id=6-3337&node-type=frame&viewport=931%2C408%2C0.36&t=7mzG3vZboe79OSkn-1&scaling=scale-down&content-scaling=fixed",
   },
+ {
+    title: "Xotaxi Ride Hailing App Design",
+    status: "Launched",
+    image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726058331/uvaymw6lo5l0hiuqzel2.png",
+    link: "https://www.behance.net/gallery/191870853/Xotaxi-A-Ride-hailing-app-Case-study",
+  },
   {
     title: "Flowwave Fintech App Design",
     status: "Launched",
@@ -28,16 +34,16 @@ const projects = [
     link: "https://www.behance.net/gallery/191419067/FlowWave-Fintech-App-Design",
   },
   {
-    title: "Spark Bridges Website",
-    status: "Live",
-    image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726059688/Spart_Bridges_Website_pw6byi.png",
-    link: "https://www.sparkbridges.com/",
-  },
-  {
     title: "ZKDigimax Website",
     status: "Live",
     image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1727177789/Capturelpoioioi_ruykwt.png",
     link: "https://www.zkdigimax.com/",
+  },
+  {
+    title: "Spark Bridges Website",
+    status: "Live",
+    image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726059688/Spart_Bridges_Website_pw6byi.png",
+    link: "https://www.sparkbridges.com/",
   },
   {
     title: "StyleCart Ecommerce App Design",
@@ -50,12 +56,6 @@ const projects = [
     status: "Live",
     image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726060568/NGTeco_ght9at.png",
     link: "https://ngteco.ng/",
-  },
-  {
-    title: "Xotaxi Ride Hailing App Design",
-    status: "Launched",
-    image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726058331/uvaymw6lo5l0hiuqzel2.png",
-    link: "https://www.behance.net/gallery/191870853/Xotaxi-A-Ride-hailing-app-Case-study",
   },
    {
     title: "Bigi Animated Mobile App Design",
