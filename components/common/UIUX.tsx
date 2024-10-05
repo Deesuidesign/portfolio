@@ -4,6 +4,12 @@ import Image from "next/image";
 // Array of project data
 const projects = [
   {
+    title: "Xplorer Edtech Platform Design",
+    status: "Live",
+    image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1728145097/Capturetrerer_cldsww.png",
+    link: "https://www.sparkxplorer.com/",
+  },
+  {
     title: "Home Options App Design",
     status: "Development Stage",
     image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1727174764/Capturerewewewewe_fjr1ia.png",
