@@ -138,7 +138,7 @@ const Graphics = () => {
   return (
     <div className="my-32" id="graphics">
       <div className="ellipse flex justify-center items-center">
-        <span>Graphics Portfolio</span>
+        <span>Graphics Portfolios</span>
       </div>
       <h2 className="mt-4 text-white text-3xl md:text-4xl font-semibold">
         My Latest Graphics Design <span className="text-[#0B78F4]">Projects</span>
