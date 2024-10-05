@@ -28,7 +28,7 @@ const projects = [
     link: "https://www.behance.net/gallery/191870853/Xotaxi-A-Ride-hailing-app-Case-study",
   },
   {
-    title: "Flowwave Fintech App Design",
+    title: "FlowWave FinTech App Design",
     status: "Launched",
     image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726051639/yy6m80cdczygxijoh6ig.png",
     link: "https://www.behance.net/gallery/191419067/FlowWave-Fintech-App-Design",
