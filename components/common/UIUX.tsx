@@ -13,7 +13,6 @@ const projects = [
     title: "Home Options App Design",
     status: "Development Stage",
     image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1728397724/CaptureTEERR_nuuiyy.png",
-    link: "",
   },
    {
     title: "SG Scoot App Design",
