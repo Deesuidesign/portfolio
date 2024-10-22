@@ -18,7 +18,7 @@ const projects = [
     title: "SG Scoot App Design",
     status: "Launched",
     image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726062138/SG_Scoot_Mobile_App_nepvaz.png",
-    link: "https://www.figma.com/proto/XnNlcGJfRCa4i00VBQTCYQ/Scooter-app?page-id=0%3A1&node-id=6-3337&node-type=frame&viewport=931%2C408%2C0.36&t=7mzG3vZboe79OSkn-1&scaling=scale-down&content-scaling=fixed",
+    link: "https://www.instagram.com/p/C3w86B3tOwW/",
   },
   {
     title: "Bondle Dating App Design",
@@ -30,13 +30,13 @@ const projects = [
     title: "Xotaxi Ride Hailing App Design",
     status: "Launched",
     image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726058331/uvaymw6lo5l0hiuqzel2.png",
-    link: "https://www.behance.net/gallery/191870853/Xotaxi-A-Ride-hailing-app-Case-study",
+    link: "https://www.instagram.com/p/C11_YaTN79y/",
   },
   {
     title: "FlowWave FinTech App Design",
     status: "Launched",
     image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726051639/yy6m80cdczygxijoh6ig.png",
-    link: "https://www.behance.net/gallery/191419067/FlowWave-Fintech-App-Design",
+    link: "https://www.instagram.com/p/C0T_Pgwov_P/",
   },
   {
     title: "ZKDigimax Website",
@@ -66,25 +66,25 @@ const projects = [
     title: "Bigi Animated Mobile App Design",
     status: "",
     image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1727175334/Capturerfdfdf_ft7dbe.png",
-    link: "https://www.figma.com/proto/BO3h7OYGcjPixyin9yW2SZ/Bigi-Mobile-App?page-id=0%3A1&node-id=5-252&node-type=frame&viewport=924%2C432%2C0.29&t=pLF4TZY8vk2AGd40-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=2%3A45",
+    link: "https://www.instagram.com/p/C3PqTGlN2kj/",
   },
    {
     title: "Car Hire/Rental Animated Homepage",
     status: "",
     image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1727169710/Animated_Website_txzgq8.png",
-    link: "https://www.figma.com/proto/vQCbzL7xxUURsAhzDHp1uH/Car-Rental?page-id=0%3A1&node-id=8-620&node-type=frame&viewport=763%2C383%2C0.08&t=VC0CM66uftlA7Vvz-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A2",
+    link: "https://www.instagram.com/p/C29vho5Nlsd/",
   },
   {
     title: "Animated Gaming Hompeage Website",
     status: "",
     image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1727172865/Gaming_Website_bixllu.png",
-    link: "https://www.figma.com/proto/onz2RjvPiQ01huayNMZsrp/Crest-Gaming-Website?page-id=0%3A1&node-id=5-646&node-type=frame&viewport=224%2C215%2C0.16&t=5cFMk3wDyRrjsXs2-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=5%3A269",
+    link: "https://www.instagram.com/p/C2FebNqN2iH/",
   },
   {
     title: "Morning Mart Animated Homepage",
     status: "",
     image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1727176430/Capturefererer_e0nzpm.png",
-    link: "https://www.figma.com/proto/TCfVWWqKdlAMQGsHiGDcIE/Lays-Website-Animated-Landing-Page-Design?page-id=0%3A1&node-id=1-2&node-type=frame&viewport=1038%2C395%2C0.32&t=SDTGj5Z3CwAHRv2i-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2",
+    link: "https://www.instagram.com/p/C0MR9biobsw/",
   },
 ];
 
