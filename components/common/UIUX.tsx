@@ -20,6 +20,12 @@ const projects = [
     image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726062138/SG_Scoot_Mobile_App_nepvaz.png",
     link: "https://www.figma.com/proto/XnNlcGJfRCa4i00VBQTCYQ/Scooter-app?page-id=0%3A1&node-id=6-3337&node-type=frame&viewport=931%2C408%2C0.36&t=7mzG3vZboe79OSkn-1&scaling=scale-down&content-scaling=fixed",
   },
+  {
+    title: "Bondle Dating App Design",
+    status: "Development Stage",
+    image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1729586808/Capturegrrtrt_kqtrhp.png",
+    link: "https://www.instagram.com/p/DA3ZeSEIsh7/",
+  },
  {
     title: "Xotaxi Ride Hailing App Design",
     status: "Launched",
