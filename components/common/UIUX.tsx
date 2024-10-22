@@ -5,7 +5,7 @@ import Image from "next/image";
 const projects = [
   {
     title: "Xplorer EdTech Platform Design",
-    status: "Live",
+    status: "Spark Xploerer is an online or digital service that provides educational content, tools, and resources to facilitate learning and teaching",
     image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1728145480/Capturetrererre_fjipre.png",
     link: "https://www.sparkxplorer.com/",
   },
