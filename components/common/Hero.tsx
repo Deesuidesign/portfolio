@@ -28,7 +28,7 @@ const Hero = () => {
           <span className="text-[#0B78F4] ml-2 ellipse-2">Cover</span>...
         </div>
         <p className="my-5 text-xl text-white font-semibold">
-          Because if the cover does not impress you what else can?
+          Because if the cover does not impress you, what else can?
         </p>
 
         <div className="md:flex mt-10 md:space-x-4">
