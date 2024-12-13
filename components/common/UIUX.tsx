@@ -26,6 +26,12 @@ const projects = [
     image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1729586808/Capturegrrtrt_kqtrhp.png",
     link: "https://www.instagram.com/p/DA3ZeSEIsh7/",
   },
+  {
+    title: "ZKDigimax Website",
+    status: "Live",
+    image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1727177789/Capturelpoioioi_ruykwt.png",
+    link: "https://www.zkdigimax.com/",
+  },
  {
     title: "Xotaxi Ride Hailing App Design",
     status: "Launched",
@@ -37,12 +43,6 @@ const projects = [
     status: "Launched",
     image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726051639/yy6m80cdczygxijoh6ig.png",
     link: "https://www.instagram.com/p/C0T_Pgwov_P/",
-  },
-  {
-    title: "ZKDigimax Website",
-    status: "Live",
-    image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1727177789/Capturelpoioioi_ruykwt.png",
-    link: "https://www.zkdigimax.com/",
   },
   {
     title: "Spark Bridges Website",
