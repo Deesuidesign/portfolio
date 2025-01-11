@@ -21,7 +21,7 @@ const projects = [
     link: "https://www.instagram.com/p/C3w86B3tOwW/",
   },
   {
-    title: "Bondle Dating App Design",
+    title: "Bondle Dating App",
     status: "Development Stage",
     image: "https://res.cloudinary.com/delbjwwfy/image/upload/v1729586808/Capturegrrtrt_kqtrhp.png",
     link: "https://www.instagram.com/p/DA3ZeSEIsh7/",
