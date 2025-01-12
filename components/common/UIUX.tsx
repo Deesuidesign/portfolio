@@ -86,8 +86,8 @@ const projects = [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726051639/yy6m80cdczygxijoh6ig.png",
     link: "https://www.instagram.com/p/C0T_Pgwov_P/",
     description: [
-      "Spark Platform is a multiuser interactive platform (www.sparkxplorer.com) for e-learning, designed to provide an engaging and collaborative learning environment. It features group competitions based on set periodic targets,  leveraging various platform services to enhance the educational experience.",
-      "For the first release, IXL.com and Tutor.com will be the 1st learning platform we are onboarding with, with plans of onboarding more in the future and also to develop our own proprietary e-learning platform.",
+      "FlowWave is a cutting-edge FinTech application designed to redefine personal and business financial management with simplicity, elegance, and innovation.",
+      "The app combines a sleek, modern user interface with powerful financial tools, providing users with a seamless and intuitive experience.",
     ],
   },
   {
@@ -97,9 +97,8 @@ const projects = [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726059688/Spart_Bridges_Website_pw6byi.png",
     link: "https://www.sparkbridges.com/",
     description: [
-      "Spark Platform is a multiuser interactive platform (www.sparkxplorer.com) for e-learning, designed to provide an engaging and collaborative learning environment. It features group competitions based on set periodic targets,  leveraging various platform services to enhance the educational experience.",
-      "For the first release, IXL.com and Tutor.com will be the 1st learning platform we are onboarding with, with plans of onboarding more in the future and also to develop our own proprietary e-learning platform.",
-    ],
+      "The platform is designed to stand as a link-bridge between donors and beneficiaries, where authenticated data collected from beneficiaries are vetted, before items(laptops) are gifted to the beneficiaries.",
+          ],
   },
   {
     title: "StyleCart Ecommerce App Design",
@@ -108,8 +107,8 @@ const projects = [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726052549/gnrf8qxtvwqbevqde01l.png",
     link: "https://www.figma.com/proto/gfNvrjCS6lOTzsy2YAdSWL/Sneakers-UI?page-id=0%3A1&node-id=3-2446&node-type=frame&viewport=307%2C275%2C0.2&t=yvWHdNpPOlCtcUzo-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2",
     description: [
-      "Spark Platform is a multiuser interactive platform (www.sparkxplorer.com) for e-learning, designed to provide an engaging and collaborative learning environment. It features group competitions based on set periodic targets,  leveraging various platform services to enhance the educational experience.",
-      "For the first release, IXL.com and Tutor.com will be the 1st learning platform we are onboarding with, with plans of onboarding more in the future and also to develop our own proprietary e-learning platform.",
+      "StyleCart is designed for tech-savvy shoppers who value convenience, aesthetics, and a personalized shopping journey. From trendsetters to budget-conscious buyers, the app caters to a broad spectrum of fashion enthusiasts.",
+      "With its visually appealing design and robust features, StyleCart is the ultimate platform for discovering and shopping the latest trends with ease.",
     ],
   },
   {
@@ -119,9 +118,8 @@ const projects = [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726060568/NGTeco_ght9at.png",
     link: "https://ngteco.ng/",
     description: [
-      "Spark Platform is a multiuser interactive platform (www.sparkxplorer.com) for e-learning, designed to provide an engaging and collaborative learning environment. It features group competitions based on set periodic targets,  leveraging various platform services to enhance the educational experience.",
-      "For the first release, IXL.com and Tutor.com will be the 1st learning platform we are onboarding with, with plans of onboarding more in the future and also to develop our own proprietary e-learning platform.",
-    ],
+      "The Website is designed to explore various market segments with its cutting-edge biometric technologies and IoT concepts plus techniques to upgrade user experience of home-use electric and security appliances, and lead the trend of mobile application and terminal interaction.",
+          ],
   },
   {
     title: "Bigi Animated Mobile App Design",
