@@ -33,8 +33,8 @@ const projects = [
     image:
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1728397981/CaptureOIOIOIOIO_tct6ep.png",
     description: [
-      "Spark Platform is a multiuser interactive platform (www.sparkxplorer.com) for e-learning, designed to provide an engaging and collaborative learning environment. It features group competitions based on set periodic targets,  leveraging various platform services to enhance the educational experience.",
-      "For the first release, IXL.com and Tutor.com will be the 1st learning platform we are onboarding with, with plans of onboarding more in the future and also to develop our own proprietary e-learning platform.",
+      "The app design revolves around creating an immersive and user-friendly experience for furniture shopping, blending aesthetics with functionality.",
+      "It features a sleek, modern interface with clean lines, spacious layouts, and a neutral color palette that complements the visual focus on furniture products.",
     ],
   },
   {
@@ -44,8 +44,8 @@ const projects = [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726062138/SG_Scoot_Mobile_App_nepvaz.png",
     link: "https://www.instagram.com/p/C3w86B3tOwW/",
     description: [
-      "Spark Platform is a multiuser interactive platform (www.sparkxplorer.com) for e-learning, designed to provide an engaging and collaborative learning environment. It features group competitions based on set periodic targets,  leveraging various platform services to enhance the educational experience.",
-      "For the first release, IXL.com and Tutor.com will be the 1st learning platform we are onboarding with, with plans of onboarding more in the future and also to develop our own proprietary e-learning platform.",
+      "SG Scoot App is a user-friendly and visually engaging platform designed to make scooter and bike-sharing services convenient, intuitive, and efficient for users.",
+      "The app is built with a clean, modern interface, emphasizing accessibility, functionality, and seamless navigation.",
     ],
   },
   {
@@ -55,8 +55,7 @@ const projects = [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1729586808/Capturegrrtrt_kqtrhp.png",
     link: "https://www.instagram.com/p/DA3ZeSEIsh7/",
     description: [
-      "Spark Platform is a multiuser interactive platform (www.sparkxplorer.com) for e-learning, designed to provide an engaging and collaborative learning environment. It features group competitions based on set periodic targets,  leveraging various platform services to enhance the educational experience.",
-      "For the first release, IXL.com and Tutor.com will be the 1st learning platform we are onboarding with, with plans of onboarding more in the future and also to develop our own proprietary e-learning platform.",
+      "The Bondle Dating App is designed to revolutionize the way people connect, fostering meaningful relationships through an engaging, intuitive, and visually appealing interface.",     
     ],
   },
   {
