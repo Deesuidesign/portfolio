@@ -83,7 +83,8 @@ const projects = [
     status: "Delivered",
     images: [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726218964/Sprout_logo_nnvjug.png", // Cover Image
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726218992/isource_e_trwe6i.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1736702678/Tri-Edge_Technologies_Logo_zlx0cp.png",
+       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726218992/isource_e_trwe6i.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726218986/bavms_fczpj0.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726219327/BioTime_Africa_clcdzj.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726219324/Securetech_vv2gau.png",
