@@ -65,9 +65,8 @@ const projects = [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1727177789/Capturelpoioioi_ruykwt.png",
     link: "https://www.zkdigimax.com/",
     description: [
-      "Spark Platform is a multiuser interactive platform (www.sparkxplorer.com) for e-learning, designed to provide an engaging and collaborative learning environment. It features group competitions based on set periodic targets,  leveraging various platform services to enhance the educational experience.",
-      "For the first release, IXL.com and Tutor.com will be the 1st learning platform we are onboarding with, with plans of onboarding more in the future and also to develop our own proprietary e-learning platform.",
-    ],
+      "ZKDigimax Website is designed to create a comprehensive solution for the retail and quick service from digital signage to AI business analysis.",
+          ],
   },
   {
     title: "Xotaxi Ride Hailing App Design",
@@ -76,8 +75,8 @@ const projects = [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726058331/uvaymw6lo5l0hiuqzel2.png",
     link: "https://www.instagram.com/p/C11_YaTN79y/",
     description: [
-      "Spark Platform is a multiuser interactive platform (www.sparkxplorer.com) for e-learning, designed to provide an engaging and collaborative learning environment. It features group competitions based on set periodic targets,  leveraging various platform services to enhance the educational experience.",
-      "For the first release, IXL.com and Tutor.com will be the 1st learning platform we are onboarding with, with plans of onboarding more in the future and also to develop our own proprietary e-learning platform.",
+      "Xotaxi Ride Hailing app is designed to cater to both tech-savvy users and first-time ride-hailers, ensuring an effortless and delightful experience for all.",
+      "Its minimalist approach and thoughtful features make it the go-to platform for safe, reliable, and convenient transportation.",
     ],
   },
   {
