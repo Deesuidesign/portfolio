@@ -23,7 +23,7 @@ const projects = [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1728145480/Capturetrererre_fjipre.png",
     link: "https://www.sparkxplorer.com/",
     description: [
-      "Spark Platform is a multiuser interactive platform (www.sparkxplorer.com) for e-learning, designed to provide an engaging and collaborative learning environment. It features group competitions based on set periodic targets,  leveraging various platform services to enhance the educational experience.",
+      "This is a multiuser interactive platform (www.sparkxplorer.com) for e-learning, designed to provide an engaging and collaborative learning environment. It features group competitions based on set periodic targets,  leveraging various platform services to enhance the educational experience.",
       "For the first release, IXL.com and Tutor.com will be the 1st learning platform we are onboarding with, with plans of onboarding more in the future and also to develop our own proprietary e-learning platform.",
     ],
   },
