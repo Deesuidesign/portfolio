@@ -128,8 +128,7 @@ const projects = [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1727175334/Capturerfdfdf_ft7dbe.png",
     link: "https://www.instagram.com/p/C3PqTGlN2kj/",
     description: [
-      "Spark Platform is a multiuser interactive platform (www.sparkxplorer.com) for e-learning, designed to provide an engaging and collaborative learning environment. It features group competitions based on set periodic targets,  leveraging various platform services to enhance the educational experience.",
-      "For the first release, IXL.com and Tutor.com will be the 1st learning platform we are onboarding with, with plans of onboarding more in the future and also to develop our own proprietary e-learning platform.",
+      "Bigi App design is a playful and dynamic app design concept focused on delivering a seamless and delightful user experience with smooth animations and bold visual elements.",
     ],
   },
   {
@@ -139,8 +138,7 @@ const projects = [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1727169710/Animated_Website_txzgq8.png",
     link: "https://www.instagram.com/p/C29vho5Nlsd/",
     description: [
-      "Spark Platform is a multiuser interactive platform (www.sparkxplorer.com) for e-learning, designed to provide an engaging and collaborative learning environment. It features group competitions based on set periodic targets,  leveraging various platform services to enhance the educational experience.",
-      "For the first release, IXL.com and Tutor.com will be the 1st learning platform we are onboarding with, with plans of onboarding more in the future and also to develop our own proprietary e-learning platform.",
+      "It's an animated homepage design for a car hire/rental service website. The scene begins with a smooth transition from a scenic city view to a well-lit parking lot with various car models. The homepage has a clean and modern interface with a minimalist design.",  
     ],
   },
   {
@@ -150,8 +148,7 @@ const projects = [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1727172865/Gaming_Website_bixllu.png",
     link: "https://www.instagram.com/p/C2FebNqN2iH/",
     description: [
-      "Spark Platform is a multiuser interactive platform (www.sparkxplorer.com) for e-learning, designed to provide an engaging and collaborative learning environment. It features group competitions based on set periodic targets,  leveraging various platform services to enhance the educational experience.",
-      "For the first release, IXL.com and Tutor.com will be the 1st learning platform we are onboarding with, with plans of onboarding more in the future and also to develop our own proprietary e-learning platform.",
+      "The design embraces a sleek, modern, and dynamic style, combining high-tech aesthetics with gaming culture. It features rich dark themes with neon accents, resembling a high-end gaming interface.", 
     ],
   },
   {
@@ -161,8 +158,7 @@ const projects = [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1727176430/Capturefererer_e0nzpm.png",
     link: "https://www.instagram.com/p/C0MR9biobsw/",
     description: [
-      "Spark Platform is a multiuser interactive platform (www.sparkxplorer.com) for e-learning, designed to provide an engaging and collaborative learning environment. It features group competitions based on set periodic targets,  leveraging various platform services to enhance the educational experience.",
-      "For the first release, IXL.com and Tutor.com will be the 1st learning platform we are onboarding with, with plans of onboarding more in the future and also to develop our own proprietary e-learning platform.",
+      " The homepage design balances both aesthetics and functionality, creating a delightful online shopping experience for users to enjoy every morning.", 
     ],
   },
 ];
