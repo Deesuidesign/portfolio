@@ -10,21 +10,22 @@ body {
   font-style: normal;
   background: #190634;
 }
+
 html {
   scroll-behavior: smooth;
 }
 
-.ellipse{
-    height: 65px;
-    width: 190px;
-    border-radius: 50%;
-    border: 1px solid white;
-    color: #0B78F4;
-    font-weight: bold;
-    font-size: 20px;
+.ellipse {
+  height: 65px;
+  width: 190px;
+  border-radius: 50%;
+  border: 1px solid white;
+  color: #0B78F4;
+  font-weight: bold;
+  font-size: 20px;
 }
 
-.ellipse-2{
+.ellipse-2 {
   height: 65px;
   width: 190px;
   border-radius: 50%;
@@ -32,4 +33,13 @@ html {
   color: #0B78F4;
   font-weight: bold;
 }
-  
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 0 0% 9%;
+
+    --accent: 210 40% 96.1%;
+    --accent-foreground: 222.2 47.4% 11.2%;
+  }
+}

@@ -21,7 +21,12 @@ const config: Config = {
         'success-secondary': '#23856D',
         'text-color': '#737373',
         'main-text': '#252B42',
-        muted: '#BDBDBD'
+        muted: '#BDBDBD',
+        background: "hsl(var(--background))",
+        foreground: "hsl(var(--foreground))",
+        accent: "hsl(var(--accent))",
+        'accent-foreground': "hsl(var(--accent-foreground))",
+        blue: '#0b78f4',
       },
     },
   },

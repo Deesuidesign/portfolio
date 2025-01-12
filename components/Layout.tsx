@@ -22,13 +22,13 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
         <title>Taiwo Ademola</title>
         <meta
           name="description"
-          content="Checkout my portolio page"
+          content="I am a Product & Graphic Designer with a keen eye for user-centered, intuitive, and visually stimulating designs. I propel startups and large corporations towards success by designing the perfect digital solutions."
           key="desc"
         />
-        <meta property="og:title" content="Social Title for Cool Page" />
+        <meta property="og:title" content="Taiwo Ademola" />
         <meta
           property="og:description"
-          content="And a social description for our cool page"
+          content="I am a Product & Graphic Designer with a keen eye for user-centered, intuitive, and visually stimulating designs. I propel startups and large corporations towards success by designing the perfect digital solutions."
         />
         <meta
           property="og:image"
