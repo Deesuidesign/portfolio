@@ -50,13 +50,13 @@ const projects = [
     ],
   },
   {
-    title: "Bondle Dating App",
+    title: "Hugley Dating and Friendship App",
     status: "Development Stage",
     image:
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1729586808/Capturegrrtrt_kqtrhp.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1737032387/Hugley_Dating_App_wasw4g.png",
     link: "https://www.instagram.com/p/DA3ZeSEIsh7/",
     description: [
-      "The Bondle Dating App is designed to revolutionize the way people connect, fostering meaningful relationships through an engaging, intuitive, and visually appealing interface.",     
+      "Hugley is a unique dating app specifically for individuals with intellectual disabilities, designed to foster meaningful connections in a safe and inclusive environment.",     
     ],
   },
   {
@@ -89,6 +89,16 @@ const projects = [
     description: [
       "FlowWave is a cutting-edge FinTech application designed to redefine personal and business financial management with simplicity, elegance, and innovation.",
       "The app combines a sleek, modern user interface with powerful financial tools, providing users with a seamless and intuitive experience.",
+    ],
+  },
+ {
+    title: "Bondle Dating App",
+    status: "Development Stage",
+    image:
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1729586808/Capturegrrtrt_kqtrhp.png",
+    link: "https://www.instagram.com/p/DA3ZeSEIsh7/",
+    description: [
+      "The Bondle Dating App is designed to revolutionize the way people connect, fostering meaningful relationships through an engaging, intuitive, and visually appealing interface.",     
     ],
   },
   {
