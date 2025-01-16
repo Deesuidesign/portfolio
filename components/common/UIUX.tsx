@@ -29,9 +29,9 @@ const projects = [
   },
   {
     title: "Home Options App Design",
-    status: "Development Stage",
+    status: "Launched",
     image:
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1728397981/CaptureOIOIOIOIO_tct6ep.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1737031803/Home_Option_Banner_pnomeb.png",
     description: [
       "The app design revolves around creating an immersive and user-friendly experience for furniture shopping, blending aesthetics with functionality.",
       "It features a sleek, modern interface with clean lines, spacious layouts, and a neutral color palette that complements the visual focus on furniture products.",
