@@ -48,12 +48,24 @@ const projects = [
           ],
   },
   {
-    title: "Hugley Dating and Friendship App",
+    title: "SG Scoot App Design",
+    status: "Launched",
+    image:
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726062138/SG_Scoot_Mobile_App_nepvaz.png",
+    link: "https://www.instagram.com/p/C3w86B3tOwW/",
+    description: [
+      "SG Scoot App is a user-friendly and visually engaging platform designed to make scooter and bike-sharing services convenient, intuitive, and efficient for users.",
+      "The app is built with a clean, modern interface, emphasizing accessibility, functionality, and seamless navigation.",
+    ],
+  },
+  {
+    title: "Bondle Dating App",
     status: "Development Stage",
     image:
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1737038895/Hugley_Dating_App_v3xjqe.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1729586808/Capturegrrtrt_kqtrhp.png",
+    link: "https://www.instagram.com/p/DA3ZeSEIsh7/",
     description: [
-      "Hugley is a unique dating app specifically for individuals with intellectual disabilities, designed to foster meaningful connections in a safe and inclusive environment.",     
+      "The Bondle Dating App is designed to revolutionize the way people connect, fostering meaningful relationships through an engaging, intuitive, and visually appealing interface.",     
     ],
   },
   {
@@ -68,17 +80,6 @@ const projects = [
     ],
   },
   {
-    title: "SG Scoot App Design",
-    status: "Launched",
-    image:
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726062138/SG_Scoot_Mobile_App_nepvaz.png",
-    link: "https://www.instagram.com/p/C3w86B3tOwW/",
-    description: [
-      "SG Scoot App is a user-friendly and visually engaging platform designed to make scooter and bike-sharing services convenient, intuitive, and efficient for users.",
-      "The app is built with a clean, modern interface, emphasizing accessibility, functionality, and seamless navigation.",
-    ],
-  },
-  {
     title: "Xotaxi Ride Hailing App Design",
     status: "Launched",
     image:
@@ -87,6 +88,15 @@ const projects = [
     description: [
       "Xotaxi Ride Hailing app is designed to cater to both tech-savvy users and first-time ride-hailers, ensuring an effortless and delightful experience for all.",
       "Its minimalist approach and thoughtful features make it the go-to platform for safe, reliable, and convenient transportation.",
+    ],
+  },
+  {
+    title: "Hugley Dating and Friendship App",
+    status: "Development Stage",
+    image:
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1737038895/Hugley_Dating_App_v3xjqe.png",
+    description: [
+      "Hugley is a unique dating app specifically for individuals with intellectual disabilities, designed to foster meaningful connections in a safe and inclusive environment.",     
     ],
   },
   {
@@ -100,14 +110,14 @@ const projects = [
       "The app combines a sleek, modern user interface with powerful financial tools, providing users with a seamless and intuitive experience.",
     ],
   },
- {
-    title: "Bondle Dating App",
+  {
+    title: "Podium Betting App",
     status: "Development Stage",
     image:
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1729586808/Capturegrrtrt_kqtrhp.png",
-    link: "https://www.instagram.com/p/DA3ZeSEIsh7/",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1737040368/Captureytytytrerer_rtfs5b.png",
     description: [
-      "The Bondle Dating App is designed to revolutionize the way people connect, fostering meaningful relationships through an engaging, intuitive, and visually appealing interface.",     
+      "Podium is a cutting-edge sports betting app designed for speed, simplicity, and excitement. Whether you're into live betting, pre-match wagers, or exploring unique prop bets, Podium offers a seamless and secure platform to elevate your betting experience.",
+      "With real-time odds, instant updates, and a sleek interface, Podium puts the thrill of the game at your fingertips. Stay ahead with personalized notifications, detailed stats, and quick payouts—all in one app. Bet smarter, win bigger, and take your place on the podium!",
     ],
   },
   {
