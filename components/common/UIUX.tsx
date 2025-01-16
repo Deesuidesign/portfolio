@@ -38,6 +38,16 @@ const projects = [
     ],
   },
   {
+    title: "ZKDigimax Website",
+    status: "Live",
+    image:
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1727177789/Capturelpoioioi_ruykwt.png",
+    link: "https://www.zkdigimax.com/",
+    description: [
+      "ZKDigimax Website is designed to create a comprehensive solution for the retail and quick service from digital signage to AI business analysis.",
+          ],
+  },
+  {
     title: "Home Options App Design",
     status: "Launched",
     image:
@@ -67,16 +77,6 @@ const projects = [
     description: [
       "Hugley is a unique dating app specifically for individuals with intellectual disabilities, designed to foster meaningful connections in a safe and inclusive environment.",     
     ],
-  },
-  {
-    title: "ZKDigimax Website",
-    status: "Live",
-    image:
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1727177789/Capturelpoioioi_ruykwt.png",
-    link: "https://www.zkdigimax.com/",
-    description: [
-      "ZKDigimax Website is designed to create a comprehensive solution for the retail and quick service from digital signage to AI business analysis.",
-          ],
   },
   {
     title: "Xotaxi Ride Hailing App Design",
