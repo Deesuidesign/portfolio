@@ -54,7 +54,6 @@ const projects = [
     status: "Development Stage",
     image:
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1737032387/Hugley_Dating_App_wasw4g.png",
-    link: "https://www.instagram.com/p/DA3ZeSEIsh7/",
     description: [
       "Hugley is a unique dating app specifically for individuals with intellectual disabilities, designed to foster meaningful connections in a safe and inclusive environment.",     
     ],
