@@ -48,6 +48,15 @@ const projects = [
           ],
   },
   {
+    title: "Hugley Dating and Friendship App",
+    status: "Development Stage",
+    image:
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1737038895/Hugley_Dating_App_v3xjqe.png",
+    description: [
+      "Hugley is a unique dating app specifically for individuals with intellectual disabilities, designed to foster meaningful connections in a safe and inclusive environment.",     
+    ],
+  },
+  {
     title: "Home Options App Design",
     status: "Launched",
     image:
@@ -67,15 +76,6 @@ const projects = [
     description: [
       "SG Scoot App is a user-friendly and visually engaging platform designed to make scooter and bike-sharing services convenient, intuitive, and efficient for users.",
       "The app is built with a clean, modern interface, emphasizing accessibility, functionality, and seamless navigation.",
-    ],
-  },
-  {
-    title: "Hugley Dating and Friendship App",
-    status: "Development Stage",
-    image:
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1737032387/Hugley_Dating_App_wasw4g.png",
-    description: [
-      "Hugley is a unique dating app specifically for individuals with intellectual disabilities, designed to foster meaningful connections in a safe and inclusive environment.",     
     ],
   },
   {
