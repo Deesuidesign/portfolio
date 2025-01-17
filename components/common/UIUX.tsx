@@ -17,6 +17,16 @@ import { DialogClose } from "@radix-ui/react-dialog";
 // Array of project data
 const projects = [
   {
+    title: "Pews Pro Church Management Software",
+    status: "Development Stage",
+    image:
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1737039001/Captureytytytre_vocrmw.png",
+       description: [
+      "Pews Pro Church Management Software is an end-to-end software solution that focuses heavily on automating key church activities such as managing church events, coordinating any church payments seamlessly, and keeping a standard database for the congregation.",
+      "It aims at relieving church pastors and administrative workers of the huge burden of keeping track of members, finances, and all other important records.",
+    ],
+  },
+   {
     title: "Xplorer EdTech Platform Design",
     status: "Live",
     image:
@@ -28,14 +38,14 @@ const projects = [
     ],
   },
   {
-    title: "Home Options App Design",
-    status: "Development Stage",
+    title: "ZKDigimax Website",
+    status: "Live",
     image:
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1728397981/CaptureOIOIOIOIO_tct6ep.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1727177789/Capturelpoioioi_ruykwt.png",
+    link: "https://www.zkdigimax.com/",
     description: [
-      "The app design revolves around creating an immersive and user-friendly experience for furniture shopping, blending aesthetics with functionality.",
-      "It features a sleek, modern interface with clean lines, spacious layouts, and a neutral color palette that complements the visual focus on furniture products.",
-    ],
+      "ZKDigimax Website is designed to create a comprehensive solution for the retail and quick service from digital signage to AI business analysis.",
+          ],
   },
   {
     title: "SG Scoot App Design",
@@ -50,7 +60,7 @@ const projects = [
   },
   {
     title: "Bondle Dating App",
-    status: "Development Stage",
+    status: "Launched",
     image:
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1729586808/Capturegrrtrt_kqtrhp.png",
     link: "https://www.instagram.com/p/DA3ZeSEIsh7/",
@@ -59,14 +69,15 @@ const projects = [
     ],
   },
   {
-    title: "ZKDigimax Website",
-    status: "Live",
+    title: "Home Options App Design",
+    status: "Launched",
     image:
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1727177789/Capturelpoioioi_ruykwt.png",
-    link: "https://www.zkdigimax.com/",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1737031803/Home_Option_Banner_pnomeb.png",
+    link: "https://www.instagram.com/p/C5D7uVrNo1K/",
     description: [
-      "ZKDigimax Website is designed to create a comprehensive solution for the retail and quick service from digital signage to AI business analysis.",
-          ],
+      "The app design revolves around creating an immersive and user-friendly experience for furniture shopping, blending aesthetics with functionality.",
+      "It features a sleek, modern interface with clean lines, spacious layouts, and a neutral color palette that complements the visual focus on furniture products.",
+    ],
   },
   {
     title: "Xotaxi Ride Hailing App Design",
@@ -88,6 +99,25 @@ const projects = [
     description: [
       "FlowWave is a cutting-edge FinTech application designed to redefine personal and business financial management with simplicity, elegance, and innovation.",
       "The app combines a sleek, modern user interface with powerful financial tools, providing users with a seamless and intuitive experience.",
+    ],
+  },
+  {
+    title: "Hugley Dating and Friendship App",
+    status: "Development Stage",
+    image:
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1737038895/Hugley_Dating_App_v3xjqe.png",
+    description: [
+      "Hugley is a unique dating app specifically for individuals with intellectual disabilities, designed to foster meaningful connections in a safe and inclusive environment.",     
+    ],
+  },
+  {
+    title: "Podium Betting App",
+    status: "Development Stage",
+    image:
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1737040368/Captureytytytrerer_rtfs5b.png",
+    description: [
+      "Podium is a cutting-edge sports betting app designed for speed, simplicity, and excitement. Whether you're into live betting, pre-match wagers, or exploring unique prop bets, Podium offers a seamless and secure platform to elevate your betting experience.",
+      "With real-time odds, instant updates, and a sleek interface, Podium puts the thrill of the game at your fingertips. Stay ahead with personalized notifications, detailed stats, and quick payouts—all in one app. Bet smarter, win bigger, and take your place on the podium!",
     ],
   },
   {
