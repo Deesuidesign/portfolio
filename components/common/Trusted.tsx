@@ -9,7 +9,7 @@ const companies = [
   { name: "Simpu", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726056453/mcabmdfedbovaemldkzo.svg" },
   { name: "FlowWave Inc", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726056451/n4jr30qmompcmywolfla.svg" },
   { name: "Spark Xplorer", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726056455/ucupwtrkswhk3yiligvi.svg" },
-  { name: "Tri Edge Technologies", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1737451301/Tri-Edge_Technologies_Logotrt_ev1avq.png" },
+  { name: "Tri Edge Technologies", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1737453334/Tri-Edge_Technologies_Logotrt_uo3o0l.png" },
   { name: "Airbnb", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1727946906/superhost_id_cardrere_fpnadq.png" },
   { name: "Riverdean", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726056452/bvhbfbilhh8ufthx2gma.svg" },
   { name: "SB Telecoms", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726056453/y1j3ljfisbquayj4r2z9.svg" },
