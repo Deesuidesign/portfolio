@@ -59,13 +59,12 @@ const projects = [
     ],
   },
   {
-    title: "Bondle Dating App",
-    status: "Launched",
+    title: "Hugley Dating and Friendship App",
+    status: "Development Stage",
     image:
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1729586808/Capturegrrtrt_kqtrhp.png",
-    link: "https://www.instagram.com/p/DA3ZeSEIsh7/",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529837/Hugley_Dating_App_zczivo.png",
     description: [
-      "The Bondle Dating App is designed to revolutionize the way people connect, fostering meaningful relationships through an engaging, intuitive, and visually appealing interface.",     
+      "Hugley is a unique dating app specifically for individuals with intellectual disabilities, designed to foster meaningful connections in a safe and inclusive environment.",     
     ],
   },
   {
@@ -77,6 +76,16 @@ const projects = [
     description: [
       "The app design revolves around creating an immersive and user-friendly experience for furniture shopping, blending aesthetics with functionality.",
       "It features a sleek, modern interface with clean lines, spacious layouts, and a neutral color palette that complements the visual focus on furniture products.",
+    ],
+  },
+  {
+    title: "Bondle Dating App",
+    status: "Launched",
+    image:
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1729586808/Capturegrrtrt_kqtrhp.png",
+    link: "https://www.instagram.com/p/DA3ZeSEIsh7/",
+    description: [
+      "The Bondle Dating App is designed to revolutionize the way people connect, fostering meaningful relationships through an engaging, intuitive, and visually appealing interface.",     
     ],
   },
   {
@@ -99,15 +108,6 @@ const projects = [
     description: [
       "FlowWave is a cutting-edge FinTech application designed to redefine personal and business financial management with simplicity, elegance, and innovation.",
       "The app combines a sleek, modern user interface with powerful financial tools, providing users with a seamless and intuitive experience.",
-    ],
-  },
-  {
-    title: "Hugley Dating and Friendship App",
-    status: "Development Stage",
-    image:
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1737038895/Hugley_Dating_App_v3xjqe.png",
-    description: [
-      "Hugley is a unique dating app specifically for individuals with intellectual disabilities, designed to foster meaningful connections in a safe and inclusive environment.",     
     ],
   },
   {
