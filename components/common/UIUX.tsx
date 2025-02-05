@@ -60,6 +60,51 @@ const projects = [
         ],
       },
     ],
+    content: [
+      {
+        title: "Project Overview",
+        content: [
+          {
+            type: "text",
+            text: "Pews Pro Church Management Software is an end-to-end software solution that focuses heavily on automating key church activities such as managing church events, coordinating any church payments seamlessly, and keeping a standard database for the congregation.",
+          },
+          {
+            type: "text",
+            text: "Another Paragraph",
+          },
+          {
+            type: "text",
+            text: "Pews Pro Church Management Software is an end-to-end software solution that focuses heavily on automating key church activities such as managing church events, coordinating any church payments seamlessly, and keeping a standard database for the congregation.",
+          },
+        ],
+      },
+      {
+        title: "Section 2",
+        content: [
+          {
+            type: "video",
+            url: "https://www.youtube.com/embed/HAdROFr7VRQ?si=DgbZT9WxrDFY5KMJ",
+          },
+          {
+            type: "text",
+            text: "Another Paragraph",
+          },
+        ],
+      },
+      {
+        title: "Section 3 - Project Screens",
+        content: [
+          {
+            type: "swipper",
+            img_list: [
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
+            ],
+          },
+        ],
+      },
+    ],
     description: [
       "Pews Pro Church Management Software is an end-to-end software solution that focuses heavily on automating key church activities such as managing church events, coordinating any church payments seamlessly, and keeping a standard database for the congregation.",
       "It aims at relieving church pastors and administrative workers of the huge burden of keeping track of members, finances, and all other important records.",
