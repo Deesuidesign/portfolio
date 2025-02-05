@@ -13,6 +13,10 @@ import {
 } from "../ui/dialog";
 import CloseIcon from "@mui/icons-material/Close";
 import { DialogClose } from "@radix-ui/react-dialog";
+import { Swiper, SwiperSlide } from "swiper/react";
+import "swiper/css";
+import { Navigation } from "swiper/modules";
+import "swiper/css/navigation";
 
 // Array of project data
 const projects = [
@@ -21,12 +25,57 @@ const projects = [
     status: "Development Stage",
     image:
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
-       description: [
+    content: [
+      {
+        title: "Project Overview",
+        content: [
+          {
+            type: "text",
+            text: "Pews Pro Church Management Software is an end-to-end software solution that focuses heavily on automating key church activities such as managing church events, coordinating any church payments seamlessly, and keeping a standard database for the congregation.",
+          },
+          {
+            type: "text",
+            text: "Another Paragraph",
+          },
+          {
+            type: "text",
+            text: "Pews Pro Church Management Software is an end-to-end software solution that focuses heavily on automating key church activities such as managing church events, coordinating any church payments seamlessly, and keeping a standard database for the congregation.",
+          },
+        ],
+      },
+      {
+        title: "Section 2",
+        content: [
+          {
+            type: "video",
+            url: "https://www.youtube.com/embed/HAdROFr7VRQ?si=DgbZT9WxrDFY5KMJ",
+          },
+          {
+            type: "text",
+            text: "Another Paragraph",
+          },
+        ],
+      },
+      {
+        title: "Section 3 - Project Screens",
+        content: [
+          {
+            type: "swipper",
+            img_list: [
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
+            ],
+          },
+        ],
+      },
+    ],
+    description: [
       "Pews Pro Church Management Software is an end-to-end software solution that focuses heavily on automating key church activities such as managing church events, coordinating any church payments seamlessly, and keeping a standard database for the congregation.",
       "It aims at relieving church pastors and administrative workers of the huge burden of keeping track of members, finances, and all other important records.",
     ],
   },
-   {
+  {
     title: "Xplorer EdTech Platform Design",
     status: "Live",
     image:
@@ -45,16 +94,16 @@ const projects = [
     link: "https://www.zkdigimax.com/",
     description: [
       "ZKDigimax Website is designed to create a comprehensive solution for the retail and quick service from digital signage to AI business analysis.",
-          ],
+    ],
   },
- {
+  {
     title: "Hugley Dating and Friendship App",
     status: "Development Stage",
     image:
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1737530305/Captureyrrtrt_pnhqyd.png",
-     link: "https://www.instagram.com/p/DFVHnYntGZ5/?img_index=1",
+    link: "https://www.instagram.com/p/DFVHnYntGZ5/?img_index=1",
     description: [
-      "Hugley is a unique dating app specifically for individuals with intellectual disabilities, designed to foster meaningful connections in a safe and inclusive environment.",     
+      "Hugley is a unique dating app specifically for individuals with intellectual disabilities, designed to foster meaningful connections in a safe and inclusive environment.",
     ],
   },
   {
@@ -86,7 +135,7 @@ const projects = [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1729586808/Capturegrrtrt_kqtrhp.png",
     link: "https://www.instagram.com/p/DA3ZeSEIsh7/",
     description: [
-      "The Bondle Dating App is designed to revolutionize the way people connect, fostering meaningful relationships through an engaging, intuitive, and visually appealing interface.",     
+      "The Bondle Dating App is designed to revolutionize the way people connect, fostering meaningful relationships through an engaging, intuitive, and visually appealing interface.",
     ],
   },
   {
@@ -129,7 +178,7 @@ const projects = [
     link: "https://www.sparkbridges.com/",
     description: [
       "The platform is designed to stand as a link-bridge between donors and beneficiaries, where authenticated data collected from beneficiaries are vetted, before items(laptops) are gifted to the beneficiaries.",
-          ],
+    ],
   },
   {
     title: "StyleCart Ecommerce App Design",
@@ -150,7 +199,7 @@ const projects = [
     link: "https://ngteco.ng/",
     description: [
       "The Website is designed to explore various market segments with its cutting-edge biometric technologies and IoT concepts plus techniques to upgrade user experience of home-use electric and security appliances, and lead the trend of mobile application and terminal interaction.",
-          ],
+    ],
   },
   {
     title: "Bigi Animated Mobile App Design",
@@ -169,7 +218,7 @@ const projects = [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1727169710/Animated_Website_txzgq8.png",
     link: "https://www.instagram.com/p/C29vho5Nlsd/",
     description: [
-      "It's an animated homepage design for a car hire/rental service website. The scene begins with a smooth transition from a scenic city view to a well-lit parking lot with various car models. The homepage has a clean and modern interface with a minimalist design.",  
+      "It's an animated homepage design for a car hire/rental service website. The scene begins with a smooth transition from a scenic city view to a well-lit parking lot with various car models. The homepage has a clean and modern interface with a minimalist design.",
     ],
   },
   {
@@ -179,7 +228,7 @@ const projects = [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1727172865/Gaming_Website_bixllu.png",
     link: "https://www.instagram.com/p/C2FebNqN2iH/",
     description: [
-      "The design embraces a sleek, modern, and dynamic style, combining high-tech aesthetics with gaming culture. It features rich dark themes with neon accents, resembling a high-end gaming interface.", 
+      "The design embraces a sleek, modern, and dynamic style, combining high-tech aesthetics with gaming culture. It features rich dark themes with neon accents, resembling a high-end gaming interface.",
     ],
   },
   {
@@ -189,7 +238,7 @@ const projects = [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1727176430/Capturefererer_e0nzpm.png",
     link: "https://www.instagram.com/p/C0MR9biobsw/",
     description: [
-      " The homepage design balances both aesthetics and functionality, creating a delightful online shopping experience for users to enjoy every morning.", 
+      " The homepage design balances both aesthetics and functionality, creating a delightful online shopping experience for users to enjoy every morning.",
     ],
   },
 ];
@@ -213,7 +262,10 @@ const UIUX = () => {
   };
 
   return (
-    <div className="my-32" id="uiux">
+    <div
+      className="my-32"
+      id="uiux"
+    >
       <div className="ellipse flex justify-center items-center">
         <span>UI/UX Portfolios</span>
       </div>
@@ -273,20 +325,65 @@ type Props = {
 };
 
 const ProjectDialog = ({ open, setOpen, project }: Props) => (
-  <Dialog open={open} onOpenChange={setOpen}>
-    <DialogContent className="sm:max-w-xl sm:rounded-3xl">
-      <DialogHeader>
-        <DialogTitle className="font-bold text-2xl text-blue text-center">
-          Project Overview
-        </DialogTitle>
-      </DialogHeader>
-      <div className="max-w-lg mx-auto my-5">
-        {project?.description.map((desc, index) => (
-          <p key={index} className="mb-4 text-justify">
-            {desc}
-          </p>
-        ))}
-      </div>
+  <Dialog
+    open={open}
+    onOpenChange={setOpen}
+  >
+    <DialogContent className="sm:max-w-xl max-h-[85%] sm:rounded-3xl">
+      {project?.content?.map((content, index) => (
+        <div className="max-w-lg mx-auto w-full">
+          <h2 className="font-bold text-2xl text-blue text-center mb-5">
+            {content.title}
+          </h2>
+          <div className="space-y-4">
+            {content.content.map((item, index) => (
+              <>
+                {item.type === "text" && "text" in item ? (
+                  <p
+                    key={index}
+                    className="text-justify"
+                  >
+                    {item.text}
+                  </p>
+                ) : item.type === "video" && "url" in item ? (
+                  <div
+                    key={index}
+                    className=""
+                  >
+                    <iframe
+                      width="100%"
+                      height="315"
+                      src={item.url}
+                      title={project?.title}
+                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                      allowFullScreen
+                    ></iframe>
+                  </div>
+                ) : item.type === "swipper" && "img_list" in item ? (
+                  <Swiper
+                    navigation={true}
+                    modules={[Navigation]}
+                    className="mySwiper"
+                  >
+                    {item.img_list.map((url, index) => (
+                      <SwiperSlide key={index}>
+                        <Image
+                          className="w-full h-96 object-contain"
+                          src={url}
+                          alt={project.title}
+                          width={300}
+                          height={300}
+                        />
+                      </SwiperSlide>
+                    ))}
+                  </Swiper>
+                ) : null}
+              </>
+            ))}
+          </div>
+        </div>
+      ))}
+
       <DialogFooter className="gap-5 sm:space-x-0 sm:justify-center items-center">
         <DialogClose asChild>
           <Button
@@ -303,7 +400,11 @@ const ProjectDialog = ({ open, setOpen, project }: Props) => (
           size="lg"
           className="rounded-full gap-2 h-auto py-3 px-6 w-full max-w-52 text-sm"
         >
-          <a href={project?.link} target="_blank" rel="noopener noreferrer">
+          <a
+            href={project?.link}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             Explore &rarr;
           </a>
         </Button>
