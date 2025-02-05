@@ -44,7 +44,7 @@ const projects = [
         ],
       },
       {
-        title: "Section 2",
+        title: "Project Prototype",
         content: [
           {
             type: "video",
@@ -57,7 +57,7 @@ const projects = [
         ],
       },
       {
-        title: "Section 3 - Project Screens",
+        title: "Project Screens",
         content: [
           {
             type: "swipper",
