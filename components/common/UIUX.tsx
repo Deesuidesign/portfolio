@@ -60,6 +60,13 @@ const projects = [
         ],
       },
     ],
+    {
+    title: "Xplorer EdTech Platform Design",
+    status: "Live",
+    image:
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1737530305/Captureyrrtrt_pnhqyd.png",
+    link: 
+      "https://www.sparkxplorer.com/",
     content: [
       {
         title: "Project Overview",
