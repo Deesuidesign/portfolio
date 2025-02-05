@@ -13,10 +13,7 @@ import {
 } from "../ui/dialog";
 import CloseIcon from "@mui/icons-material/Close";
 import { DialogClose } from "@radix-ui/react-dialog";
-import { Swiper, SwiperSlide } from "swiper/react";
-import "swiper/css";
-import { Navigation } from "swiper/modules";
-import "swiper/css/navigation";
+import { X } from "lucide-react";
 
 // Array of project data
 const projects = [
@@ -329,9 +326,19 @@ const ProjectDialog = ({ open, setOpen, project }: Props) => (
     open={open}
     onOpenChange={setOpen}
   >
-    <DialogContent className="sm:max-w-xl max-h-[85%] sm:rounded-3xl">
+    <DialogContent className="w-[90%] sm:max-w-xl max-h-[85%] rounded-3xl">
+      <DialogHeader className="flex justify-between items-center">
+        <DialogClose asChild>
+          <button className="text-gray-500 hover:text-gray-700 focus:outline-none self-end">
+            <X size={20}/>
+          </button>
+        </DialogClose>
+      </DialogHeader>
       {project?.content?.map((content, index) => (
-        <div className="max-w-lg mx-auto w-full" key={index}>
+        <div
+          className="max-w-lg mx-auto w-full"
+          key={index}
+        >
           <h2 className="font-bold text-2xl text-blue text-center mb-5">
             {content.title}
           </h2>
@@ -341,7 +348,7 @@ const ProjectDialog = ({ open, setOpen, project }: Props) => (
                 {item.type === "text" && "text" in item ? (
                   <p
                     key={index}
-                    className="text-justify"
+                    className="text-justify text-sm md:text-base"
                   >
                     {item.text}
                   </p>
@@ -360,23 +367,7 @@ const ProjectDialog = ({ open, setOpen, project }: Props) => (
                     ></iframe>
                   </div>
                 ) : item.type === "swipper" && "img_list" in item ? (
-                  <Swiper
-                    navigation={true}
-                    modules={[Navigation]}
-                    className="mySwiper"
-                  >
-                    {item.img_list.map((url, index) => (
-                      <SwiperSlide key={index}>
-                        <Image
-                          className="w-full h-96 object-contain"
-                          src={url}
-                          alt={project.title}
-                          width={300}
-                          height={300}
-                        />
-                      </SwiperSlide>
-                    ))}
-                  </Swiper>
+                  <CustomSwiper images={item.img_list} />
                 ) : null}
               </>
             ))}
@@ -395,20 +386,71 @@ const ProjectDialog = ({ open, setOpen, project }: Props) => (
             <CloseIcon />
           </Button>
         </DialogClose>
-        <Button
-          asChild
-          size="lg"
-          className="rounded-full gap-2 h-auto py-3 px-6 w-full max-w-52 text-sm"
-        >
-          <a
-            href={project?.link}
-            target="_blank"
-            rel="noopener noreferrer"
+        {project?.link && (
+          <Button
+            asChild
+            size="lg"
+            className="rounded-full gap-2 h-auto py-3 px-6 w-full max-w-52 text-sm"
           >
-            Explore &rarr;
-          </a>
-        </Button>
+            <a
+              href={project?.link}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Explore &rarr;
+            </a>
+          </Button>
+        )}
       </DialogFooter>
     </DialogContent>
   </Dialog>
 );
+
+const CustomSwiper = ({ images }: { images: string[] }) => {
+  const [currentIndex, setCurrentIndex] = useState(0);
+
+  const prevSlide = () => {
+    setCurrentIndex((prev) => (prev === 0 ? images.length - 1 : prev - 1));
+  };
+
+  const nextSlide = () => {
+    setCurrentIndex((prev) => (prev === images.length - 1 ? 0 : prev + 1));
+  };
+
+  return (
+    <div className="relative w-full max-w-lg overflow-hidden">
+      <div
+        className="flex transition-transform duration-500 ease-in-out"
+        style={{ transform: `translateX(-${currentIndex * 100}%)` }}
+      >
+        {images.map((src, index) => (
+          <div
+            key={index}
+            className="w-full flex-shrink-0"
+          >
+            <Image
+              src={src}
+              alt={`Slide ${index}`}
+              width={300}
+              height={300}
+              className="w-full h-auto object-contain"
+            />
+          </div>
+        ))}
+      </div>
+
+      <button
+        onClick={prevSlide}
+        className="absolute left-2 top-1/2 transform -translate-y-1/2 bg-gray-700 text-white px-3 py-1 rounded-full"
+      >
+        ◀
+      </button>
+      <button
+        onClick={nextSlide}
+        className="absolute right-2 top-1/2 transform -translate-y-1/2 bg-gray-700 text-white px-3 py-1 rounded-full"
+      >
+        ▶
+      </button>
+    </div>
+  );
+};
