@@ -18,6 +18,13 @@ import { X } from "lucide-react";
 // Array of project data
 const projects = [
   {
+    title: "New Project",
+    status: "Development Stage",
+    image:
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
+    link: "https://www.sparkxplorer.com/",
+  },
+  {
     title: "Pews-Pro Church Management Software",
     status: "Development Stage",
     image:
