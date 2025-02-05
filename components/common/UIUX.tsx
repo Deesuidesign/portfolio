@@ -42,7 +42,7 @@ const projects = [
         content: [
           {
             type: "video",
-            url: "https://www.youtube.com/embed/HAdROFr7VRQ?si=DgbZT9WxrDFY5KMJ",
+            url: "https://www.figma.com/proto/ie8XgcT6hVEfFsqAbzhDMJ/Taiwo-Ademola-Website?page-id=0%3A1&node-id=1-10585&viewport=334%2C352%2C0.17&t=6CgW7w3525uAsLPB-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A10585",
           },
         ],
       },
