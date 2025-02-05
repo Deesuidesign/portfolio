@@ -331,7 +331,7 @@ const ProjectDialog = ({ open, setOpen, project }: Props) => (
   >
     <DialogContent className="sm:max-w-xl max-h-[85%] sm:rounded-3xl">
       {project?.content?.map((content, index) => (
-        <div className="max-w-lg mx-auto w-full">
+        <div className="max-w-lg mx-auto w-full" key={index}>
           <h2 className="font-bold text-2xl text-blue text-center mb-5">
             {content.title}
           </h2>
