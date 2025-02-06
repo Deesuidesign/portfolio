@@ -191,7 +191,7 @@ const projects = [
     ],
   },
   {
-    title: "Taiwo Ademola App",
+    title: "Ademola App",
     status: "Development Stage",
     image:
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
@@ -216,7 +216,7 @@ const projects = [
         content: [
           {
             type: "video",
-            url: "https://www.tiktok.com/@dees_ui/video/7339461276994948357?_d=eh507i1mheldal&_r=1&enable_checksum=1&link_reflow_popup_iteration_sharer=%7B%22click_empty_to_play%22%3A1%2C%22dynamic_cover%22%3A1%2C%22follow_to_play_duration%22%3A-1%2C%22profile_clickable%22%3A1%7D&preview_pb=0&sec_user_id=MS4wLjABAAAAg8jgTUlrqnYbVoSI_yButuIYOV-mLN2K-czSwreBsiTPL0tUfIJXgiHa4CHtZ8UU&share_app_id=1233&share_item_id=7339461276994948357&share_link_id=75144153-883F-4CE1-82C9-023E9852BA1D&sharer_language=en&social_share_type=0&source=h5_m&timestamp=1738850802&tt_from=copy&u_code=eb1me171bgm6l6&ug_btm=b8727%2Cb2878&user_id=7299459447372989445&utm_campaign=client_share&utm_medium=ios&utm_source=copy",
+            url: "https://vm.tiktok.com/ZMkgHWuvj/",
           },
         ],
       },
