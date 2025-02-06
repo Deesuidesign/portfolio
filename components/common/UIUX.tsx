@@ -149,11 +149,11 @@ const projects = [
     ],
   },  
   {
-    title: "Spark Xplorer EdTech Platform Design",
+    title: "ZKDigimax Website",
     status: "Live",
     image:
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1738839634/Frame_1321314748_h0yi5k.png",
-    link: "https://www.sparkxplorer.com/",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1727177789/Capturelpoioioi_ruykwt.png",
+    link: "https://www.zkdigimax.com/",
     content: [
       {
         title: "Project Overview",
