@@ -73,15 +73,6 @@ const projects = [
         ],
       },
       {
-        title: "Project Prototype",
-        content: [
-          {
-            type: "video",
-            url: "https://www.youtube.com/embed/HAdROFr7VRQ?si=DgbZT9WxrDFY5KMJ",
-          },
-        ],
-      },
-      {
         title: "Project Screens",
         content: [
           {
