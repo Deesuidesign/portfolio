@@ -216,7 +216,7 @@ const projects = [
         content: [
           {
             type: "video",
-            url: "https://www.youtube.com/embed/V1VQ-Dy6R9M?si=UCh9XJ0P2N435C5-",
+            url: "https://www.youtube.com/embed/a5f7l8BIsGs?si=EIt2MwJO7CjhaV15",
           },
         ],
       },
