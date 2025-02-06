@@ -57,10 +57,10 @@ const projects = [
     ],
   },
   {
-    title: "Pews-Pro Church Management Software",
+    title: "Hugley Dating App",
     status: "Development Stage",
     image:
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1737530305/Captureyrrtrt_pnhqyd.png",
      link: 
        "https://www.sparkxplorer.com/",
     content: [
