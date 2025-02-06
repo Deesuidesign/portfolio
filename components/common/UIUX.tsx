@@ -191,7 +191,7 @@ const projects = [
     ],
   },
   {
-    title: "Coming Soon App",
+    title: "SG Scoot App Design",
     status: "Development Stage",
     image:
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
@@ -216,7 +216,7 @@ const projects = [
         content: [
           {
             type: "video",
-            url: "https://www.instagram.com/p/C3w86B3tOwW/",
+            url: "https://youtube.com/shorts/MOKInZ42VrI",
           },
         ],
       },
