@@ -191,7 +191,7 @@ const projects = [
     ],
   },
   {
-    title: "Ademola App",
+    title: "A App",
     status: "Development Stage",
     image:
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
@@ -216,7 +216,7 @@ const projects = [
         content: [
           {
             type: "video",
-            url: "https://vm.tiktok.com/ZMkgHWuvj/",
+            url: "https://www.youtube.com/watch?v=V1VQ-Dy6R9M",
           },
         ],
       },
