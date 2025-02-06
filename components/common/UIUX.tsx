@@ -18,10 +18,10 @@ import { X } from "lucide-react";
 // Array of project data
 const projects = [
   {
-    title: "Xplorer Elearning Platform Design",
-    status: "Live",
+    title: "Spark Explorer",
+    status: "Development Stage",
     image:
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1738835480/Frame_1321314748_yqq2jg.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
     link: "https://www.sparkxplorer.com/",
     content: [
       {
