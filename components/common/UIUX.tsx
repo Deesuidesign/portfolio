@@ -51,13 +51,9 @@ const projects = [
         ],
       },
     ],
-    description: [
-      "Pews Pro Church Management Software is an end-to-end software solution that focuses heavily on automating key church activities such as managing church events, coordinating any church payments seamlessly, and keeping a standard database for the congregation.",
-      "It aims at relieving church pastors and administrative workers of the huge burden of keeping track of members, finances, and all other important records.",
-    ],
   },
   {
-    title: "Pews-Pro Church Management Software",
+    title: "Spark Church Management Software",
     status: "Development Stage",
     image:
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
@@ -99,10 +95,6 @@ const projects = [
           },
         ],
       },
-    ],
-    description: [
-      "Pews Pro Church Management Software is an end-to-end software solution that focuses heavily on automating key church activities such as managing church events, coordinating any church payments seamlessly, and keeping a standard database for the congregation.",
-      "It aims at relieving church pastors and administrative workers of the huge burden of keeping track of members, finances, and all other important records.",
     ],
   },
   {
