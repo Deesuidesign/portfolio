@@ -22,6 +22,8 @@ const projects = [
     status: "Live",
     image:
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1738835480/Frame_1321314748_yqq2jg.png",
+    link: 
+       "https://www.sparkxplorer.com/",
     content: [
       {
         title: "Project Overview",
@@ -83,11 +85,9 @@ const projects = [
   },
   {
     title: "Pews Pro Church Management Software",
-    status: "Live",
+    status: "Development Stage",
     image:
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
-     link: 
-       "https://www.sparkxplorer.com/",
     content: [
       {
         title: "Project Overview",
