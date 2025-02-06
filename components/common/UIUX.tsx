@@ -216,7 +216,7 @@ const projects = [
         content: [
           {
             type: "video",
-            url: "https://www.tiktok.com/@dees_ui/video/7339461276994948357?is_from_webapp=1&sender_device=pc",
+            url: "https://embed.figma.com/proto/XnNlcGJfRCa4i00VBQTCYQ/Scooter-app?page-id=0%3A1&node-id=6-3337&viewport=809%2C361%2C0.36&scaling=scale-down&content-scaling=fixed&embed-host=share",
           },
         ],
       },
