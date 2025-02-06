@@ -68,7 +68,6 @@ const projects = [
     status: "Development Stage",
     image:
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1738840462/Captureyrrtrt_pnhqyd_mbhtao.png",
-    link: "https://www.sparkxplorer.com/",
     content: [
       {
         title: "Project Overview",
