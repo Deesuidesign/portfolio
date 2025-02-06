@@ -160,11 +160,11 @@ const projects = [
         content: [
           {
             type: "text",
-            text: "Spark Xplorer is an innovative US-based after-school practice platform designed to support families striving for the American Dream.",
+            text: "The ZKDigimax website will serve as a dynamic, user-friendly platform showcasing the company’s AI-powered digital signage solutions.",
           },
           {
             type: "text",
-            text: "It's dedicated to migrant families, everyday Americans working tirelessly to provide for their loved ones, and single parents seeking ways to keep their kids engaged and productive after school.",
+            text: "The goal is to create an engaging, informative, and visually compelling website that highlights ZKDigimax’s innovative technology, industry applications, and business benefits while driving lead generation and customer engagement.",
           }
         ],
       },
