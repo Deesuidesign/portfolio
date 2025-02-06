@@ -57,10 +57,10 @@ const projects = [
     ],
   },
   {
-    title: "Hugley Dating App",
+    title: "Hugley App",
     status: "Development Stage",
     image:
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1737530305/Captureyrrtrt_pnhqyd.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
      link: 
        "https://www.sparkxplorer.com/",
     content: [
