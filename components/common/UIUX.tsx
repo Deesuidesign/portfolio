@@ -72,9 +72,14 @@ const projects = [
           {
             type: "swipper",
             img_list: [
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738833833/Hugley_2_drmt4r.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738833836/Hugley_4_ietcvt.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738833832/Hugley_5_hkaat7.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738833833/Hugley_3_aicwtg.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738833831/Hugley_7_ul3pfh.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738833831/Hugley_6_tiorxt.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738833831/Hugley_8_jlwhrg.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738833874/Hugley_90_v93hik.png",
             ],
           },
         ],
