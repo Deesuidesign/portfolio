@@ -18,12 +18,11 @@ import { X } from "lucide-react";
 // Array of project data
 const projects = [
   {
-    title: "Xplorer EdTech Design",
-    status: "Live",
+    title: "New Project",
+    status: "Development Stage",
     image:
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1738835480/Frame_1321314748_yqq2jg.png",
-    link: 
-       "https://www.sparkxplorer.com/",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
+    link: "https://www.sparkxplorer.com/",
     content: [
       {
         title: "Project Overview",
@@ -39,6 +38,15 @@ const projects = [
         ],
       },
       {
+        title: "Project Prototype",
+        content: [
+          {
+            type: "video",
+            url: "https://www.figma.com/proto/ie8XgcT6hVEfFsqAbzhDMJ/Taiwo-Ademola-Website?page-id=0%3A1&node-id=1-10585&viewport=334%2C352%2C0.17&t=6CgW7w3525uAsLPB-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A10585",
+          },
+        ],
+      },
+      {
         title: "Project Screens",
         content: [
           {
@@ -52,42 +60,18 @@ const projects = [
         ],
       },
     ],
-  },
-  {
-    title: "Hugley Dating App",
-    status: "Development Stage",
-    image:
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1737530305/Captureyrrtrt_pnhqyd.png",
-    content: [
-      {
-        title: "Project Overview",
-        content: [
-          {
-            type: "text",
-            text: "Hugley is a unique dating app specifically for individuals with intellectual disabilities, designed to foster meaningful connections in a safe and inclusive environment.",
-          },
-        ],
-      },
-      {
-        title: "Project Screens",
-        content: [
-          {
-            type: "swipper",
-            img_list: [
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738833832/Hugley_5_hkaat7.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738833833/Hugley_2_drmt4r.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738833833/Hugley_3_aicwtg.png",
-            ],
-          },
-        ],
-      },
+    description: [
+      "Pews Pro Church Management Software is an end-to-end software solution that focuses heavily on automating key church activities such as managing church events, coordinating any church payments seamlessly, and keeping a standard database for the congregation.",
+      "It aims at relieving church pastors and administrative workers of the huge burden of keeping track of members, finances, and all other important records.",
     ],
   },
   {
-    title: "Pews Pro Church Management Software",
+    title: "Pews-Pro Church Management Software",
     status: "Development Stage",
     image:
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
+     link: 
+       "https://www.sparkxplorer.com/",
     content: [
       {
         title: "Project Overview",
@@ -124,6 +108,21 @@ const projects = [
           },
         ],
       },
+    ],
+    description: [
+      "Pews Pro Church Management Software is an end-to-end software solution that focuses heavily on automating key church activities such as managing church events, coordinating any church payments seamlessly, and keeping a standard database for the congregation.",
+      "It aims at relieving church pastors and administrative workers of the huge burden of keeping track of members, finances, and all other important records.",
+    ],
+  },
+  {
+    title: "Xplorer EdTech Platform Design",
+    status: "Live",
+    image:
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1728145480/Capturetrererre_fjipre.png",
+    link: "https://www.sparkxplorer.com/",
+    description: [
+      "SparkXplorer is an innovative US-based after-school practice platform designed to support families striving for the American Dream.",
+      "It's dedicated to migrant families, everyday Americans working tirelessly to provide for their loved ones, and single parents seeking ways to keep their kids engaged and productive after school.",
     ],
   },
   {
