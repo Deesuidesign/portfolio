@@ -33,7 +33,7 @@ const projects = [
           },
           {
             type: "text",
-            text: "It's dedicated to migrant families, everyday Americans working tirelessly to provide for their loved ones, and single parents seeking ways to keep their kids engaged and productive after school.",
+            text: "The goal is to create an intuitive, engaging, and scalable platform that enhances student learning, educator efficiency, and institutional growth.",
           }
         ],
       },
