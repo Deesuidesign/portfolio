@@ -191,7 +191,7 @@ const projects = [
     ],
   },
   {
-    title: "A App",
+    title: "App",
     status: "Development Stage",
     image:
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
@@ -216,7 +216,7 @@ const projects = [
         content: [
           {
             type: "video",
-            url: "https://www.youtube.com/watch?v=V1VQ-Dy6R9M",
+            url: "https://www.tiktok.com/@dees_ui/video/7339461276994948357?is_from_webapp=1&sender_device=pc",
           },
         ],
       },
