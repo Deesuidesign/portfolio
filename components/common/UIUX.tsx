@@ -29,11 +29,11 @@ const projects = [
         content: [
           {
             type: "text",
-            text: "Pews Pro Church Management Software is an end-to-end software solution that focuses heavily on automating key church activities such as managing church events, coordinating any church payments seamlessly, and keeping a standard database for the congregation.",
+            text: "Spark Xplorer is an innovative US-based after-school practice platform designed to support families striving for the American Dream.",
           },
           {
             type: "text",
-            text: "It aims at relieving church pastors and administrative workers of the huge burden of keeping track of members, finances, and all other important records.",
+            text: "It's dedicated to migrant families, everyday Americans working tirelessly to provide for their loved ones, and single parents seeking ways to keep their kids engaged and productive after school.",
           }
         ],
       },
