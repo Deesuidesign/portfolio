@@ -82,10 +82,10 @@ const projects = [
     ],
   },
   {
-    title: "Xplorer Design",
+    title: "Xplorer EdTech Design",
     status: "Live",
     image:
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1728145480/Capturetrererre_fjipre.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1738835480/Frame_1321314748_yqq2jg.png",
      link: 
        "https://www.sparkxplorer.com/",
     content: [
