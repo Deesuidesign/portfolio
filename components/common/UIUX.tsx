@@ -22,7 +22,6 @@ const projects = [
     status: "Development Stage",
     image:
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
-    link: "https://www.sparkxplorer.com/",
     content: [
       {
         title: "Project Overview",
@@ -53,10 +52,10 @@ const projects = [
     ],
   },
   {
-    title: "Spark Church Management Software",
-    status: "Development Stage",
+    title: "Xplorer EdTech Platform Design",
+    status: "Live",
     image:
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1728145480/Capturetrererre_fjipre.png",
      link: 
        "https://www.sparkxplorer.com/",
     content: [
