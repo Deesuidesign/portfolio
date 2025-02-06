@@ -43,9 +43,9 @@ const projects = [
           {
             type: "swipper",
             img_list: [
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738839497/Spark_1_wtamcn.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738839498/Spark_2_jjwwnj.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738839497/Spark_3_umnc61.png",
             ],
           },
         ],
