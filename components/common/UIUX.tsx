@@ -18,44 +18,6 @@ import { X } from "lucide-react";
 // Array of project data
 const projects = [
   {
-    title: "New Project",
-    status: "Development Stage",
-    image:
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
-    content: [
-      {
-        title: "Project Overview",
-        content: [
-          {
-            type: "text",
-            text: "Pews Pro Church Management Software is an end-to-end software solution that focuses heavily on automating key church activities such as managing church events, coordinating any church payments seamlessly, and keeping a standard database for the congregation.",
-          },
-          {
-            type: "text",
-            text: "It aims at relieving church pastors and administrative workers of the huge burden of keeping track of members, finances, and all other important records.",
-          }
-        ],
-      },
-      {
-        title: "Project Screens",
-        content: [
-          {
-            type: "swipper",
-            img_list: [
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
-            ],
-          },
-        ],
-      },
-    ],
-    description: [
-      "Pews Pro Church Management Software is an end-to-end software solution that focuses heavily on automating key church activities such as managing church events, coordinating any church payments seamlessly, and keeping a standard database for the congregation.",
-      "It aims at relieving church pastors and administrative workers of the huge burden of keeping track of members, finances, and all other important records.",
-    ],
-  },
-  {
     title: "Pews-Pro Church Management Software",
     status: "Development Stage",
     image:
@@ -74,15 +36,6 @@ const projects = [
             type: "text",
             text: "It aims at relieving church pastors and administrative workers of the huge burden of keeping track of members, finances, and all other important records.",
           }
-        ],
-      },
-      {
-        title: "Project Prototype",
-        content: [
-          {
-            type: "video",
-            url: "https://www.youtube.com/embed/HAdROFr7VRQ?si=DgbZT9WxrDFY5KMJ",
-          },
         ],
       },
       {
@@ -110,6 +63,40 @@ const projects = [
     image:
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1728145480/Capturetrererre_fjipre.png",
     link: "https://www.sparkxplorer.com/",
+        content: [
+      {
+        title: "Project Overview",
+        content: [
+          {
+            type: "text",
+            text: "SparkXplorer is an innovative US-based after-school practice platform designed to support families striving for the American Dream.",
+          },
+          {
+            type: "text",
+            text: "It's dedicated to migrant families, everyday Americans working tirelessly to provide for their loved ones, and single parents seeking ways to keep their kids engaged and productive after school.",
+          }
+        ],
+      },
+      {
+        title: "Project Screens",
+        content: [
+          {
+            type: "swipper",
+            img_list: [
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
+            ],
+          },
+        ],
+      },
+    ],
+    description: [
+      "Pews Pro Church Management Software is an end-to-end software solution that focuses heavily on automating key church activities such as managing church events, coordinating any church payments seamlessly, and keeping a standard database for the congregation.",
+      "It aims at relieving church pastors and administrative workers of the huge burden of keeping track of members, finances, and all other important records.",
+    ],
+  },
+    
     description: [
       "SparkXplorer is an innovative US-based after-school practice platform designed to support families striving for the American Dream.",
       "It's dedicated to migrant families, everyday Americans working tirelessly to provide for their loved ones, and single parents seeking ways to keep their kids engaged and productive after school.",
