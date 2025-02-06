@@ -73,8 +73,8 @@ const projects = [
             type: "swipper",
             img_list: [
               "https://res.cloudinary.com/delbjwwfy/image/upload/v1738833832/Hugley_5_hkaat7.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738833833/Hugley_2_drmt4r.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738833833/Hugley_3_aicwtg.png",
             ],
           },
         ],
