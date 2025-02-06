@@ -216,7 +216,7 @@ const projects = [
         content: [
           {
             type: "video",
-            url: "https://embed.figma.com/proto/XnNlcGJfRCa4i00VBQTCYQ/Scooter-app?page-id=0%3A1&node-id=6-3337&viewport=809%2C361%2C0.36&scaling=scale-down&content-scaling=fixed&embed-host=share",
+            url: "https://www.youtube.com/embed/V1VQ-Dy6R9M?si=UCh9XJ0P2N435C5-",
           },
         ],
       },
