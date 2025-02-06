@@ -240,17 +240,6 @@ const projects = [
     ],
   },
   {
-    title: "Xplorer EdTech Platform Design",
-    status: "Live",
-    image:
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1728145480/Capturetrererre_fjipre.png",
-    link: "https://www.sparkxplorer.com/",
-    description: [
-      "SparkXplorer is an innovative US-based after-school practice platform designed to support families striving for the American Dream.",
-      "It's dedicated to migrant families, everyday Americans working tirelessly to provide for their loved ones, and single parents seeking ways to keep their kids engaged and productive after school.",
-    ],
-  },
-  {
     title: "SG Scoot App Design",
     status: "Launched",
     image:
