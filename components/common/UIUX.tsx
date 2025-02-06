@@ -107,21 +107,21 @@ const projects = [
     ],
   },
     {
-    title: "Hugley Dating App Design",
+    title: "Pews Pro Church Management Software",
     status: "Development Stage",
     image:
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1738840462/Captureyrrtrt_pnhqyd_mbhtao.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
     content: [
       {
         title: "Project Overview",
         content: [
           {
             type: "text",
-            text: "Hugley is a unique dating app specifically for individuals with intellectual disabilities, designed to foster meaningful connections in a safe and inclusive environment.",
+            text: "Pews Pro Church Management Software is an end-to-end software solution that focuses heavily on automating key church activities such as managing church events, coordinating any church payments seamlessly, and keeping a standard database for the congregation.",
           },
           {
             type: "text",
-            text: "Whether you're seeking friendship, companionship, or love, Hugley provides a supportive space where users can interact comfortably and authentically.",
+            text: "It aims at relieving church pastors and administrative workers of the huge burden of keeping track of members, finances, and all other important records.",
           }
         ],
       },
