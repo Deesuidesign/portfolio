@@ -18,12 +18,10 @@ import { X } from "lucide-react";
 // Array of project data
 const projects = [
   {
-    title: "Xplorer EdTech Design",
+    title: "Pews Pro Church Management Software",
     status: "Live",
     image:
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1738835480/Frame_1321314748_yqq2jg.png",
-     link: 
-       "https://www.sparkxplorer.com/",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
     content: [
       {
         title: "Project Overview",
@@ -36,15 +34,6 @@ const projects = [
             type: "text",
             text: "It aims at relieving church pastors and administrative workers of the huge burden of keeping track of members, finances, and all other important records.",
           }
-        ],
-      },
-      {
-        title: "Project Prototype",
-        content: [
-          {
-            type: "video",
-            url: "https://www.youtube.com/embed/HAdROFr7VRQ?si=DgbZT9WxrDFY5KMJ",
-          },
         ],
       },
       {
@@ -92,11 +81,13 @@ const projects = [
       },
     ],
   },
-    {
-    title: "Pews Pro Church Management Software",
-    status: "Development Stage",
+  {
+    title: "Xplorer EdTech Design",
+    status: "Live",
     image:
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1738835480/Frame_1321314748_yqq2jg.png",
+     link: 
+       "https://www.sparkxplorer.com/",
     content: [
       {
         title: "Project Overview",
@@ -109,6 +100,15 @@ const projects = [
             type: "text",
             text: "It aims at relieving church pastors and administrative workers of the huge burden of keeping track of members, finances, and all other important records.",
           }
+        ],
+      },
+      {
+        title: "Project Prototype",
+        content: [
+          {
+            type: "video",
+            url: "https://www.youtube.com/embed/HAdROFr7VRQ?si=DgbZT9WxrDFY5KMJ",
+          },
         ],
       },
       {
