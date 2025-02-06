@@ -67,7 +67,7 @@ const projects = [
     title: "Spark Xplorer EDTech Platform Design",
     status: "Live",
     image:
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1738839634/Frame_1321314748_h0yi5k.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1738840462/Captureyrrtrt_pnhqyd_mbhtao.png",
     link: "https://www.sparkxplorer.com/",
     content: [
       {
