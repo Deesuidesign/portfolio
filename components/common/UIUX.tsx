@@ -174,7 +174,7 @@ const projects = [
         content: [
           {
             type: "video",
-            url: "https://www.youtube.com/embed/HAdROFr7VRQ?si=DgbZT9WxrDFY5KMJ",
+            url: "https://www.instagram.com/p/C3w86B3tOwW/",
           },
         ],
       },
