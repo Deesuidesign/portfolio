@@ -57,6 +57,45 @@ const projects = [
     ],
   },
   {
+    title: "Spark Xplorer EDTech Platform Design",
+    status: "Live",
+    image:
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1738839634/Frame_1321314748_h0yi5k.png",
+    link: "https://www.sparkxplorer.com/",
+    content: [
+      {
+        title: "Project Overview",
+        content: [
+          {
+            type: "text",
+            text: "Spark Xplorer is an innovative US-based after-school practice platform designed to support families striving for the American Dream.",
+          },
+          {
+            type: "text",
+            text: "It's dedicated to migrant families, everyday Americans working tirelessly to provide for their loved ones, and single parents seeking ways to keep their kids engaged and productive after school.",
+          }
+        ],
+      },
+      {
+        title: "Project Screens",
+        content: [
+          {
+            type: "swipper",
+            img_list: [
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738839497/Spark_1_wtamcn.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738839498/Spark_2_jjwwnj.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738839497/Spark_3_umnc61.png",
+            ],
+          },
+        ],
+      },
+    ],
+    description: [
+      "Pews Pro Church Management Software is an end-to-end software solution that focuses heavily on automating key church activities such as managing church events, coordinating any church payments seamlessly, and keeping a standard database for the congregation.",
+      "It aims at relieving church pastors and administrative workers of the huge burden of keeping track of members, finances, and all other important records.",
+    ],
+  },  
+  {
     title: "Hugley App",
     status: "Development Stage",
     image:
