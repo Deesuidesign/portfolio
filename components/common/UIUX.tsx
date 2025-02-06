@@ -52,7 +52,7 @@ const projects = [
     ],
   },
   {
-    title: "Xplorer EdTech Platform Design",
+    title: "Xplorer Design",
     status: "Live",
     image:
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1728145480/Capturetrererre_fjipre.png",
@@ -73,6 +73,15 @@ const projects = [
         ],
       },
       {
+        title: "Project Prototype",
+        content: [
+          {
+            type: "video",
+            url: "https://www.youtube.com/embed/HAdROFr7VRQ?si=DgbZT9WxrDFY5KMJ",
+          },
+        ],
+      },
+      {
         title: "Project Screens",
         content: [
           {
@@ -85,37 +94,6 @@ const projects = [
           },
         ],
       },
-    ],
-  },
-  {
-    title: "Xplorer EdTech Platform Design",
-    status: "Live",
-    image:
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1728145480/Capturetrererre_fjipre.png",
-    link: "https://www.sparkxplorer.com/",
-    description: [
-      "SparkXplorer is an innovative US-based after-school practice platform designed to support families striving for the American Dream.",
-      "It's dedicated to migrant families, everyday Americans working tirelessly to provide for their loved ones, and single parents seeking ways to keep their kids engaged and productive after school.",
-    ],
-  },
-  {
-    title: "ZKDigimax Website",
-    status: "Live",
-    image:
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1727177789/Capturelpoioioi_ruykwt.png",
-    link: "https://www.zkdigimax.com/",
-    description: [
-      "ZKDigimax Website is designed to create a comprehensive solution for the retail and quick service from digital signage to AI business analysis.",
-    ],
-  },
-  {
-    title: "Hugley Dating and Friendship App",
-    status: "Development Stage",
-    image:
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1737530305/Captureyrrtrt_pnhqyd.png",
-    link: "https://www.instagram.com/p/DFVHnYntGZ5/?img_index=1",
-    description: [
-      "Hugley is a unique dating app specifically for individuals with intellectual disabilities, designed to foster meaningful connections in a safe and inclusive environment.",
     ],
   },
   {
