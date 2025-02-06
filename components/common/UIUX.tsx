@@ -64,8 +64,8 @@ const projects = [
     ],
   },
   {
-    title: "Spark Xplorer EDTech Platform Design",
-    status: "Live",
+    title: "Hugley Dating App Design",
+    status: "Development Stage",
     image:
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1738840462/Captureyrrtrt_pnhqyd_mbhtao.png",
     link: "https://www.sparkxplorer.com/",
@@ -75,11 +75,11 @@ const projects = [
         content: [
           {
             type: "text",
-            text: "Spark Xplorer is an innovative US-based after-school practice platform designed to support families striving for the American Dream.",
+            text: "Hugley is a unique dating app specifically for individuals with intellectual disabilities, designed to foster meaningful connections in a safe and inclusive environment.",
           },
           {
             type: "text",
-            text: "It's dedicated to migrant families, everyday Americans working tirelessly to provide for their loved ones, and single parents seeking ways to keep their kids engaged and productive after school.",
+            text: "Whether you're seeking friendship, companionship, or love, Hugley provides a supportive space where users can interact comfortably and authentically.",
           }
         ],
       },
