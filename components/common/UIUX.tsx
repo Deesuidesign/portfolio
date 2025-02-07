@@ -191,23 +191,21 @@ const projects = [
     ],
   },
   {
-    title: "App",
+    title: "SG Scoot App Design",
     status: "Development Stage",
     image:
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
-     link: 
-       "https://www.sparkxplorer.com/",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726062138/SG_Scoot_Mobile_App_nepvaz.png",
     content: [
       {
         title: "Project Overview",
         content: [
           {
             type: "text",
-            text: "Pews Pro Church Management Software is an end-to-end software solution that focuses heavily on automating key church activities such as managing church events, coordinating any church payments seamlessly, and keeping a standard database for the congregation.",
+            text: "SG Scoot App is a user-friendly and visually engaging platform designed to make scooter and bike-sharing services convenient, intuitive, and efficient for users.",
           },
           {
             type: "text",
-            text: "It aims at relieving church pastors and administrative workers of the huge burden of keeping track of members, finances, and all other important records.",
+            text: "The app is built with a clean, modern interface, emphasizing accessibility, functionality, and seamless navigation.",
           }
         ],
       },
@@ -237,17 +235,6 @@ const projects = [
     description: [
       "Pews Pro Church Management Software is an end-to-end software solution that focuses heavily on automating key church activities such as managing church events, coordinating any church payments seamlessly, and keeping a standard database for the congregation.",
       "It aims at relieving church pastors and administrative workers of the huge burden of keeping track of members, finances, and all other important records.",
-    ],
-  },
-  {
-    title: "SG Scoot App Design",
-    status: "Launched",
-    image:
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726062138/SG_Scoot_Mobile_App_nepvaz.png",
-    link: "https://www.instagram.com/p/C3w86B3tOwW/",
-    description: [
-      "SG Scoot App is a user-friendly and visually engaging platform designed to make scooter and bike-sharing services convenient, intuitive, and efficient for users.",
-      "The app is built with a clean, modern interface, emphasizing accessibility, functionality, and seamless navigation.",
     ],
   },
   {
