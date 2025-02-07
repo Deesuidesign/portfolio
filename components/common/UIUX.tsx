@@ -224,9 +224,12 @@ const projects = [
           {
             type: "swipper",
             img_list: [
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738933454/iPhone_14_15_Pro_Max_-_43_vqbrca.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738933455/Frame_67_p2jfn0.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738933453/Frame_68_pqyjuf.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738933457/Frame_69_qy6blx.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738933456/iPhone_14_15_Pro_Max_-_45_r6d76b.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738933463/iPhone_14_15_Pro_Max_-_44_jxu51c.png",
             ],
           },
         ],
