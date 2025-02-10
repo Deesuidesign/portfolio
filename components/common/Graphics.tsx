@@ -3,6 +3,7 @@ import Image from "next/image";
 import { useState } from "react";
 import Modal from "@mui/material/Modal";
 import { Box } from "@mui/material";
+import { CustomSwiper } from "./UIUX";
 
 // Array of project data
 const projects = [
@@ -185,7 +186,7 @@ const Graphics = () => {
             top: "50%",
             left: "50%",
             transform: "translate(-50%, -50%)",
-            width: "50%",
+            width: "fit-content",
             bgcolor: "background.paper",
             boxShadow: 24,
             p: 4,
@@ -194,17 +195,7 @@ const Graphics = () => {
             textAlign: "center",
           }}
         >
-          <div className="flex justify-between items-center mb-4">
-            <button className="bg-black text-white rounded-3xl px-3 py-2 text-xs font-semibold" onClick={handlePreviousImage}>Previous</button>
-            <button className="bg-black text-white rounded-3xl px-3 py-2 text-xs font-semibold" onClick={handleNextImage}>Next</button>
-          </div>
-          <Image
-            src={selectedImages[activeImageIndex]}
-            alt={`Project Image ${activeImageIndex + 1}`}
-            width={600}
-            height={400}
-            className="object-contain w-full h-96 rounded-2xl"
-          />
+          <CustomSwiper images={selectedImages} />
         </Box>
       </Modal>
     </div>

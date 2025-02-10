@@ -532,7 +532,7 @@ const ProjectDialog = ({ open, setOpen, project }: Props) => (
   </Dialog>
 );
 
-const CustomSwiper = ({ images }: { images: string[] }) => {
+export const CustomSwiper = ({ images }: { images: string[] }) => {
   const [currentIndex, setCurrentIndex] = useState(0);
 
   const prevSlide = () => {
