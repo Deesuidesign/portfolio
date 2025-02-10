@@ -23,9 +23,15 @@ const projects = [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067359/ZKTeco_drahkm.png", // Cover Image
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067352/ZKTeco_6_ydiiuv.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067321/ZKTeco_7_jsmbw2.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1739192096/f18_f22_zpvifi.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1739192424/zkteco_workers_day_vdqipw.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1739192156/ADP_And_Partner_Bannerd_ew7aif.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1739192161/Proface_x_k35pca.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067366/ZKTeco_4_oyq5pc.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067358/ZKTeco_2_w8sjap.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067365/ZKTeco_3_h21lvl.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1739192160/EP20_AMARTURA_qjlw4n.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1739192344/D3_utgzun.png",
     ],
   },
    {
@@ -37,6 +43,16 @@ const projects = [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726070011/BaoBad_Plus_2_wry2t5.png",
     ],
   },
+  {
+    title: "Spark Xplorer Designs",
+    status: "Delivered",
+    images: [
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1739191534/Spark_Xplorer_brochure_erer_mwvfnh.png", // Cover Image
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1739191570/Spark_Xplorer_brochureRE_jzjnen.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1739191512/Spark_Xplorer_brochurereer_rzjc52.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1739191529/Spark_Xplorer_brochuretrt_g9uiww.png",
+    ],
+  },  
   {
     title: "Noble-Mind Schools Yearbook Designs",
     status: "Delivered",
