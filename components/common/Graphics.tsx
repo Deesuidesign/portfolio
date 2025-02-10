@@ -21,7 +21,8 @@ const projects = [
     status: "Delivered",
     images: [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067359/ZKTeco_drahkm.png", // Cover Image
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067352/ZKTeco_6_ydiiuv.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1739192750/sdst_vnktar.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1739192872/ZKTeco_5_cpidqf.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067321/ZKTeco_7_jsmbw2.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1739192096/f18_f22_zpvifi.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1739192424/zkteco_workers_day_vdqipw.png",
@@ -47,7 +48,7 @@ const projects = [
     title: "Spark Xplorer Designs",
     status: "Delivered",
     images: [
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1739191534/Spark_Xplorer_brochure_erer_mwvfnh.png", // Cover Image
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1739193107/Spark_Xplorer_brochure_erer_fgjfbm.png", // Cover Image
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1739191570/Spark_Xplorer_brochureRE_jzjnen.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1739191512/Spark_Xplorer_brochurereer_rzjc52.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1739191529/Spark_Xplorer_brochuretrt_g9uiww.png",
