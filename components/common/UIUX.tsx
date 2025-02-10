@@ -37,6 +37,15 @@ const projects = [
           }
         ],
       },
+     {
+        title: "Project Prototype",
+        content: [
+          {
+            type: "video",
+            url: "https://www.youtube.com/embed/Oui04QdQEFg?si=oyCBA2Uvech23Hu3",
+          },
+        ],
+      },      
       {
         title: "Project Screens",
         content: [
