@@ -310,6 +310,16 @@ const projects = [
     ],
   },
   {
+    title: "NGTeco E-Commerce Website",
+    status: "Live",
+    image:
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726060568/NGTeco_ght9at.png",
+    link: "https://ngteco.ng/",
+    description: [
+      "The Website is designed to explore various market segments with its cutting-edge biometric technologies and IoT concepts plus techniques to upgrade user experience of home-use electric and security appliances, and lead the trend of mobile application and terminal interaction.",
+    ],
+  },  
+  {
     title: "Bondle Dating App",
     status: "Launched",
     image:
@@ -370,16 +380,6 @@ const projects = [
     description: [
       "StyleCart is designed for tech-savvy shoppers who value convenience, aesthetics, and a personalized shopping journey. From trendsetters to budget-conscious buyers, the app caters to a broad spectrum of fashion enthusiasts.",
       "With its visually appealing design and robust features, StyleCart is the ultimate platform for discovering and shopping the latest trends with ease.",
-    ],
-  },
-  {
-    title: "NGTeco E-Commerce Website",
-    status: "Live",
-    image:
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726060568/NGTeco_ght9at.png",
-    link: "https://ngteco.ng/",
-    description: [
-      "The Website is designed to explore various market segments with its cutting-edge biometric technologies and IoT concepts plus techniques to upgrade user experience of home-use electric and security appliances, and lead the trend of mobile application and terminal interaction.",
     ],
   },
   {
