@@ -119,7 +119,7 @@ const projects = [
     title: "ExoPrime Exosome Website Design",
     status: "Development Stage",
     image:
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1739285487/Exo-Prime_Cover_ednerm.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1739286356/Exo-Prime_Cover_r7w5ou.png",
     content: [
       {
         title: "Project Overview",
