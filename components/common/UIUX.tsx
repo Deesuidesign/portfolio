@@ -115,6 +115,55 @@ const projects = [
       "It aims at relieving church pastors and administrative workers of the huge burden of keeping track of members, finances, and all other important records.",
     ],
   },
+  {
+    title: "ExoPrime Exosome Website Design",
+    status: "Development Stage",
+    image:
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1739285487/Exo-Prime_Cover_ednerm.png",
+    content: [
+      {
+        title: "Project Overview",
+        content: [
+          {
+            type: "text",
+            text: "ExoPrime International develops groundbreaking skin rejuvenation solutions based on advanced exosome technology. Nestled in the outskirts of ancient Rome, ExoPrime International is on the cutting edge of exosome-based mesotherapy and bioscience.",
+          },
+          {
+            type: "text",
+            text: "The website will serve as an engaging platform for customers to explore products, access beauty tips, and make purchases effortlessly.",
+          }
+        ],
+      },
+      {
+        title: "Project Prototype",
+        content: [
+          {
+            type: "video",
+            url: "https://www.youtube.com/embed/wNS6NQQjNAQ?si=Lxh6hJocbzxT0bB7",
+          },
+        ],
+      },           
+      {
+        title: "Project Screens",
+        content: [
+          {
+            type: "swipper",
+            img_list: [
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1739285478/Exo-Prime_1_wfzrvi.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1739285488/Exo-Prime_2_hxbsmn.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1739285490/Exo-Prime_4_tcwntw.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1739285486/Exo-Prime_3_s3jay4.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1739285484/Exo-Prime_5_onfjjb.png",
+            ],
+          },
+        ],
+      },
+    ],
+    description: [
+      "Pews Pro Church Management Software is an end-to-end software solution that focuses heavily on automating key church activities such as managing church events, coordinating any church payments seamlessly, and keeping a standard database for the congregation.",
+      "It aims at relieving church pastors and administrative workers of the huge burden of keeping track of members, finances, and all other important records.",
+    ],
+  },  
     {
     title: "Pews Pro Church Management Software",
     status: "Development Stage",
