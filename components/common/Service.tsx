@@ -59,18 +59,18 @@ function Service() {
           {services.map((item) => (
             <li key={item.title} className="bg-white rounded p-5">
               {item.icon}
-              <h3 className="font-semibold text-xl my-3">{item.title}</h3>
+              <h3 className="font-bold text-xl my-3">{item.title}</h3>
               <p className="text-text-color">{item.description}</p>
             </li>
           ))}
         </ul>
 
         <div className="px-8 py-5 bg-white rounded">
-          <h2 className="text-[#0B78F4] text-3xl md:text-4xl font-semibold mb-5">
+          <h2 className="text-[#0B78F4] text-xl md:text-2xl font-semibold mb-5">
             Software Skills
           </h2>
 
-          <ul className="flex flex-wrap justify-center lg:justify-between gap-5">
+          <ul className="grid grid-cols-2 md:flex flex-wrap md:justify-center lg:justify-between gap-5">
             {images.map((item, i) => (
               <li key={i} className="w-32">
                 <Image src={item} alt="image-icon" className="mx-auto" />
