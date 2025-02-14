@@ -1,11 +1,11 @@
 import { Gem, GraduationCap, Activity, Hexagon } from "lucide-react";
 import Figma from "../../public/services/Frame 1321314528.png";
 import Miro from "../../public/services/Frame 1321314748.png";
-import Illustrator from "../../public/services/Frame 1321314749.png";
-import PhotoShop from "../../public/services/Frame 1321314750.png";
+import PhotoShop from "../../public/services/Frame 1321314749.png";
+import Effects from "../../public/services/Frame 1321314750.png";
 import Corel from "../../public/services/Frame 1321314751.png";
-import Effects from "../../public/services/Frame 1321314752.png";
-import Filmora from "../../public/services/Frame 1321314753.png";
+import Filmora from "../../public/services/Frame 1321314752.png";
+import Illustrator from "../../public/services/Frame 1321314753.png";
 import Image from "next/image";
 
 const images = [Figma, Miro, Illustrator, PhotoShop, Corel, Effects, Filmora];
