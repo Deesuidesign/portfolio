@@ -11,7 +11,7 @@ const Header: React.FC = () => {
     setMobileMenuOpen(!mobileMenuOpen);
   };
   return (
-    <header className="max-w-screen-2xl mx-auto bg-[#190634] left-0 right-0 w-full fixed text-white z-50">
+    <header className="max-w-screen-xl mx-auto bg-[#190634] left-0 right-0 w-full fixed text-white z-50">
       <div className="lg:hidden mt-4 flex justify-between items-center px-4 py-2">
         <Link href="/">
           <Image src={Logo} alt="Logo" className="h-7 w-14 object-contain" />
@@ -114,7 +114,6 @@ const Header: React.FC = () => {
         </div>
       </div>
     </header>
-
   );
 };
 

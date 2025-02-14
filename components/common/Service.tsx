@@ -46,7 +46,7 @@ function Service() {
           Why Hire Me For Your Next{" "}
           <span className="text-[#0B78F4]">Projects</span>
         </h2>
-        <p className="text-white md:w-5/6 opacity-85 leading-loose font-normal my-9 text-xl text-justify">
+        <p className="text-white opacity-85 leading-loose font-normal my-9 text-xl text-justify ">
           I am a Product & Graphic Designer with a keen eye for user-centered,
           intuitive, and visually stimulating designs. With my distinct skill
           set in Graphic Design, user research, wireframe development,
