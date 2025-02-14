@@ -10,8 +10,8 @@ import UIUX from "../components/common/UIUX";
 import Services from "../components/common/Services";
 import Hero from "../components/common/Hero";
 
-
 import { useRouter } from "next/router";
+import Service from "../components/common/Service";
 
 const Dashboard = () => {
   const router = useRouter();
@@ -24,7 +24,7 @@ const Dashboard = () => {
       <div className="mt-2">
         <div className="">
           <Hero />
-          <Services />
+          <Service />
           <UIUX />
           <Graphics />
           <Trusted />
