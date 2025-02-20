@@ -115,6 +115,32 @@ const projects = [
             type: "text",
             text: "Whether you're seeking friendship, companionship, or love, Hugley provides a supportive space where users can interact comfortably and authentically.",
           }
+      {
+        title: "Problem Statement",
+        content: [
+          {
+            type: "text",
+            text: "Individuals with intellectual disabilities often encounter barriers when using mainstream dating apps due to complex interfaces, safety concerns, and social stigmas. There is a lack of platforms catering to their unique needs, making it difficult for them to form meaningful relationships.",
+          },
+          {
+            type: "text",
+            text: "Hugley was developed to bridge this gap by offering an intuitive and secure dating experience tailored to their needs.",
+          }
+        ],
+      },
+      {
+        title: "Solution Statement",
+        content: [
+          {
+            type: "text",
+            text: "Hugley app successfully addresses the challenges faced by individuals with intellectual disabilities in the dating world by prioritizing inclusivity, accessibility, and safety.",
+          },
+          {
+            type: "text",
+            text: "Through thoughtful UI/UX design, Hugley fosters a secure and welcoming environment for building meaningful relationships.",
+          }
+        ],
+      },                        
         ],
       },
       {
