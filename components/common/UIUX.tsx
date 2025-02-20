@@ -42,24 +42,12 @@ const projects = [
         content: [
           {
             type: "text",
-            text: "Many families, particularly those striving for the American Dream, face barriers to quality after-school education, including:",
+            text: "Many working parents struggle to find high-quality after-school educational resources that provide structured learning opportunities for their children. Traditional tutoring services are expensive and often inaccessible, leaving a gap in after-school education.",
           },
           {
             type: "text",
-            text: "Limited access to affordable and structured learning resources.",
+            text: "SparkXplorer was created to bridge this gap by offering an interactive, affordable, and accessible digital learning experience.",
           }
-          {
-            type: "text",
-            text: "Difficulty in balancing work schedules with their children’s academic progress.",
-          }    
-          {
-            type: "text",
-            text: "Lack of personalized learning pathways tailored to individual student needs.",
-          }    
-          {
-            type: "text",
-            text: "How might we design a seamless and engaging digital learning experience that supports both students and parents in their journey toward academic success?",
-          }                        
         ],
       },      
      {
