@@ -37,6 +37,19 @@ const projects = [
           }
         ],
       },
+      {
+        title: "Problem Statement",
+        content: [
+          {
+            type: "text",
+            text: "With the rise of online learning, many eLearning platforms suffer from poor user experience, lack of engagement, and complex navigation. Users often face issues such as information overload, difficulty in tracking progress, and lack of interactive learning tools.",
+          },
+          {
+            type: "text",
+            text: "SparkXplorer aims to address these challenges by providing a streamlined, user-centric experience that enhances learning efficiency and engagement.",
+          }
+        ],
+      },      
      {
         title: "Project Prototype",
         content: [
