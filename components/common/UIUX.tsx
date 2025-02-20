@@ -129,7 +129,20 @@ const projects = [
             text: "There is a lack of platforms catering to their unique needs, making it difficult for them to form meaningful relationships. Hugley was developed to bridge this gap by offering an intuitive and secure dating experience tailored to their needs.",
           }
         ],
-      },      
+      },   
+      {
+        title: "Solution Statement",
+        content: [
+          {
+            type: "text",
+            text: "Hugley successfully addresses the challenges faced by individuals with intellectual disabilities in the dating world by prioritizing inclusivity, accessibility, and safety.",
+          },
+          {
+            type: "text",
+            text: "Through thoughtful UI/UX design, Hugley fosters a secure and welcoming environment for building meaningful relationships.",
+          }
+        ],
+      },            
       {
         title: "Project Screens",
         content: [
