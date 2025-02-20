@@ -266,11 +266,11 @@ const projects = [
         content: [
           {
             type: "text",
-            text: "Despite offering high-quality cosmetic products, ExoPrime’s previous website faced challenges such as complicated navigation, lack of personalization, and suboptimal mobile performance.",
+            text: "Managing church operations, member engagement, and event coordination can be overwhelming for religious organizations. Many churches rely on outdated software or manual processes, leading to inefficiencies, communication gaps, and difficulty in tracking finances, attendance, and volunteer activities.",
           },
           {
             type: "text",
-            text: "Customers struggled with product discovery, and the checkout process led to high cart abandonment rates. The goal was to revamp the website to create a seamless, immersive, and conversion-driven shopping experience.",
+            text: "Existing church management solutions often lack user-friendly interfaces, making them challenging for church staff and members to navigate effectively.",
           }
         ],
       }, 
@@ -279,11 +279,11 @@ const projects = [
         content: [
           {
             type: "text",
-            text: "ExoPrime’s website redesign successfully elevated the online shopping experience, blending aesthetics with functionality.",
+            text: "Pews Pro is designed to simplify and streamline church management through an intuitive and accessible digital platform.",
           },
           {
             type: "text",
-            text: "By focusing on user-centric design, AI-driven personalization, and seamless mobile integration, the platform now delivers a high-end digital shopping journey that aligns with modern consumer expectations.",
+            text: "By implementing a research-driven, user-centric design, Pews Pro enhances church operations, fosters community engagement, and provides a seamless digital experience for church administrators, members, and volunteers.",
           }
         ],
       },                 
@@ -335,11 +335,11 @@ const projects = [
         content: [
           {
             type: "text",
-            text: "Despite offering high-quality cosmetic products, ExoPrime’s previous website faced challenges such as complicated navigation, lack of personalization, and suboptimal mobile performance.",
+            text: "ZKDigimax’s previous website faced several challenges, including complex navigation, lack of product clarity, and an outdated design. Users struggled to find relevant information, and the absence of interactive elements made it difficult for potential clients to understand the benefits of digital signage solutions.",
           },
           {
             type: "text",
-            text: "Customers struggled with product discovery, and the checkout process led to high cart abandonment rates. The goal was to revamp the website to create a seamless, immersive, and conversion-driven shopping experience.",
+            text: "Additionally, poor mobile responsiveness and slow loading speeds negatively impacted user experience and conversion rates.",
           }
         ],
       }, 
@@ -348,11 +348,11 @@ const projects = [
         content: [
           {
             type: "text",
-            text: "ExoPrime’s website redesign successfully elevated the online shopping experience, blending aesthetics with functionality.",
+            text: "The ZKDigimax website revamp successfully transformed the user experience by integrating modern UI/UX principles, improving content clarity, and enhancing engagement through interactive elements.",
           },
           {
             type: "text",
-            text: "By focusing on user-centric design, AI-driven personalization, and seamless mobile integration, the platform now delivers a high-end digital shopping journey that aligns with modern consumer expectations.",
+            text: "The new website effectively positions ZKDigimax as an industry leader in digital signage solutions.",
           }
         ],
       },                 
@@ -402,11 +402,11 @@ const projects = [
         content: [
           {
             type: "text",
-            text: "Despite offering high-quality cosmetic products, ExoPrime’s previous website faced challenges such as complicated navigation, lack of personalization, and suboptimal mobile performance.",
+            text: "Urban commuters in Singapore face challenges such as heavy traffic congestion, last-mile connectivity issues, and expensive transportation costs.",
           },
           {
             type: "text",
-            text: "Customers struggled with product discovery, and the checkout process led to high cart abandonment rates. The goal was to revamp the website to create a seamless, immersive, and conversion-driven shopping experience.",
+            text: "Existing scooter-sharing services lack intuitive navigation, real-time availability updates, and streamlined payment processes.",
           }
         ],
       }, 
@@ -415,11 +415,11 @@ const projects = [
         content: [
           {
             type: "text",
-            text: "ExoPrime’s website redesign successfully elevated the online shopping experience, blending aesthetics with functionality.",
+            text: "The SG Scoot app redesign successfully addressed user pain points, improving usability and engagement.",
           },
           {
             type: "text",
-            text: "By focusing on user-centric design, AI-driven personalization, and seamless mobile integration, the platform now delivers a high-end digital shopping journey that aligns with modern consumer expectations.",
+            text: "With a user-friendly interface and intuitive ride-booking experience, the app promotes eco-friendly urban commuting and enhances convenience for all users.",
           }
         ],
       },                 
