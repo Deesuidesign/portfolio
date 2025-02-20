@@ -187,6 +187,32 @@ const projects = [
         ],
       },
       {
+        title: "Problem Statement",
+        content: [
+          {
+            type: "text",
+            text: "Despite offering high-quality cosmetic products, ExoPrime’s previous website faced challenges such as complicated navigation, lack of personalization, and suboptimal mobile performance.",
+          },
+          {
+            type: "text",
+            text: "Customers struggled with product discovery, and the checkout process led to high cart abandonment rates. The goal was to revamp the website to create a seamless, immersive, and conversion-driven shopping experience.",
+          }
+        ],
+      }, 
+      {
+        title: "Solution Statement",
+        content: [
+          {
+            type: "text",
+            text: "ExoPrime’s website redesign successfully elevated the online shopping experience, blending aesthetics with functionality.",
+          },
+          {
+            type: "text",
+            text: "By focusing on user-centric design, AI-driven personalization, and seamless mobile integration, the platform now delivers a high-end digital shopping journey that aligns with modern consumer expectations.",
+          }
+        ],
+      },                  
+      {
         title: "Project Prototype",
         content: [
           {
