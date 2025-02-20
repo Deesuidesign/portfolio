@@ -38,16 +38,28 @@ const projects = [
         ],
       },
       {
-        title: "Problem Statements",
+        title: "Problem Statement",
         content: [
           {
             type: "text",
-            text: "With the rise of online learning, many eLearning platforms suffer from poor user experience, lack of engagement, and complex navigation. Users often face issues such as information overload, difficulty in tracking progress, and lack of interactive learning tools.",
+            text: "Many families, particularly those striving for the American Dream, face barriers to quality after-school education, including:",
           },
           {
             type: "text",
-            text: "SparkXplorer aims to address these challenges by providing a streamlined, user-centric experience that enhances learning efficiency and engagement.",
+            text: "Limited access to affordable and structured learning resources.",
           }
+          {
+            type: "text",
+            text: "Difficulty in balancing work schedules with their children’s academic progress.",
+          }    
+          {
+            type: "text",
+            text: "Lack of personalized learning pathways tailored to individual student needs.",
+          }    
+          {
+            type: "text",
+            text: "How might we design a seamless and engaging digital learning experience that supports both students and parents in their journey toward academic success?",
+          }                        
         ],
       },      
      {
