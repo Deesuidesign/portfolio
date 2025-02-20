@@ -79,6 +79,19 @@ const projects = [
           },
         ],
       },
+      {
+        title: "Solution Statement",
+        content: [
+          {
+            type: "text",
+            text: "To address the challenges faced by working families and students, the design focuses on delivering an intuitive, engaging, and accessible e-learning experience.",
+          },
+          {
+            type: "text",
+            text: "Through an empathetic and research-driven design approach, SparkXplorer enhances accessibility, fosters engagement, and empowers families in their educational journey, ensuring a more equitable and effective after-school learning experience.",
+          }
+        ],
+      },            
     ],
     description: [
       "Pews Pro Church Management Software is an end-to-end software solution that focuses heavily on automating key church activities such as managing church events, coordinating any church payments seamlessly, and keeping a standard database for the congregation.",
