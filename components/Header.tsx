@@ -4,6 +4,7 @@ import { useState } from "react";
 import Link from "next/link";
 
 import Logo from "../public/logo.svg";
+import DropdownMenu from "./ui/dropdown";
 
 const Header: React.FC = () => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -34,7 +35,7 @@ const Header: React.FC = () => {
       <nav className={`mt-3 ${mobileMenuOpen ? "block" : "hidden"}`}>
         <ul className="lg:hidden flex p-4 bg-gray-100 border-gray-300 text-[#0B78F4] rounded border font-semibold flex-col space-y-3">
           <li>
-            <Link href="#uiux">Portfolio</Link>
+            <DropdownMenu isMobile={mobileMenuOpen} />
           </li>
           <li>
             <Link href="#services">Services</Link>
@@ -77,7 +78,7 @@ const Header: React.FC = () => {
           <nav>
             <ul className="flex items-center space-x-14 font-semibold">
               <li>
-                <Link href="#uiux">Portfolio</Link>
+                <DropdownMenu />
               </li>
               <li>
                 <Link href="#services">Services</Link>
