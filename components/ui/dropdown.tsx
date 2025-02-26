@@ -27,9 +27,14 @@ export default function DropdownMenu({ isMobile = false }: DropdownMenuProps) {
         aria-haspopup="true"
         aria-expanded={open ? "true" : undefined}
         onClick={handleClick}
-        className={`${
-          isMobile ? "text-blue" : "text-white"
-        } capitalize font-semibold font-sans text-base p-0`}
+        sx={{
+          textTransform: "capitalize",
+          fontWeight: "bold",
+          fontFamily: '"Plus Jakarta Sans", sans-serif',
+          fontSize: "16px",
+          color: isMobile ? "#0b78f4" : "white",
+          padding: 0,
+        }}
       >
         Portfolio
       </Button>
@@ -42,10 +47,10 @@ export default function DropdownMenu({ isMobile = false }: DropdownMenuProps) {
           "aria-labelledby": "basic-button",
         }}
       >
-        <MenuItem onClick={handleClose} className="text-blue">
+        <MenuItem onClick={handleClose} sx={{ color: "#0b78f4" }}>
           <Link href="#uiux">UIUX Design</Link>
         </MenuItem>
-        <MenuItem onClick={handleClose} className="text-blue">
+        <MenuItem onClick={handleClose} sx={{ color: "#0b78f4" }}>
           <Link href="#graphics">Graphic Design</Link>
         </MenuItem>
       </Menu>
