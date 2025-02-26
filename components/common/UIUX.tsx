@@ -37,6 +37,32 @@ const projects = [
           }
         ],
       },
+      {
+        title: "Problem Statement",
+        content: [
+          {
+            type: "text",
+            text: "Many working parents struggle to find high-quality after-school educational resources that provide structured learning opportunities for their children. Traditional tutoring services are expensive and often inaccessible, leaving a gap in after-school education.",
+          },
+          {
+            type: "text",
+            text: "SparkXplorer was created to bridge this gap by offering an interactive, affordable, and accessible digital learning experience.",
+          }
+        ],
+      },
+      {
+        title: "Solution Statement",
+        content: [
+          {
+            type: "text",
+            text: "To address the challenges faced by working families and students, the design focuses on delivering an intuitive, engaging, and accessible e-learning experience.",
+          },
+          {
+            type: "text",
+            text: "Through an empathetic and research-driven design approach, SparkXplorer enhances accessibility, fosters engagement, and empowers families in their educational journey, ensuring a more equitable and effective after-school learning experience.",
+          }
+        ],
+      },                  
      {
         title: "Project Prototype",
         content: [
@@ -88,9 +114,35 @@ const projects = [
           {
             type: "text",
             text: "Whether you're seeking friendship, companionship, or love, Hugley provides a supportive space where users can interact comfortably and authentically.",
-          }
+          }                      
         ],
       },
+      {
+        title: "Problem Statement",
+        content: [
+          {
+            type: "text",
+            text: "Individuals with intellectual disabilities often encounter barriers when using mainstream dating apps due to complex interfaces, safety concerns, and social stigmas.",
+          },
+          {
+            type: "text",
+            text: "There is a lack of platforms catering to their unique needs, making it difficult for them to form meaningful relationships. Hugley was developed to bridge this gap by offering an intuitive and secure dating experience tailored to their needs.",
+          }
+        ],
+      },   
+      {
+        title: "Solution Statement",
+        content: [
+          {
+            type: "text",
+            text: "Hugley successfully addresses the challenges faced by individuals with intellectual disabilities in the dating world by prioritizing inclusivity, accessibility, and safety.",
+          },
+          {
+            type: "text",
+            text: "Through thoughtful UI/UX design, Hugley fosters a secure and welcoming environment for building meaningful relationships.",
+          }
+        ],
+      },            
       {
         title: "Project Screens",
         content: [
@@ -134,6 +186,32 @@ const projects = [
           }
         ],
       },
+      {
+        title: "Problem Statement",
+        content: [
+          {
+            type: "text",
+            text: "Despite offering high-quality cosmetic products, ExoPrime’s previous website faced challenges such as complicated navigation, lack of personalization, and suboptimal mobile performance.",
+          },
+          {
+            type: "text",
+            text: "Customers struggled with product discovery, and the checkout process led to high cart abandonment rates. The goal was to revamp the website to create a seamless, immersive, and conversion-driven shopping experience.",
+          }
+        ],
+      }, 
+      {
+        title: "Solution Statement",
+        content: [
+          {
+            type: "text",
+            text: "ExoPrime’s website redesign successfully elevated the online shopping experience, blending aesthetics with functionality.",
+          },
+          {
+            type: "text",
+            text: "By focusing on user-centric design, AI-driven personalization, and seamless mobile integration, the platform now delivers a high-end digital shopping journey that aligns with modern consumer expectations.",
+          }
+        ],
+      },                  
       {
         title: "Project Prototype",
         content: [
@@ -184,6 +262,32 @@ const projects = [
         ],
       },
       {
+        title: "Problem Statement",
+        content: [
+          {
+            type: "text",
+            text: "Managing church operations, member engagement, and event coordination can be overwhelming for religious organizations. Many churches rely on outdated software or manual processes, leading to inefficiencies, communication gaps, and difficulty in tracking finances, attendance, and volunteer activities.",
+          },
+          {
+            type: "text",
+            text: "Existing church management solutions often lack user-friendly interfaces, making them challenging for church staff and members to navigate effectively.",
+          }
+        ],
+      }, 
+      {
+        title: "Solution Statement",
+        content: [
+          {
+            type: "text",
+            text: "Pews Pro is designed to simplify and streamline church management through an intuitive and accessible digital platform.",
+          },
+          {
+            type: "text",
+            text: "By implementing a research-driven, user-centric design, Pews Pro enhances church operations, fosters community engagement, and provides a seamless digital experience for church administrators, members, and volunteers.",
+          }
+        ],
+      },                 
+      {
         title: "Project Screens",
         content: [
           {
@@ -227,6 +331,32 @@ const projects = [
         ],
       },
       {
+        title: "Problem Statement",
+        content: [
+          {
+            type: "text",
+            text: "ZKDigimax’s previous website faced several challenges, including complex navigation, lack of product clarity, and an outdated design. Users struggled to find relevant information, and the absence of interactive elements made it difficult for potential clients to understand the benefits of digital signage solutions.",
+          },
+          {
+            type: "text",
+            text: "Additionally, poor mobile responsiveness and slow loading speeds negatively impacted user experience and conversion rates.",
+          }
+        ],
+      }, 
+      {
+        title: "Solution Statement",
+        content: [
+          {
+            type: "text",
+            text: "The ZKDigimax website revamp successfully transformed the user experience by integrating modern UI/UX principles, improving content clarity, and enhancing engagement through interactive elements.",
+          },
+          {
+            type: "text",
+            text: "The new website effectively positions ZKDigimax as an industry leader in digital signage solutions.",
+          }
+        ],
+      },                 
+      {
         title: "Project Screens",
         content: [
           {
@@ -267,6 +397,32 @@ const projects = [
           }
         ],
       },
+      {
+        title: "Problem Statement",
+        content: [
+          {
+            type: "text",
+            text: "Urban commuters in Singapore face challenges such as heavy traffic congestion, last-mile connectivity issues, and expensive transportation costs.",
+          },
+          {
+            type: "text",
+            text: "Existing scooter-sharing services lack intuitive navigation, real-time availability updates, and streamlined payment processes.",
+          }
+        ],
+      }, 
+      {
+        title: "Solution Statement",
+        content: [
+          {
+            type: "text",
+            text: "The SG Scoot app redesign successfully addressed user pain points, improving usability and engagement.",
+          },
+          {
+            type: "text",
+            text: "With a user-friendly interface and intuitive ride-booking experience, the app promotes eco-friendly urban commuting and enhances convenience for all users.",
+          }
+        ],
+      },                 
       {
         title: "Project Prototype",
         content: [
