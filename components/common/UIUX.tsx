@@ -102,7 +102,7 @@ const projects = [
     title: "PaySphere Fintech App",
     status: "Development Stage",
     image:
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1740749784/Paysphere_App_xjlqyi.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1740750567/Frame_1618875465_hxp4qm.png",
     content: [
       {
         title: "Project Overview",
