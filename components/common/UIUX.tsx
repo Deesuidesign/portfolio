@@ -109,11 +109,11 @@ const projects = [
         content: [
           {
             type: "text",
-            text: "Hugley is a unique dating app specifically for individuals with intellectual disabilities, designed to foster meaningful connections in a safe and inclusive environment.",
+            text: "The goal of PaySphere is to create a seamless, secure, and user-friendly fintech application that simplifies digital payments, expense tracking, and financial management.",
           },
           {
             type: "text",
-            text: "Whether you're seeking friendship, companionship, or love, Hugley provides a supportive space where users can interact comfortably and authentically.",
+            text: "The app will cater to both individuals and small businesses, offering a smooth and intuitive user experience for managing transactions, budgeting, and savings.",
           }                      
         ],
       },
@@ -122,11 +122,11 @@ const projects = [
         content: [
           {
             type: "text",
-            text: "Individuals with intellectual disabilities often encounter barriers when using mainstream dating apps due to complex interfaces, safety concerns, and social stigmas.",
+            text: "Managing personal and business finances can be overwhelming, especially with multiple payment methods, scattered expense tracking, and the risk of financial mismanagement.",
           },
           {
             type: "text",
-            text: "There is a lack of platforms catering to their unique needs, making it difficult for them to form meaningful relationships. Hugley was developed to bridge this gap by offering an intuitive and secure dating experience tailored to their needs.",
+            text: "Many existing fintech solutions are either too complex for the average user or lack essential features needed by small businesses.",
           }
         ],
       },   
@@ -135,12 +135,21 @@ const projects = [
         content: [
           {
             type: "text",
-            text: "Hugley successfully addresses the challenges faced by individuals with intellectual disabilities in the dating world by prioritizing inclusivity, accessibility, and safety.",
+            text: "PaySphere aims to bridge these gaps by providing a well-designed, easy-to-use fintech app that enhances financial management through a user-friendly interface, intelligent insights, and seamless functionality.",
           },
           {
             type: "text",
-            text: "Through thoughtful UI/UX design, Hugley fosters a secure and welcoming environment for building meaningful relationships.",
+            text: "The platform focuses on simplifying transactions, offering clear financial overviews, and ensuring secure interactions, all while maintaining a high level of accessibility and usability.",
           }
+        ],
+      }, 
+     {
+        title: "Project Prototype",
+        content: [
+          {
+            type: "video",
+            url: "https://www.youtube.com/embed/GcovTTBfuTw?si=jp5lusTBeL6CzDLi",
+          },
         ],
       },            
       {
