@@ -179,6 +179,86 @@ const projects = [
     ],
   }, 
   {
+    title: "Trace Fleet & Logistic Management",
+    status: "Development Stage",
+    image:
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1741075253/Trace_vmivvs.png",
+    content: [
+      {
+        title: "Project Overview",
+        content: [
+          {
+            type: "text",
+            text: "The goal of PaySphere is to create a seamless, secure, and user-friendly fintech application that simplifies digital payments, expense tracking, and financial management.",
+          },
+          {
+            type: "text",
+            text: "The app will cater to both individuals and small businesses, offering a smooth and intuitive user experience for managing transactions, budgeting, and savings.",
+          }                      
+        ],
+      },
+      {
+        title: "Problem Statement",
+        content: [
+          {
+            type: "text",
+            text: "Managing personal and business finances can be overwhelming, especially with multiple payment methods, scattered expense tracking, and the risk of financial mismanagement.",
+          },
+          {
+            type: "text",
+            text: "Many existing fintech solutions are either too complex for the average user or lack essential features needed by small businesses.",
+          }
+        ],
+      },   
+      {
+        title: "Solution Statement",
+        content: [
+          {
+            type: "text",
+            text: "PaySphere aims to bridge these gaps by providing a well-designed, easy-to-use fintech app that enhances financial management through a user-friendly interface, intelligent insights, and seamless functionality.",
+          },
+          {
+            type: "text",
+            text: "The platform focuses on simplifying transactions, offering clear financial overviews, and ensuring secure interactions, all while maintaining a high level of accessibility and usability.",
+          }
+        ],
+      }, 
+     {
+        title: "Project Prototype",
+        content: [
+          {
+            type: "video",
+            url: "https://www.youtube.com/embed/GcovTTBfuTw?si=jp5lusTBeL6CzDLi",
+          },
+        ],
+      },            
+      {
+        title: "Project Screens",
+        content: [
+          {
+            type: "swipper",
+            img_list: [
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1740753890/PaySphere_1_yhsaon.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1740753891/PaySphere_2_uhywcd.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1740753891/PaySphere_3_ld4srv.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1740753891/PaySphere_4_kotb5a.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1740753891/PaySphere_5_q0sp4u.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1740753891/PaySphere_6_qyn2oz.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1740753892/PaySphere_7_d6bbm9.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1740753892/PaySphere_8_vvnr8h.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1740753894/PaySphere_9_advhv6.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1740753894/PaySphere_10_bi89vs.png",             
+            ],
+          },
+        ],
+      },
+    ],
+    description: [
+      "Pews Pro Church Management Software is an end-to-end software solution that focuses heavily on automating key church activities such as managing church events, coordinating any church payments seamlessly, and keeping a standard database for the congregation.",
+      "It aims at relieving church pastors and administrative workers of the huge burden of keeping track of members, finances, and all other important records.",
+    ],
+  },   
+  {
     title: "ExoPrime Exosome Website Design",
     status: "Development Stage",
     image:
