@@ -222,16 +222,7 @@ const projects = [
             text: "Trace as a platform is a long-term project, dream and passion that emanated from deep field experience and challenges recognized after year of working to optimize logistics, transportation and fleet management challenges in whatever organization or group we’ve been involved with, and looking back at the process and tooling available one word that comes to mind every time is chaotic.",
           }
         ],
-      }, 
-     {
-        title: "Project Prototype",
-        content: [
-          {
-            type: "video",
-            url: "https://www.youtube.com/embed/GcovTTBfuTw?si=jp5lusTBeL6CzDLi",
-          },
-        ],
-      },            
+      },           
       {
         title: "Project Screens",
         content: [
