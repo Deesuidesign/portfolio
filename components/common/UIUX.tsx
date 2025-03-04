@@ -189,11 +189,11 @@ const projects = [
         content: [
           {
             type: "text",
-            text: "The goal of PaySphere is to create a seamless, secure, and user-friendly fintech application that simplifies digital payments, expense tracking, and financial management.",
+            text: "Transportation and logistics are essential for any business that needs to move goods from one place to another. However, managing the complex processes involved in transportation and logistics can be challenging, time-consuming, and costly.",
           },
           {
             type: "text",
-            text: "The app will cater to both individuals and small businesses, offering a smooth and intuitive user experience for managing transactions, budgeting, and savings.",
+            text: "That’s why you Trace exist as an all-in-one platform that simplifies and streamlines your transportation and logistics operations.",
           }                      
         ],
       },
@@ -202,11 +202,11 @@ const projects = [
         content: [
           {
             type: "text",
-            text: "Managing personal and business finances can be overwhelming, especially with multiple payment methods, scattered expense tracking, and the risk of financial mismanagement.",
+            text: "Traditional fleet management systems often lack real-time tracking, predictive maintenance insights, and user-friendly interfaces.",
           },
           {
             type: "text",
-            text: "Many existing fintech solutions are either too complex for the average user or lack essential features needed by small businesses.",
+            text: "Companies struggle with route inefficiencies, high fuel consumption, and vehicle downtime, leading to increased operational costs and delays.",
           }
         ],
       },   
@@ -215,11 +215,11 @@ const projects = [
         content: [
           {
             type: "text",
-            text: "PaySphere aims to bridge these gaps by providing a well-designed, easy-to-use fintech app that enhances financial management through a user-friendly interface, intelligent insights, and seamless functionality.",
+            text: "Managing a fleet efficiently requires real-time visibility, predictive insights, and user-friendly tools that simplify complex logistics. Many existing fleet management systems are cluttered, unintuitive, and lack actionable insights, leading to inefficiencies, high operational costs, and compliance risks.",
           },
           {
             type: "text",
-            text: "The platform focuses on simplifying transactions, offering clear financial overviews, and ensuring secure interactions, all while maintaining a high level of accessibility and usability.",
+            text: "Trace as a platform is a long-term project, dream and passion that emanated from deep field experience and challenges recognized after year of working to optimize logistics, transportation and fleet management challenges in whatever organization or group we’ve been involved with, and looking back at the process and tooling available one word that comes to mind every time is chaotic.",
           }
         ],
       }, 
