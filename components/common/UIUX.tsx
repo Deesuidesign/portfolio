@@ -99,17 +99,17 @@ const projects = [
     ],
   },
   {
-    title: "Hugley Dating App Design",
+    title: "PaySphere FinTech App",
     status: "Development Stage",
     image:
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1738840462/Captureyrrtrt_pnhqyd_mbhtao.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1740750567/Frame_1618875465_hxp4qm.png",
     content: [
       {
         title: "Project Overview",
         content: [
           {
             type: "text",
-            text: "Hugley is a unique dating app specifically for individuals with intellectual disabilities, designed to foster meaningful connections in a safe and inclusive environment.",
+            text: "The goal of PaySphere is to create a seamless, secure, and user-friendly fintech application that simplifies digital payments, expense tracking, and financial management.",
           },
           {
             type: "text",
@@ -122,7 +122,7 @@ const projects = [
         content: [
           {
             type: "text",
-            text: "Individuals with intellectual disabilities often encounter barriers when using mainstream dating apps due to complex interfaces, safety concerns, and social stigmas.",
+            text: "Managing personal and business finances can be overwhelming, especially with multiple payment methods, scattered expense tracking, and the risk of financial mismanagement.",
           },
           {
             type: "text",
@@ -135,7 +135,7 @@ const projects = [
         content: [
           {
             type: "text",
-            text: "Hugley successfully addresses the challenges faced by individuals with intellectual disabilities in the dating world by prioritizing inclusivity, accessibility, and safety.",
+            text: "PaySphere aims to bridge these gaps by providing a well-designed, easy-to-use fintech app that enhances financial management through a user-friendly interface, intelligent insights, and seamless functionality.",
           },
           {
             type: "text",
@@ -149,14 +149,88 @@ const projects = [
           {
             type: "swipper",
             img_list: [
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738833832/Hugley_5_hkaat7.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738833833/Hugley_2_drmt4r.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738833833/Hugley_3_aicwtg.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738833874/Hugley_90_v93hik.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738833836/Hugley_4_ietcvt.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738833831/Hugley_6_tiorxt.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738833831/Hugley_8_jlwhrg.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738833831/Hugley_7_ul3pfh.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1740753890/PaySphere_1_yhsaon.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1740753891/PaySphere_2_uhywcd.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1740753891/PaySphere_3_ld4srv.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1740753891/PaySphere_4_kotb5a.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1740753891/PaySphere_5_q0sp4u.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1740753891/PaySphere_6_qyn2oz.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1740753892/PaySphere_7_d6bbm9.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1740753892/PaySphere_8_vvnr8h.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1740753894/PaySphere_9_advhv6.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1740753894/PaySphere_10_bi89vs.png",
+            ],
+          },
+        ],
+      },
+    ],
+    description: [
+      "Pews Pro Church Management Software is an end-to-end software solution that focuses heavily on automating key church activities such as managing church events, coordinating any church payments seamlessly, and keeping a standard database for the congregation.",
+      "It aims at relieving church pastors and administrative workers of the huge burden of keeping track of members, finances, and all other important records.",
+    ],
+  },
+  {
+    title: "Trace Fleet & Logistic Management Solution",
+    status: "Development Stage",
+    image:
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1741075253/Trace_vmivvs.png",
+    content: [
+      {
+        title: "Project Overview",
+        content: [
+          {
+            type: "text",
+            text: "Transportation and logistics are essential for any business that needs to move goods from one place to another. However, managing the complex processes involved in transportation and logistics can be challenging, time-consuming, and costly.",
+          },
+          {
+            type: "text",
+            text: "That’s why you Trace exist as an all-in-one platform that simplifies and streamlines your transportation and logistics operations.",
+          },
+        ],
+      },
+      {
+        title: "Problem Statement",
+        content: [
+          {
+            type: "text",
+            text: "Traditional fleet management systems often lack real-time tracking, predictive maintenance insights, and user-friendly interfaces.",
+          },
+          {
+            type: "text",
+            text: "Companies struggle with route inefficiencies, high fuel consumption, and vehicle downtime, leading to increased operational costs and delays.",
+          },
+        ],
+      },
+      {
+        title: "Solution Statement",
+        content: [
+          {
+            type: "text",
+            text: "Managing a fleet efficiently requires real-time visibility, predictive insights, and user-friendly tools that simplify complex logistics. Many existing fleet management systems are cluttered, unintuitive, and lack actionable insights, leading to inefficiencies, high operational costs, and compliance risks.",
+          },
+          {
+            type: "text",
+            text: "Trace as a platform is a long-term project, dream and passion that emanated from deep field experience and challenges recognized after year of working to optimize logistics, transportation and fleet management challenges in whatever organization or group we’ve been involved with, and looking back at the process and tooling available one word that comes to mind every time is chaotic.",
+          },
+        ],
+      },
+      {
+        title: "Project Screens",
+        content: [
+          {
+            type: "swipper",
+            img_list: [
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079489/Trace_1_owexsf.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079489/Trace_2_o8e0be.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079489/Trace_3_n3xern.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079489/Trace_4_ibavzf.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079489/Trace_5_ku36hv.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079489/Trace_6_iurpdc.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079490/Trace_7_dp6rpe.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079490/Trace_8_r5vl7y.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079490/Trace_9_sso9rd.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079490/Trace_10_ibyftv.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079490/Trace_11_lhkupr.png",
             ],
           },
         ],
