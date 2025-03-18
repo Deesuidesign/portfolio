@@ -4,6 +4,7 @@ import { useState } from "react";
 import Modal from "@mui/material/Modal";
 import { Box } from "@mui/material";
 import { CustomSwiper } from "./UIUX";
+import { Button } from "../ui/button";
 
 // Array of project data
 const projects = [
@@ -35,7 +36,7 @@ const projects = [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1739192344/D3_utgzun.png",
     ],
   },
-   {
+  {
     title: "BaoBad Plus Designs",
     status: "Delivered",
     images: [
@@ -53,7 +54,7 @@ const projects = [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1739191512/Spark_Xplorer_brochurereer_rzjc52.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1739191529/Spark_Xplorer_brochuretrt_g9uiww.png",
     ],
-  },  
+  },
   {
     title: "Noble-Mind Schools Yearbook Designs",
     status: "Delivered",
@@ -63,7 +64,7 @@ const projects = [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067442/Noble_mind_yearbook_2019_uwn9n8.png",
     ],
   },
-    {
+  {
     title: "Roducate Designs",
     status: "Delivered",
     images: [
@@ -83,7 +84,7 @@ const projects = [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067365/RCC_3_p7z7lt.png",
     ],
   },
-   {
+  {
     title: "SB Telecoms Design",
     status: "Delivered",
     images: [
@@ -96,7 +97,7 @@ const projects = [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726068900/SB_Telecoms_7_svcipu.png",
     ],
   },
-   {
+  {
     title: " Brands Logo Design",
     status: "Delivered",
     images: [
@@ -134,6 +135,10 @@ const Graphics = () => {
   const [selectedImages, setSelectedImages] = useState([]);
   const [activeImageIndex, setActiveImageIndex] = useState(0);
 
+  const [show, setShow] = useState(false);
+
+  const displayProjects = show ? projects : projects.slice(0, 6);
+
   const handleOpen = (images: any) => {
     setSelectedImages(images);
     setOpen(true);
@@ -162,14 +167,16 @@ const Graphics = () => {
         <span>Graphics Portfolios</span>
       </div>
       <h2 className="mt-4 text-white text-3xl md:text-4xl font-semibold">
-        My Latest Graphics Design <span className="text-[#0B78F4]">Projects</span>
+        My Latest Graphics Design{" "}
+        <span className="text-[#0B78F4]">Projects</span>
       </h2>
       <p className="text-white my-3 opacity-85">
-        I have selected and mentioned here some of my latest projects to share with you.
+        I have selected and mentioned here some of my latest projects to share
+        with you.
       </p>
 
       <div className="mt-6 grid md:grid-cols-2 lg:grid-cols-3 gap-12">
-        {projects.map((project, index) => (
+        {displayProjects.map((project, index) => (
           <div
             key={index}
             className="bg-[#0B78F4] items-center cursor-pointer"
@@ -194,6 +201,14 @@ const Graphics = () => {
           </div>
         ))}
       </div>
+
+      <Button
+        className="my-12 block mx-auto text-base"
+        size="lg"
+        onClick={() => setShow((show) => !show)}
+      >
+        {show ? "Show less" : "Show more"}
+      </Button>
 
       {/* Modal for Image Slider */}
       <Modal open={open} onClose={handleClose}>

@@ -34,7 +34,7 @@ const projects = [
           {
             type: "text",
             text: "The goal is to create an intuitive, engaging, and scalable platform that enhances student learning, educator efficiency, and institutional growth.",
-          }
+          },
         ],
       },
       {
@@ -47,7 +47,7 @@ const projects = [
           {
             type: "text",
             text: "SparkXplorer was created to bridge this gap by offering an interactive, affordable, and accessible digital learning experience.",
-          }
+          },
         ],
       },
       {
@@ -60,10 +60,10 @@ const projects = [
           {
             type: "text",
             text: "Through an empathetic and research-driven design approach, SparkXplorer enhances accessibility, fosters engagement, and empowers families in their educational journey, ensuring a more equitable and effective after-school learning experience.",
-          }
+          },
         ],
-      },                  
-     {
+      },
+      {
         title: "Project Prototype",
         content: [
           {
@@ -71,7 +71,7 @@ const projects = [
             url: "https://www.youtube.com/embed/Oui04QdQEFg?si=oyCBA2Uvech23Hu3",
           },
         ],
-      },      
+      },
       {
         title: "Project Screens",
         content: [
@@ -114,7 +114,7 @@ const projects = [
           {
             type: "text",
             text: "Whether you're seeking friendship, companionship, or love, Hugley provides a supportive space where users can interact comfortably and authentically.",
-          }                      
+          },
         ],
       },
       {
@@ -127,9 +127,9 @@ const projects = [
           {
             type: "text",
             text: "There is a lack of platforms catering to their unique needs, making it difficult for them to form meaningful relationships. Hugley was developed to bridge this gap by offering an intuitive and secure dating experience tailored to their needs.",
-          }
+          },
         ],
-      },   
+      },
       {
         title: "Solution Statement",
         content: [
@@ -140,9 +140,9 @@ const projects = [
           {
             type: "text",
             text: "Through thoughtful UI/UX design, Hugley fosters a secure and welcoming environment for building meaningful relationships.",
-          }
+          },
         ],
-      },            
+      },
       {
         title: "Project Screens",
         content: [
@@ -183,7 +183,7 @@ const projects = [
           {
             type: "text",
             text: "The website will serve as an engaging platform for customers to explore products, access beauty tips, and make purchases effortlessly.",
-          }
+          },
         ],
       },
       {
@@ -196,9 +196,9 @@ const projects = [
           {
             type: "text",
             text: "Customers struggled with product discovery, and the checkout process led to high cart abandonment rates. The goal was to revamp the website to create a seamless, immersive, and conversion-driven shopping experience.",
-          }
+          },
         ],
-      }, 
+      },
       {
         title: "Solution Statement",
         content: [
@@ -209,9 +209,9 @@ const projects = [
           {
             type: "text",
             text: "By focusing on user-centric design, AI-driven personalization, and seamless mobile integration, the platform now delivers a high-end digital shopping journey that aligns with modern consumer expectations.",
-          }
+          },
         ],
-      },                  
+      },
       {
         title: "Project Prototype",
         content: [
@@ -220,7 +220,7 @@ const projects = [
             url: "https://www.youtube.com/embed/wNS6NQQjNAQ?si=Lxh6hJocbzxT0bB7",
           },
         ],
-      },           
+      },
       {
         title: "Project Screens",
         content: [
@@ -241,8 +241,8 @@ const projects = [
       "Pews Pro Church Management Software is an end-to-end software solution that focuses heavily on automating key church activities such as managing church events, coordinating any church payments seamlessly, and keeping a standard database for the congregation.",
       "It aims at relieving church pastors and administrative workers of the huge burden of keeping track of members, finances, and all other important records.",
     ],
-  },  
-    {
+  },
+  {
     title: "Pews Pro Church Management Software",
     status: "Development Stage",
     image:
@@ -258,7 +258,7 @@ const projects = [
           {
             type: "text",
             text: "It aims at relieving church pastors and administrative workers of the huge burden of keeping track of members, finances, and all other important records.",
-          }
+          },
         ],
       },
       {
@@ -271,9 +271,9 @@ const projects = [
           {
             type: "text",
             text: "Existing church management solutions often lack user-friendly interfaces, making them challenging for church staff and members to navigate effectively.",
-          }
+          },
         ],
-      }, 
+      },
       {
         title: "Solution Statement",
         content: [
@@ -284,9 +284,9 @@ const projects = [
           {
             type: "text",
             text: "By implementing a research-driven, user-centric design, Pews Pro enhances church operations, fosters community engagement, and provides a seamless digital experience for church administrators, members, and volunteers.",
-          }
+          },
         ],
-      },                 
+      },
       {
         title: "Project Screens",
         content: [
@@ -309,7 +309,7 @@ const projects = [
       "Pews Pro Church Management Software is an end-to-end software solution that focuses heavily on automating key church activities such as managing church events, coordinating any church payments seamlessly, and keeping a standard database for the congregation.",
       "It aims at relieving church pastors and administrative workers of the huge burden of keeping track of members, finances, and all other important records.",
     ],
-  },  
+  },
   {
     title: "ZKDigimax Website",
     status: "Live",
@@ -327,7 +327,7 @@ const projects = [
           {
             type: "text",
             text: "The goal is to create an engaging, informative, and visually compelling website that highlights ZKDigimax’s innovative technology, industry applications, and business benefits while driving lead generation and customer engagement.",
-          }
+          },
         ],
       },
       {
@@ -340,9 +340,9 @@ const projects = [
           {
             type: "text",
             text: "Additionally, poor mobile responsiveness and slow loading speeds negatively impacted user experience and conversion rates.",
-          }
+          },
         ],
-      }, 
+      },
       {
         title: "Solution Statement",
         content: [
@@ -353,9 +353,9 @@ const projects = [
           {
             type: "text",
             text: "The new website effectively positions ZKDigimax as an industry leader in digital signage solutions.",
-          }
+          },
         ],
-      },                 
+      },
       {
         title: "Project Screens",
         content: [
@@ -394,7 +394,7 @@ const projects = [
           {
             type: "text",
             text: "The app is built with a clean, modern interface, emphasizing accessibility, functionality, and seamless navigation.",
-          }
+          },
         ],
       },
       {
@@ -407,9 +407,9 @@ const projects = [
           {
             type: "text",
             text: "Existing scooter-sharing services lack intuitive navigation, real-time availability updates, and streamlined payment processes.",
-          }
+          },
         ],
-      }, 
+      },
       {
         title: "Solution Statement",
         content: [
@@ -420,9 +420,9 @@ const projects = [
           {
             type: "text",
             text: "With a user-friendly interface and intuitive ride-booking experience, the app promotes eco-friendly urban commuting and enhances convenience for all users.",
-          }
+          },
         ],
-      },                 
+      },
       {
         title: "Project Prototype",
         content: [
@@ -474,7 +474,7 @@ const projects = [
     description: [
       "The Website is designed to explore various market segments with its cutting-edge biometric technologies and IoT concepts plus techniques to upgrade user experience of home-use electric and security appliances, and lead the trend of mobile application and terminal interaction.",
     ],
-  },  
+  },
   {
     title: "Bondle Dating App",
     status: "Launched",
@@ -584,6 +584,9 @@ const UIUX = () => {
   const [open, setOpen] = useState(false);
   const [selectedProject, setSelectedProject] =
     useState<(typeof projects)[0]>();
+  const [show, setShow] = useState(false);
+
+  const displayProjects = show ? projects : projects.slice(0, 6);
 
   const handleDialogOpen = (project: (typeof projects)[0]) => {
     setSelectedProject(project);
@@ -599,10 +602,7 @@ const UIUX = () => {
   };
 
   return (
-    <div
-      className="my-32"
-      id="uiux"
-    >
+    <div className="my-32" id="uiux">
       <div className="ellipse flex justify-center items-center">
         <span>UI/UX Portfolios</span>
       </div>
@@ -617,7 +617,7 @@ const UIUX = () => {
 
       <div className="mt-6 grid md:grid-cols-2 lg:grid-cols-3 gap-12">
         {/* Loop through the projects array */}
-        {projects.map((project, index) => (
+        {displayProjects.map((project, index) => (
           <div
             key={index}
             className="bg-[#0B78F4] items-center hover:cursor-pointer"
@@ -642,6 +642,13 @@ const UIUX = () => {
           </div>
         ))}
       </div>
+      <Button
+        className="my-12 block mx-auto text-base"
+        size="lg"
+        onClick={() => setShow((show) => !show)}
+      >
+        {show ? "Show less" : "Show more"}
+      </Button>
       {/* {open && ( */}
       <ProjectDialog
         open={open}
@@ -662,23 +669,17 @@ type Props = {
 };
 
 const ProjectDialog = ({ open, setOpen, project }: Props) => (
-  <Dialog
-    open={open}
-    onOpenChange={setOpen}
-  >
+  <Dialog open={open} onOpenChange={setOpen}>
     <DialogContent className="w-[90%] sm:max-w-xl max-h-[85%] rounded-3xl">
       <DialogHeader className="flex justify-between items-center">
         <DialogClose asChild>
           <button className="text-gray-500 hover:text-gray-700 focus:outline-none self-end">
-            <X size={20}/>
+            <X size={20} />
           </button>
         </DialogClose>
       </DialogHeader>
       {project?.content?.map((content, index) => (
-        <div
-          className="max-w-lg mx-auto w-full"
-          key={index}
-        >
+        <div className="max-w-lg mx-auto w-full" key={index}>
           <h2 className="font-bold text-2xl text-blue text-center mb-5">
             {content.title}
           </h2>
@@ -686,17 +687,11 @@ const ProjectDialog = ({ open, setOpen, project }: Props) => (
             {content.content.map((item, index) => (
               <>
                 {item.type === "text" && "text" in item ? (
-                  <p
-                    key={index}
-                    className="text-justify text-sm md:text-base"
-                  >
+                  <p key={index} className="text-justify text-sm md:text-base">
                     {item.text}
                   </p>
                 ) : item.type === "video" && "url" in item ? (
-                  <div
-                    key={index}
-                    className=""
-                  >
+                  <div key={index} className="">
                     <iframe
                       width="100%"
                       height="315"
@@ -732,11 +727,7 @@ const ProjectDialog = ({ open, setOpen, project }: Props) => (
             size="lg"
             className="rounded-full gap-2 h-auto py-3 px-6 w-full max-w-52 text-sm"
           >
-            <a
-              href={project?.link}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+            <a href={project?.link} target="_blank" rel="noopener noreferrer">
               Explore &rarr;
             </a>
           </Button>
@@ -764,10 +755,7 @@ export const CustomSwiper = ({ images }: { images: string[] }) => {
         style={{ transform: `translateX(-${currentIndex * 100}%)` }}
       >
         {images.map((src, index) => (
-          <div
-            key={index}
-            className="w-full flex-shrink-0"
-          >
+          <div key={index} className="w-full flex-shrink-0">
             <Image
               src={src}
               alt={`Slide ${index}`}
