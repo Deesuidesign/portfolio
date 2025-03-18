@@ -717,7 +717,7 @@ const UIUX = () => {
         ))}
       </div>
       <Button
-        className="my-12 block mx-auto text-base"
+        className="my-12 block mx-auto text-base w-1/2 rounded-full h-14"
         size="lg"
         onClick={() => setShow((show) => !show)}
       >
