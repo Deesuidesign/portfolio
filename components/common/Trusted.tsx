@@ -7,7 +7,7 @@ const companies = [
   { name: "Roducate", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726056452/blqpiqqzats5astu57o8.svg" },
   { name: "ZKTeco", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726056454/ysycuu2eozauz1eng050.svg" },
   { name: "Simpu", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726056453/mcabmdfedbovaemldkzo.svg" },
-  { name: "FlowWave Inc", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726056451/n4jr30qmompcmywolfla.svg" },
+  { name: "Avetium", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1744201947/Avetium_Logo_Guide_tvatvv.png" },
   { name: "Spark Xplorer", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726056455/ucupwtrkswhk3yiligvi.svg" },
   { name: "Tri Edge Technologies", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1737453334/Tri-Edge_Technologies_Logotrt_uo3o0l.png" },
   { name: "Airbnb", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1727946906/superhost_id_cardrere_fpnadq.png" },
