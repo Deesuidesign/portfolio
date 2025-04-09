@@ -243,9 +243,10 @@ const projects = [
   },
   {
     title: "ExoPrime Exosome Website Design",
-    status: "Development Stage",
+    status: "Live",
     image:
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1739286356/Exo-Prime_Cover_r7w5ou.png",
+    link: "https://www.exo-prime.com/",    
     content: [
       {
         title: "Project Overview",
