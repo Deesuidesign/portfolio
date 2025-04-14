@@ -59,8 +59,8 @@ const projects = [
     title: "Noble-Mind Schools Yearbook Designs",
     status: "Delivered",
     images: [
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067444/Noble_mind_yearbook_2024_gw7yxg.png", // Cover Image
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067443/Noble_mind_yearbook_2022_wak4ix.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067443/Noble_mind_yearbook_2022_wak4ix.png", // Cover Image
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067444/Noble_mind_yearbook_2024_gw7yxg.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067442/Noble_mind_yearbook_2019_uwn9n8.png",
     ],
   },
