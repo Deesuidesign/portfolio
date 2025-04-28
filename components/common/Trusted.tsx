@@ -14,6 +14,7 @@ const companies = [
   { name: "Podium App", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1739542076/Podium_Betting_App_logo_qo3pfp.svg" },
   { name: "SB Telecoms", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726056453/y1j3ljfisbquayj4r2z9.svg" },
   { name: "Living", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726056451/cvbojlojfuqygoqrrc8v.svg" },
+  { name: "Living", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726056451/cvbojlojfuqygoqrrc8v.svg" },
 ];
 
 const Trusted = () => {
