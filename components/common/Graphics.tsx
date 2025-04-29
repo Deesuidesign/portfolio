@@ -50,9 +50,11 @@ const projects = [
     status: "Delivered",
     images: [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1745924241/Avetium_Company_Profile_rtpmym.png", // Cover Image
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1739191570/Spark_Xplorer_brochureRE_jzjnen.png",
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1739191512/Spark_Xplorer_brochurereer_rzjc52.png",
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1739191529/Spark_Xplorer_brochuretrt_g9uiww.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1745924848/Avetium_Company_Profile_2_pvdbfs.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1745924848/Avetium_Company_Profile_3_yosojb.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1745924849/Avetium_Company_Profile_1_ugxjxf.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1745924849/Avetium_Company_Profile_5_ph00ih.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1745924849/Avetium_Company_Profile_4_kkvnkb.png",
     ],
   },
   {
