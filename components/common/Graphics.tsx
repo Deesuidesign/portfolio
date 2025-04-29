@@ -49,7 +49,7 @@ const projects = [
     title: "Avetium Consult Company's Profile Design",
     status: "Delivered",
     images: [
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1745923409/Avetium_Company_Profile_lmeaha.png", // Cover Image
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1745923962/Avetium_Company_Profile_ask07z.png", // Cover Image
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1739191570/Spark_Xplorer_brochureRE_jzjnen.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1739191512/Spark_Xplorer_brochurereer_rzjc52.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1739191529/Spark_Xplorer_brochuretrt_g9uiww.png",
