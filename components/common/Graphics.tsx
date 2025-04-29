@@ -46,10 +46,10 @@ const projects = [
     ],
   },
   {
-    title: "Spark Xplorer Designs",
+    title: "Avetium Consult Company's Profile Design",
     status: "Delivered",
     images: [
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1739193107/Spark_Xplorer_brochure_erer_fgjfbm.png", // Cover Image
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1745923409/Avetium_Company_Profile_lmeaha.png", // Cover Image
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1739191570/Spark_Xplorer_brochureRE_jzjnen.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1739191512/Spark_Xplorer_brochurereer_rzjc52.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1739191529/Spark_Xplorer_brochuretrt_g9uiww.png",
@@ -73,6 +73,16 @@ const projects = [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726216818/Roducate_3_rgk4uv.png",
     ],
   },
+  {
+    title: "Spark Xplorer Designs",
+    status: "Delivered",
+    images: [
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1739193107/Spark_Xplorer_brochure_erer_fgjfbm.png", // Cover Image
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1739191570/Spark_Xplorer_brochureRE_jzjnen.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1739191512/Spark_Xplorer_brochurereer_rzjc52.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1739191529/Spark_Xplorer_brochuretrt_g9uiww.png",
+    ],
+  },  
   {
     title: "RCCG Banners",
     status: "Delivered",
