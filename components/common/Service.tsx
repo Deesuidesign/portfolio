@@ -24,9 +24,9 @@ const services = [
   },
   {
     icon: <Activity className="text-blue w-12 h-12" strokeWidth={1} />,
-    title: "Digital Marketing",
+    title: "Web and App Development",
     description:
-      "Connecting brands with audiences through smart, strategic marketing.",
+      "Building fast, scalable, and user-friendly digital experiences for web and mobile platforms.",
   },
   {
     icon: <Hexagon className="text-blue w-12 h-12" strokeWidth={1} />,
