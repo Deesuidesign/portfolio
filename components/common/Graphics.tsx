@@ -79,15 +79,6 @@ const projects = [
     ],
   },  
   {
-    title: "Roducate Complimentary Card, Access Card and ID Card Designs",
-    status: "Delivered",
-    images: [
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726216820/Roducate_rf58hi.png", // Cover Image
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726216818/Roducate_2_wbgqsp.png",
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726216818/Roducate_3_rgk4uv.png",
-    ],
-  },
-  {
     title: "Spark Xplorer Brand Guide and Flyer Designs",
     status: "Delivered",
     images: [
@@ -95,6 +86,15 @@ const projects = [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1739191570/Spark_Xplorer_brochureRE_jzjnen.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1739191512/Spark_Xplorer_brochurereer_rzjc52.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1739191529/Spark_Xplorer_brochuretrt_g9uiww.png",
+    ],
+  },  
+  {
+    title: "Roducate Complimentary Card, Access Card and ID Card Designs",
+    status: "Delivered",
+    images: [
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726216820/Roducate_rf58hi.png", // Cover Image
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726216818/Roducate_2_wbgqsp.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726216818/Roducate_3_rgk4uv.png",
     ],
   },  
   {
