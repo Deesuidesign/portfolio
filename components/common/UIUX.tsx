@@ -170,7 +170,7 @@ const projects = [
     ],
   },
   {
-    title: "DeDataHub ELearning Application Design",
+    title: "DeDataHub Learning Mananegement System (LMS)",
     status: "Live",
     image:
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1747047103/Dedata_Hub_UI_loyzio.png",
@@ -181,11 +181,11 @@ const projects = [
         content: [
           {
             type: "text",
-            text: "Transportation and logistics are essential for any business that needs to move goods from one place to another. However, managing the complex processes involved in transportation and logistics can be challenging, time-consuming, and costly.",
+            text: "DeDatahub is developing a cutting-edge Learning Management System (LMS) tailored to academic institutions, corporate training environments, and independent educators seeking an intuitive, data-driven platform to manage, deliver, and track learning experiences.",
           },
           {
             type: "text",
-            text: "That’s why you Trace exist as an all-in-one platform that simplifies and streamlines your transportation and logistics operations.",
+            text: "The objective of this UI/UX design project is to create a seamless, engaging, and accessible user interface that empowers users to interact efficiently with DeDatahub LMS, while maximizing learning outcomes through clear navigation and smart data integration.",
           },
         ],
       },
@@ -194,11 +194,11 @@ const projects = [
         content: [
           {
             type: "text",
-            text: "Traditional fleet management systems often lack real-time tracking, predictive maintenance insights, and user-friendly interfaces.",
+            text: "Learners and educators using DeDatahub’s current Learning Management System (LMS) face challenges with fragmented navigation, unintuitive content discovery, and limited engagement features, which impede efficient course management, collaborative learning, and seamless access to decentralized academic data.",
           },
           {
             type: "text",
-            text: "Companies struggle with route inefficiencies, high fuel consumption, and vehicle downtime, leading to increased operational costs and delays.",
+            text: "Additionally, the interface lacks accessibility optimizations and responsive adaptability, limiting its effectiveness across diverse devices and user groups.",
           },
         ],
       },
@@ -207,11 +207,11 @@ const projects = [
         content: [
           {
             type: "text",
-            text: "Managing a fleet efficiently requires real-time visibility, predictive insights, and user-friendly tools that simplify complex logistics. Many existing fleet management systems are cluttered, unintuitive, and lack actionable insights, leading to inefficiencies, high operational costs, and compliance risks.",
+            text: "By redesigning the UI/UX of DeDatahub’s LMS, we aim to deliver an intuitive, accessible, and visually engaging platform that simplifies navigation, enhances content discovery, and facilitates collaboration through decentralized data management tools.",
           },
           {
             type: "text",
-            text: "Trace as a platform is a long-term project, dream and passion that emanated from deep field experience and challenges recognized after year of working to optimize logistics, transportation and fleet management challenges in whatever organization or group we’ve been involved with, and looking back at the process and tooling available one word that comes to mind every time is chaotic.",
+            text: "The new design will feature a streamlined dashboard, adaptive layouts for multiple devices, personalized learning pathways, and integrated decentralized credentialing—all while ensuring accessibility compliance and data transparency to empower both learners and educators.",
           },
         ],
       },
