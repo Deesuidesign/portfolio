@@ -18,7 +18,7 @@ const projects = [
     ],
   },
   {
-    title: "ZKTeco Marketing Material Design",
+    title: "ZKTeco Social Media Banners & Marketing Material Design",
     status: "Delivered",
     images: [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067359/ZKTeco_drahkm.png", // Cover Image
@@ -41,8 +41,11 @@ const projects = [
     status: "Delivered",
     images: [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1747043743/Avetium_CCaaS_Solution_Sales_Cheat_Sheetrer_xwwt8s.png", // Cover Image
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726070010/BaoBad_Plus_3_o59ulq.png",
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726070011/BaoBad_Plus_2_wry2t5.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1747045267/MTN_CCaaS_Solution_Sales_Cheat_Sheetrer_jreux0.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1747045268/MTN_CCaaS_Solution_Sales_Cheat_Sheetrer_2_w4ndw0.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1747045265/MTN_CCaaS_Solution_Sales_Cheat_Sheetrer_78_danqbx.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1747045265/MTN_CCaaS_Solution_Sales_Cheat_Sheetrer_65_hamrlp.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1747045265/MTN_CCaaS_Solution_Sales_Cheat_Sheetrer_5_uvgmle.png",
     ],
   },
   {
@@ -67,7 +70,7 @@ const projects = [
     ],
   },
   {
-    title: "BaoBad Plus Designs",
+    title: "BaoBad Plus Complimentary Card and ID Card Designs",
     status: "Delivered",
     images: [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726070011/BaoBad_Plus_jxpoew.png", // Cover Image
@@ -76,7 +79,7 @@ const projects = [
     ],
   },  
   {
-    title: "Roducate Designs",
+    title: "Roducate Complimentary Card, Access Card and ID Card Designs",
     status: "Delivered",
     images: [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726216820/Roducate_rf58hi.png", // Cover Image
@@ -85,7 +88,7 @@ const projects = [
     ],
   },
   {
-    title: "Spark Xplorer Designs",
+    title: "Spark Xplorer Brand Guide and Flyer Designs",
     status: "Delivered",
     images: [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1739193107/Spark_Xplorer_brochure_erer_fgjfbm.png", // Cover Image
@@ -95,7 +98,7 @@ const projects = [
     ],
   },  
   {
-    title: "RCCG Banners",
+    title: "RCCG Social Media Banners Designs",
     status: "Delivered",
     images: [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726079910/RCC_23_cwwj0j.png", // Cover Image
@@ -106,7 +109,7 @@ const projects = [
     ],
   },
   {
-    title: "SB Telecoms Design",
+    title: "SB Telecoms Marketing Material Design",
     status: "Delivered",
     images: [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067320/SB_Telecoms_rweibw.png", // Cover Image
