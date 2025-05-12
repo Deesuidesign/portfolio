@@ -15,7 +15,11 @@ const companies = [
   { name: "Podium App", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1739542076/Podium_Betting_App_logo_qo3pfp.svg" },
   { name: "SB Telecoms", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726056453/y1j3ljfisbquayj4r2z9.svg" },
   { name: "Living", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726056451/cvbojlojfuqygoqrrc8v.svg" },
-  { name: "AirBNB", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1727946906/superhost_id_cardrere_fpnadq.png" },
+  { name: "AirBNB", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1747041277/Exo_Prime_lpnnrp.png" },
+  { name: "Exo Prime", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1727946906/superhost_id_cardrere_fpnadq.png" },
+  { name: "Otiz Technology", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1747041277/Otiz_Logo_iykkaq.png" },
+  { name: "Pews Pro", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1747041276/Pews_Pro_ebctut.png" },
+  { name: "SG Scoot App", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1747041278/SG_d4d71p.png" },
 ];
 
 const Trusted = () => {
