@@ -18,7 +18,7 @@ import { X } from "lucide-react";
 // Array of project data
 const projects = [
   {
-    title: "DeDataHub Learning Mananegement System (LMS)",
+    title: "DeDataHub Learning Management System (LMS)",
     status: "Live",
     image:
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1747049786/Dedata_Hub_UI_ukp2oa.png",
