@@ -3,7 +3,7 @@ import Image from "next/image";
 
 const companies = [
   { name: "Jumia", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726056708/iotms51iydugdan84vp0.png" },
-  { name: "MTN", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1747039507/Mtn_Logoew_m6mahl.png" },
+  { name: "MTN", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1747040018/Mtn_Logoew_rghsya.png" },
   { name: "BaoBad Plus", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726056450/lu6tcgjzvzbqjwoknooo.svg" },
   { name: "Roducate", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726056452/blqpiqqzats5astu57o8.svg" },
   { name: "ZKTeco", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726056454/ysycuu2eozauz1eng050.svg" },
