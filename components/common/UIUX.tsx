@@ -21,7 +21,7 @@ const projects = [
     title: "DeDataHub Learning Mananegement System (LMS)",
     status: "Live",
     image:
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1747047103/Dedata_Hub_UI_loyzio.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1747049786/Dedata_Hub_UI_ukp2oa.png",
     link: "https://staging.dedatahub.io/",
     content: [
       {
@@ -69,17 +69,18 @@ const projects = [
           {
             type: "swipper",
             img_list: [
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079489/Trace_1_owexsf.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079489/Trace_2_o8e0be.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079489/Trace_3_n3xern.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079489/Trace_4_ibavzf.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079489/Trace_5_ku36hv.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079489/Trace_6_iurpdc.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079490/Trace_7_dp6rpe.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079490/Trace_8_r5vl7y.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079490/Trace_9_sso9rd.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079490/Trace_10_ibyftv.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079490/Trace_11_lhkupr.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1747049405/Dedatahub_1_vpdwcv.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1747049405/Dedatahub_2_n8a0st.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1747049405/Dedatahub_3_j3srst.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1747049406/Dedatahub_4_q6aod3.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1747049406/Dedatahub_5_s0vaeh.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1747049406/Dedatahub_6_qxscdp.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1747049406/Dedatahub_7_ypgqhz.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1747049406/Dedatahub_8_f2rfzk.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1747049408/Dedatahub_9_zu4sic.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1747049406/Dedatahub_10_rs2nds.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1747049407/Dedatahub_11_ktxsnc.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1747049406/Dedatahub_12_gqk0bm.png",
             ],
           },
         ],
