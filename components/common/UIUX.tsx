@@ -170,6 +170,79 @@ const projects = [
     ],
   },
   {
+    title: "DeDataHub ELearning Application Design",
+    status: "Live",
+    image:
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1747047103/Dedata_Hub_UI_loyzio.png",
+    link: "https://staging.dedatahub.io/",
+    content: [
+      {
+        title: "Project Overview",
+        content: [
+          {
+            type: "text",
+            text: "Transportation and logistics are essential for any business that needs to move goods from one place to another. However, managing the complex processes involved in transportation and logistics can be challenging, time-consuming, and costly.",
+          },
+          {
+            type: "text",
+            text: "That’s why you Trace exist as an all-in-one platform that simplifies and streamlines your transportation and logistics operations.",
+          },
+        ],
+      },
+      {
+        title: "Problem Statement",
+        content: [
+          {
+            type: "text",
+            text: "Traditional fleet management systems often lack real-time tracking, predictive maintenance insights, and user-friendly interfaces.",
+          },
+          {
+            type: "text",
+            text: "Companies struggle with route inefficiencies, high fuel consumption, and vehicle downtime, leading to increased operational costs and delays.",
+          },
+        ],
+      },
+      {
+        title: "Solution Statement",
+        content: [
+          {
+            type: "text",
+            text: "Managing a fleet efficiently requires real-time visibility, predictive insights, and user-friendly tools that simplify complex logistics. Many existing fleet management systems are cluttered, unintuitive, and lack actionable insights, leading to inefficiencies, high operational costs, and compliance risks.",
+          },
+          {
+            type: "text",
+            text: "Trace as a platform is a long-term project, dream and passion that emanated from deep field experience and challenges recognized after year of working to optimize logistics, transportation and fleet management challenges in whatever organization or group we’ve been involved with, and looking back at the process and tooling available one word that comes to mind every time is chaotic.",
+          },
+        ],
+      },
+      {
+        title: "Project Screens",
+        content: [
+          {
+            type: "swipper",
+            img_list: [
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079489/Trace_1_owexsf.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079489/Trace_2_o8e0be.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079489/Trace_3_n3xern.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079489/Trace_4_ibavzf.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079489/Trace_5_ku36hv.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079489/Trace_6_iurpdc.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079490/Trace_7_dp6rpe.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079490/Trace_8_r5vl7y.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079490/Trace_9_sso9rd.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079490/Trace_10_ibyftv.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079490/Trace_11_lhkupr.png",
+            ],
+          },
+        ],
+      },
+    ],
+    description: [
+      "Pews Pro Church Management Software is an end-to-end software solution that focuses heavily on automating key church activities such as managing church events, coordinating any church payments seamlessly, and keeping a standard database for the congregation.",
+      "It aims at relieving church pastors and administrative workers of the huge burden of keeping track of members, finances, and all other important records.",
+    ],
+  },
+  {
     title: "Trace Fleet & Logistic Management Solution",
     status: "Development Stage",
     image:
@@ -240,7 +313,7 @@ const projects = [
       "Pews Pro Church Management Software is an end-to-end software solution that focuses heavily on automating key church activities such as managing church events, coordinating any church payments seamlessly, and keeping a standard database for the congregation.",
       "It aims at relieving church pastors and administrative workers of the huge burden of keeping track of members, finances, and all other important records.",
     ],
-  },
+  },  
   {
     title: "ExoPrime Exosome Website Design",
     status: "Live",
@@ -318,74 +391,6 @@ const projects = [
     ],
   },
   {
-    title: "Pews Pro Church Management Software",
-    status: "Development Stage",
-    image:
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
-    content: [
-      {
-        title: "Project Overview",
-        content: [
-          {
-            type: "text",
-            text: "Pews Pro Church Management Software is an end-to-end software solution that focuses heavily on automating key church activities such as managing church events, coordinating any church payments seamlessly, and keeping a standard database for the congregation.",
-          },
-          {
-            type: "text",
-            text: "It aims at relieving church pastors and administrative workers of the huge burden of keeping track of members, finances, and all other important records.",
-          },
-        ],
-      },
-      {
-        title: "Problem Statement",
-        content: [
-          {
-            type: "text",
-            text: "Managing church operations, member engagement, and event coordination can be overwhelming for religious organizations. Many churches rely on outdated software or manual processes, leading to inefficiencies, communication gaps, and difficulty in tracking finances, attendance, and volunteer activities.",
-          },
-          {
-            type: "text",
-            text: "Existing church management solutions often lack user-friendly interfaces, making them challenging for church staff and members to navigate effectively.",
-          },
-        ],
-      },
-      {
-        title: "Solution Statement",
-        content: [
-          {
-            type: "text",
-            text: "Pews Pro is designed to simplify and streamline church management through an intuitive and accessible digital platform.",
-          },
-          {
-            type: "text",
-            text: "By implementing a research-driven, user-centric design, Pews Pro enhances church operations, fosters community engagement, and provides a seamless digital experience for church administrators, members, and volunteers.",
-          },
-        ],
-      },
-      {
-        title: "Project Screens",
-        content: [
-          {
-            type: "swipper",
-            img_list: [
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738844986/Pews_Pro_1_ywnh2a.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738844986/Pews_Pro_2_co2vwe.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738844987/Pews_Pro_3_lpyl7p.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738844985/Pews_Pro_4_sty8om.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738844984/Pews_Pro_6_q9ed2j.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738844984/Pews_Pro_5_xklgw0.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738844984/Pews_Pro_7_dqa9wh.png",
-            ],
-          },
-        ],
-      },
-    ],
-    description: [
-      "Pews Pro Church Management Software is an end-to-end software solution that focuses heavily on automating key church activities such as managing church events, coordinating any church payments seamlessly, and keeping a standard database for the congregation.",
-      "It aims at relieving church pastors and administrative workers of the huge burden of keeping track of members, finances, and all other important records.",
-    ],
-  },
-  {
     title: "ZKDigimax Website",
     status: "Live",
     image:
@@ -443,6 +448,74 @@ const projects = [
               "https://res.cloudinary.com/delbjwwfy/image/upload/v1738848214/Digimax_5_rkdxtt.png",
               "https://res.cloudinary.com/delbjwwfy/image/upload/v1738848213/Digimax_6_qpp90q.png",
               "https://res.cloudinary.com/delbjwwfy/image/upload/v1738848213/Digimax_4_bzrhzn.png",
+            ],
+          },
+        ],
+      },
+    ],
+    description: [
+      "Pews Pro Church Management Software is an end-to-end software solution that focuses heavily on automating key church activities such as managing church events, coordinating any church payments seamlessly, and keeping a standard database for the congregation.",
+      "It aims at relieving church pastors and administrative workers of the huge burden of keeping track of members, finances, and all other important records.",
+    ],
+  },  
+  {
+    title: "Pews Pro Church Management Software",
+    status: "Development Stage",
+    image:
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1737529379/Captureytytytre_r_t8sozq.png",
+    content: [
+      {
+        title: "Project Overview",
+        content: [
+          {
+            type: "text",
+            text: "Pews Pro Church Management Software is an end-to-end software solution that focuses heavily on automating key church activities such as managing church events, coordinating any church payments seamlessly, and keeping a standard database for the congregation.",
+          },
+          {
+            type: "text",
+            text: "It aims at relieving church pastors and administrative workers of the huge burden of keeping track of members, finances, and all other important records.",
+          },
+        ],
+      },
+      {
+        title: "Problem Statement",
+        content: [
+          {
+            type: "text",
+            text: "Managing church operations, member engagement, and event coordination can be overwhelming for religious organizations. Many churches rely on outdated software or manual processes, leading to inefficiencies, communication gaps, and difficulty in tracking finances, attendance, and volunteer activities.",
+          },
+          {
+            type: "text",
+            text: "Existing church management solutions often lack user-friendly interfaces, making them challenging for church staff and members to navigate effectively.",
+          },
+        ],
+      },
+      {
+        title: "Solution Statement",
+        content: [
+          {
+            type: "text",
+            text: "Pews Pro is designed to simplify and streamline church management through an intuitive and accessible digital platform.",
+          },
+          {
+            type: "text",
+            text: "By implementing a research-driven, user-centric design, Pews Pro enhances church operations, fosters community engagement, and provides a seamless digital experience for church administrators, members, and volunteers.",
+          },
+        ],
+      },
+      {
+        title: "Project Screens",
+        content: [
+          {
+            type: "swipper",
+            img_list: [
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738844986/Pews_Pro_1_ywnh2a.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738844986/Pews_Pro_2_co2vwe.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738844987/Pews_Pro_3_lpyl7p.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738844985/Pews_Pro_4_sty8om.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738844984/Pews_Pro_6_q9ed2j.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738844984/Pews_Pro_5_xklgw0.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738844984/Pews_Pro_7_dqa9wh.png",
             ],
           },
         ],
