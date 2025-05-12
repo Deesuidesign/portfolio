@@ -37,10 +37,10 @@ const projects = [
     ],
   },
   {
-    title: "BaoBad Plus Designs",
+    title: "MTN CCaaS Solution Brochure",
     status: "Delivered",
     images: [
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726070011/BaoBad_Plus_jxpoew.png", // Cover Image
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1747043743/Avetium_CCaaS_Solution_Sales_Cheat_Sheetrer_xwwt8s.png", // Cover Image
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726070010/BaoBad_Plus_3_o59ulq.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726070011/BaoBad_Plus_2_wry2t5.png",
     ],
@@ -66,6 +66,15 @@ const projects = [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067442/Noble_mind_yearbook_2019_uwn9n8.png",
     ],
   },
+  {
+    title: "BaoBad Plus Designs",
+    status: "Delivered",
+    images: [
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726070011/BaoBad_Plus_jxpoew.png", // Cover Image
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726070010/BaoBad_Plus_3_o59ulq.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726070011/BaoBad_Plus_2_wry2t5.png",
+    ],
+  },  
   {
     title: "Roducate Designs",
     status: "Delivered",
