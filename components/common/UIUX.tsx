@@ -18,6 +18,150 @@ import { X } from "lucide-react";
 // Array of project data
 const projects = [
   {
+    title: "DeDataHub Learning Mananegement System (LMS)",
+    status: "Live",
+    image:
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1747047103/Dedata_Hub_UI_loyzio.png",
+    link: "https://staging.dedatahub.io/",
+    content: [
+      {
+        title: "Project Overview",
+        content: [
+          {
+            type: "text",
+            text: "DeDatahub is developing a cutting-edge Learning Management System (LMS) tailored to academic institutions, corporate training environments, and independent educators seeking an intuitive, data-driven platform to manage, deliver, and track learning experiences.",
+          },
+          {
+            type: "text",
+            text: "The objective of this UI/UX design project is to create a seamless, engaging, and accessible user interface that empowers users to interact efficiently with DeDatahub LMS, while maximizing learning outcomes through clear navigation and smart data integration.",
+          },
+        ],
+      },
+      {
+        title: "Problem Statement",
+        content: [
+          {
+            type: "text",
+            text: "Learners and educators using DeDatahub’s current Learning Management System (LMS) face challenges with fragmented navigation, unintuitive content discovery, and limited engagement features, which impede efficient course management, collaborative learning, and seamless access to decentralized academic data.",
+          },
+          {
+            type: "text",
+            text: "Additionally, the interface lacks accessibility optimizations and responsive adaptability, limiting its effectiveness across diverse devices and user groups.",
+          },
+        ],
+      },
+      {
+        title: "Solution Statement",
+        content: [
+          {
+            type: "text",
+            text: "By redesigning the UI/UX of DeDatahub’s LMS, we aim to deliver an intuitive, accessible, and visually engaging platform that simplifies navigation, enhances content discovery, and facilitates collaboration through decentralized data management tools.",
+          },
+          {
+            type: "text",
+            text: "The new design will feature a streamlined dashboard, adaptive layouts for multiple devices, personalized learning pathways, and integrated decentralized credentialing—all while ensuring accessibility compliance and data transparency to empower both learners and educators.",
+          },
+        ],
+      },
+      {
+        title: "Project Screens",
+        content: [
+          {
+            type: "swipper",
+            img_list: [
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079489/Trace_1_owexsf.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079489/Trace_2_o8e0be.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079489/Trace_3_n3xern.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079489/Trace_4_ibavzf.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079489/Trace_5_ku36hv.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079489/Trace_6_iurpdc.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079490/Trace_7_dp6rpe.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079490/Trace_8_r5vl7y.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079490/Trace_9_sso9rd.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079490/Trace_10_ibyftv.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079490/Trace_11_lhkupr.png",
+            ],
+          },
+        ],
+      },
+    ],
+    description: [
+      "Pews Pro Church Management Software is an end-to-end software solution that focuses heavily on automating key church activities such as managing church events, coordinating any church payments seamlessly, and keeping a standard database for the congregation.",
+      "It aims at relieving church pastors and administrative workers of the huge burden of keeping track of members, finances, and all other important records.",
+    ],
+  },  
+  {
+    title: "PaySphere FinTech App",
+    status: "Development Stage",
+    image:
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1740750567/Frame_1618875465_hxp4qm.png",
+    content: [
+      {
+        title: "Project Overview",
+        content: [
+          {
+            type: "text",
+            text: "The goal of PaySphere is to create a seamless, secure, and user-friendly fintech application that simplifies digital payments, expense tracking, and financial management.",
+          },
+          {
+            type: "text",
+            text: "Whether you're seeking friendship, companionship, or love, Hugley provides a supportive space where users can interact comfortably and authentically.",
+          },
+        ],
+      },
+      {
+        title: "Problem Statement",
+        content: [
+          {
+            type: "text",
+            text: "Managing personal and business finances can be overwhelming, especially with multiple payment methods, scattered expense tracking, and the risk of financial mismanagement.",
+          },
+          {
+            type: "text",
+            text: "There is a lack of platforms catering to their unique needs, making it difficult for them to form meaningful relationships. Hugley was developed to bridge this gap by offering an intuitive and secure dating experience tailored to their needs.",
+          },
+        ],
+      },
+      {
+        title: "Solution Statement",
+        content: [
+          {
+            type: "text",
+            text: "PaySphere aims to bridge these gaps by providing a well-designed, easy-to-use fintech app that enhances financial management through a user-friendly interface, intelligent insights, and seamless functionality.",
+          },
+          {
+            type: "text",
+            text: "Through thoughtful UI/UX design, Hugley fosters a secure and welcoming environment for building meaningful relationships.",
+          },
+        ],
+      },
+      {
+        title: "Project Screens",
+        content: [
+          {
+            type: "swipper",
+            img_list: [
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1740753890/PaySphere_1_yhsaon.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1740753891/PaySphere_2_uhywcd.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1740753891/PaySphere_3_ld4srv.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1740753891/PaySphere_4_kotb5a.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1740753891/PaySphere_5_q0sp4u.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1740753891/PaySphere_6_qyn2oz.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1740753892/PaySphere_7_d6bbm9.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1740753892/PaySphere_8_vvnr8h.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1740753894/PaySphere_9_advhv6.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1740753894/PaySphere_10_bi89vs.png",
+            ],
+          },
+        ],
+      },
+    ],
+    description: [
+      "Pews Pro Church Management Software is an end-to-end software solution that focuses heavily on automating key church activities such as managing church events, coordinating any church payments seamlessly, and keeping a standard database for the congregation.",
+      "It aims at relieving church pastors and administrative workers of the huge burden of keeping track of members, finances, and all other important records.",
+    ],
+  },
+  {
     title: "Spark Xplorer EdTech Platform Design",
     status: "Live",
     image:
@@ -97,151 +241,7 @@ const projects = [
       "Pews Pro Church Management Software is an end-to-end software solution that focuses heavily on automating key church activities such as managing church events, coordinating any church payments seamlessly, and keeping a standard database for the congregation.",
       "It aims at relieving church pastors and administrative workers of the huge burden of keeping track of members, finances, and all other important records.",
     ],
-  },
-  {
-    title: "PaySphere FinTech App",
-    status: "Development Stage",
-    image:
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1740750567/Frame_1618875465_hxp4qm.png",
-    content: [
-      {
-        title: "Project Overview",
-        content: [
-          {
-            type: "text",
-            text: "The goal of PaySphere is to create a seamless, secure, and user-friendly fintech application that simplifies digital payments, expense tracking, and financial management.",
-          },
-          {
-            type: "text",
-            text: "Whether you're seeking friendship, companionship, or love, Hugley provides a supportive space where users can interact comfortably and authentically.",
-          },
-        ],
-      },
-      {
-        title: "Problem Statement",
-        content: [
-          {
-            type: "text",
-            text: "Managing personal and business finances can be overwhelming, especially with multiple payment methods, scattered expense tracking, and the risk of financial mismanagement.",
-          },
-          {
-            type: "text",
-            text: "There is a lack of platforms catering to their unique needs, making it difficult for them to form meaningful relationships. Hugley was developed to bridge this gap by offering an intuitive and secure dating experience tailored to their needs.",
-          },
-        ],
-      },
-      {
-        title: "Solution Statement",
-        content: [
-          {
-            type: "text",
-            text: "PaySphere aims to bridge these gaps by providing a well-designed, easy-to-use fintech app that enhances financial management through a user-friendly interface, intelligent insights, and seamless functionality.",
-          },
-          {
-            type: "text",
-            text: "Through thoughtful UI/UX design, Hugley fosters a secure and welcoming environment for building meaningful relationships.",
-          },
-        ],
-      },
-      {
-        title: "Project Screens",
-        content: [
-          {
-            type: "swipper",
-            img_list: [
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1740753890/PaySphere_1_yhsaon.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1740753891/PaySphere_2_uhywcd.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1740753891/PaySphere_3_ld4srv.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1740753891/PaySphere_4_kotb5a.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1740753891/PaySphere_5_q0sp4u.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1740753891/PaySphere_6_qyn2oz.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1740753892/PaySphere_7_d6bbm9.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1740753892/PaySphere_8_vvnr8h.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1740753894/PaySphere_9_advhv6.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1740753894/PaySphere_10_bi89vs.png",
-            ],
-          },
-        ],
-      },
-    ],
-    description: [
-      "Pews Pro Church Management Software is an end-to-end software solution that focuses heavily on automating key church activities such as managing church events, coordinating any church payments seamlessly, and keeping a standard database for the congregation.",
-      "It aims at relieving church pastors and administrative workers of the huge burden of keeping track of members, finances, and all other important records.",
-    ],
-  },
-  {
-    title: "DeDataHub Learning Mananegement System (LMS)",
-    status: "Live",
-    image:
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1747047103/Dedata_Hub_UI_loyzio.png",
-    link: "https://staging.dedatahub.io/",
-    content: [
-      {
-        title: "Project Overview",
-        content: [
-          {
-            type: "text",
-            text: "DeDatahub is developing a cutting-edge Learning Management System (LMS) tailored to academic institutions, corporate training environments, and independent educators seeking an intuitive, data-driven platform to manage, deliver, and track learning experiences.",
-          },
-          {
-            type: "text",
-            text: "The objective of this UI/UX design project is to create a seamless, engaging, and accessible user interface that empowers users to interact efficiently with DeDatahub LMS, while maximizing learning outcomes through clear navigation and smart data integration.",
-          },
-        ],
-      },
-      {
-        title: "Problem Statement",
-        content: [
-          {
-            type: "text",
-            text: "Learners and educators using DeDatahub’s current Learning Management System (LMS) face challenges with fragmented navigation, unintuitive content discovery, and limited engagement features, which impede efficient course management, collaborative learning, and seamless access to decentralized academic data.",
-          },
-          {
-            type: "text",
-            text: "Additionally, the interface lacks accessibility optimizations and responsive adaptability, limiting its effectiveness across diverse devices and user groups.",
-          },
-        ],
-      },
-      {
-        title: "Solution Statement",
-        content: [
-          {
-            type: "text",
-            text: "By redesigning the UI/UX of DeDatahub’s LMS, we aim to deliver an intuitive, accessible, and visually engaging platform that simplifies navigation, enhances content discovery, and facilitates collaboration through decentralized data management tools.",
-          },
-          {
-            type: "text",
-            text: "The new design will feature a streamlined dashboard, adaptive layouts for multiple devices, personalized learning pathways, and integrated decentralized credentialing—all while ensuring accessibility compliance and data transparency to empower both learners and educators.",
-          },
-        ],
-      },
-      {
-        title: "Project Screens",
-        content: [
-          {
-            type: "swipper",
-            img_list: [
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079489/Trace_1_owexsf.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079489/Trace_2_o8e0be.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079489/Trace_3_n3xern.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079489/Trace_4_ibavzf.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079489/Trace_5_ku36hv.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079489/Trace_6_iurpdc.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079490/Trace_7_dp6rpe.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079490/Trace_8_r5vl7y.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079490/Trace_9_sso9rd.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079490/Trace_10_ibyftv.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1741079490/Trace_11_lhkupr.png",
-            ],
-          },
-        ],
-      },
-    ],
-    description: [
-      "Pews Pro Church Management Software is an end-to-end software solution that focuses heavily on automating key church activities such as managing church events, coordinating any church payments seamlessly, and keeping a standard database for the congregation.",
-      "It aims at relieving church pastors and administrative workers of the huge burden of keeping track of members, finances, and all other important records.",
-    ],
-  },
+  },  
   {
     title: "Trace Fleet & Logistic Management Solution",
     status: "Development Stage",
