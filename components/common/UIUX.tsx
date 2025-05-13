@@ -528,6 +528,49 @@ const projects = [
     ],
   },
   {
+    title: "Hugley Dating App Design",
+    status: "Development Stage",
+    image:
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1738840462/Captureyrrtrt_pnhqyd_mbhtao.png",
+    content: [
+      {
+        title: "Project Overview",
+        content: [
+          {
+            type: "text",
+            text: "Hugley is a unique dating app specifically for individuals with intellectual disabilities, designed to foster meaningful connections in a safe and inclusive environment.",
+          },
+          {
+            type: "text",
+            text: "Whether you're seeking friendship, companionship, or love, Hugley provides a supportive space where users can interact comfortably and authentically.",
+          }
+        ],
+      },
+      {
+        title: "Project Screens",
+        content: [
+          {
+            type: "swipper",
+            img_list: [
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738833832/Hugley_5_hkaat7.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738833833/Hugley_2_drmt4r.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738833833/Hugley_3_aicwtg.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738833874/Hugley_90_v93hik.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738833836/Hugley_4_ietcvt.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738833831/Hugley_6_tiorxt.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738833831/Hugley_8_jlwhrg.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1738833831/Hugley_7_ul3pfh.png",
+            ],
+          },
+        ],
+      },
+    ],
+    description: [
+      "Pews Pro Church Management Software is an end-to-end software solution that focuses heavily on automating key church activities such as managing church events, coordinating any church payments seamlessly, and keeping a standard database for the congregation.",
+      "It aims at relieving church pastors and administrative workers of the huge burden of keeping track of members, finances, and all other important records.",
+    ],
+  },  
+  {
     title: "SG Scoot App Design",
     status: "Development Stage",
     image:
