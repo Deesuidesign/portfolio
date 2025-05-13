@@ -547,6 +547,32 @@ const projects = [
         ],
       },
       {
+        title: "Project Overview",
+        content: [
+          {
+            type: "text",
+            text: "Hugley is a unique dating app specifically for individuals with intellectual disabilities, designed to foster meaningful connections in a safe and inclusive environment.",
+          },
+          {
+            type: "text",
+            text: "Whether you're seeking friendship, companionship, or love, Hugley provides a supportive space where users can interact comfortably and authentically.",
+          }
+        ],
+      },
+      {
+        title: "Project Overview",
+        content: [
+          {
+            type: "text",
+            text: "Hugley is a unique dating app specifically for individuals with intellectual disabilities, designed to foster meaningful connections in a safe and inclusive environment.",
+          },
+          {
+            type: "text",
+            text: "Whether you're seeking friendship, companionship, or love, Hugley provides a supportive space where users can interact comfortably and authentically.",
+          }
+        ],
+      },     
+      {
         title: "Project Screens",
         content: [
           {
