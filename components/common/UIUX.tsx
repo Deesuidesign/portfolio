@@ -529,7 +529,7 @@ const projects = [
   },
   {
     title: "Hugley Dating App Design",
-    status: "Development Stage",
+    status: "Launched",
     image:
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1738840462/Captureyrrtrt_pnhqyd_mbhtao.png",
     content: [
@@ -547,28 +547,28 @@ const projects = [
         ],
       },
       {
-        title: "Project Overview",
+        title: "Problem Statement",
         content: [
           {
             type: "text",
-            text: "Hugley is a unique dating app specifically for individuals with intellectual disabilities, designed to foster meaningful connections in a safe and inclusive environment.",
+            text: "Individuals with intellectual disabilities often face significant barriers when trying to form romantic relationships. Mainstream dating platforms are typically not designed with their specific communication needs, safety concerns, or social integration challenges in mind.",
           },
           {
             type: "text",
-            text: "Whether you're seeking friendship, companionship, or love, Hugley provides a supportive space where users can interact comfortably and authentically.",
+            text: "As a result, these individuals may experience isolation, difficulty expressing themselves authentically, and a lack of access to safe, supportive environments where they can connect meaningfully with others who understand and respect their needs.",
           }
         ],
       },
       {
-        title: "Project Overview",
+        title: "Solution Statement",
         content: [
           {
             type: "text",
-            text: "Hugley is a unique dating app specifically for individuals with intellectual disabilities, designed to foster meaningful connections in a safe and inclusive environment.",
+            text: "Hugley is a dating app designed specifically for individuals with intellectual disabilities, offering a safe, accessible, and supportive platform for forming romantic connections. The app includes features such as simplified interfaces, visual communication aids, guided conversation starters, and caregiver integration options to ensure safety and usability.",
           },
           {
             type: "text",
-            text: "Whether you're seeking friendship, companionship, or love, Hugley provides a supportive space where users can interact comfortably and authentically.",
+            text: "By addressing the unique social and cognitive needs of its users, Hugley empowers individuals with intellectual disabilities to build relationships in a respectful, inclusive, and nurturing digital space.",
           }
         ],
       },     
