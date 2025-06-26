@@ -26,12 +26,15 @@ const projects = [
     images: [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067359/ZKTeco_drahkm.png", // Cover Image
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1739192750/sdst_vnktar.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1750923763/Good_Friday_ygjgdc.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1739192872/ZKTeco_5_cpidqf.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067321/ZKTeco_7_jsmbw2.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1739192096/f18_f22_zpvifi.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1750923762/Happy_Easter_Day_mcqrc5.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1739192424/zkteco_workers_day_vdqipw.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1739192156/ADP_And_Partner_Bannerd_ew7aif.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1739192161/Proface_x_k35pca.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1750924263/smart_home_automation_ZSmart_2_dyo4uk.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067366/ZKTeco_4_oyq5pc.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067358/ZKTeco_2_w8sjap.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067365/ZKTeco_3_h21lvl.png",
