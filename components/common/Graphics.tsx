@@ -9,12 +9,15 @@ import { Button } from "../ui/button";
 // Array of project data
 const projects = [
   {
-    title: "Loyal Milk Souvenirs Design",
+    title: "MTN CCaaS Solution Brochure",
     status: "Delivered",
     images: [
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726079685/Loya_Milk_1_dyp83u.png", // Cover Image
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067437/Loya_Milk_2_ltnvdg.png",
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067434/Loya_Milk_3_g04ndt.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1747043743/Avetium_CCaaS_Solution_Sales_Cheat_Sheetrer_xwwt8s.png", // Cover Image
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1747045267/MTN_CCaaS_Solution_Sales_Cheat_Sheetrer_jreux0.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1747045268/MTN_CCaaS_Solution_Sales_Cheat_Sheetrer_2_w4ndw0.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1747045265/MTN_CCaaS_Solution_Sales_Cheat_Sheetrer_78_danqbx.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1747045265/MTN_CCaaS_Solution_Sales_Cheat_Sheetrer_65_hamrlp.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1747045265/MTN_CCaaS_Solution_Sales_Cheat_Sheetrer_5_uvgmle.png",
     ],
   },
   {
@@ -37,17 +40,17 @@ const projects = [
     ],
   },
   {
-    title: "MTN CCaaS Solution Brochure",
+    title: "Curated Gifts Marketing Material Designs",
     status: "Delivered",
     images: [
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1747043743/Avetium_CCaaS_Solution_Sales_Cheat_Sheetrer_xwwt8s.png", // Cover Image
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1747045267/MTN_CCaaS_Solution_Sales_Cheat_Sheetrer_jreux0.png",
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1747045268/MTN_CCaaS_Solution_Sales_Cheat_Sheetrer_2_w4ndw0.png",
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1747045265/MTN_CCaaS_Solution_Sales_Cheat_Sheetrer_78_danqbx.png",
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1747045265/MTN_CCaaS_Solution_Sales_Cheat_Sheetrer_65_hamrlp.png",
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1747045265/MTN_CCaaS_Solution_Sales_Cheat_Sheetrer_5_uvgmle.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1750922940/Tracker_sjmjsm.png", // Cover Image
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1750922889/Card_qogaru.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1750922933/Shirt_wyz29t.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1750922933/Cap_taaaaq.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1750922926/Bag_e_xjbnvs.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1750922933/Mug_fcnuih.png",
     ],
-  },
+  }, 
   {
     title: "Avetium Consult Company's Profile Design",
     status: "Delivered",
@@ -64,8 +67,8 @@ const projects = [
     title: "Noble-Mind Schools Yearbook Designs",
     status: "Delivered",
     images: [
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067443/Noble_mind_yearbook_2022_wak4ix.png", // Cover Image
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067444/Noble_mind_yearbook_2024_gw7yxg.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1750922935/Noble_mind_e_fxpe8t.png", // Cover Image
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067443/Noble_mind_yearbook_2022_wak4ix.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067442/Noble_mind_yearbook_2019_uwn9n8.png",
     ],
   },
@@ -97,6 +100,15 @@ const projects = [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726216818/Roducate_3_rgk4uv.png",
     ],
   },  
+  {
+    title: "Loyal Milk Souvenirs Design",
+    status: "Delivered",
+    images: [
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726079685/Loya_Milk_1_dyp83u.png", // Cover Image
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067437/Loya_Milk_2_ltnvdg.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1726067434/Loya_Milk_3_g04ndt.png",
+    ],
+  },
   {
     title: "RCCG Social Media Banners Designs",
     status: "Delivered",
