@@ -142,6 +142,7 @@ const projects = [
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726218992/isource_e_trwe6i.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1736703310/Pews_Pro_Logo_k3via1.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726218986/bavms_fczpj0.png",
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1750923613/Curated_Logo_z9cbxw.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1736703087/Designtino_Logo_vqynrw.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726219327/BioTime_Africa_clcdzj.png",
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1726219324/Securetech_vv2gau.png",
