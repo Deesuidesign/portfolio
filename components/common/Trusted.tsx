@@ -19,7 +19,7 @@ const companies = [
   { name: "Exo Prime", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1747042451/Exo_Prime_kvqchl.png" },
   { name: "Otiz Technology", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1747041277/Otiz_Logo_iykkaq.png" },
   { name: "ZKDigimax", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1747042450/digimax_qsdiwi.png" },
-  { name: "SG Scoot App", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1747041278/SG_d4d71p.png" },
+  { name: "Drolx", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1751961294/Drolx_3_m4dq4p.png" },
 ];
 
 const Trusted = () => {
