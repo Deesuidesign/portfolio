@@ -18,7 +18,7 @@ const companies = [
   { name: "AirBNB", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1727946906/superhost_id_cardrere_fpnadq.png" },
   { name: "Exo Prime", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1747042451/Exo_Prime_kvqchl.png" },
   { name: "Otiz Technology", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1747041277/Otiz_Logo_iykkaq.png" },
-  { name: "ZKDigimax", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1747042450/digimax_qsdiwi.png" },
+  { name: "Arcus", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1754298886/Arcus_Brand_Guidegrt_lyxqi1.png" },
   { name: "Drolx", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1751961294/Drolx_3_m4dq4p.png" },
 ];
 
