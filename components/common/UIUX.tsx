@@ -22,7 +22,7 @@ const projects = [
     status: "Live",
     image:
       "https://res.cloudinary.com/delbjwwfy/image/upload/v1747049786/Dedata_Hub_UI_ukp2oa.png",
-    link: "https://www.controlaccesshub.com/",
+    link: "https://www.google.com/",
     content: [
       {
         title: "Project Overview",
