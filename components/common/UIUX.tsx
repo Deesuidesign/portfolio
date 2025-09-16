@@ -316,11 +316,11 @@ const projects = [
     ],
   },  
   {
-    title: "ExoPrime Exosome Website Design",
+    title: "Control Access Electronic Hub Website Design",
     status: "Live",
     image:
-      "https://res.cloudinary.com/delbjwwfy/image/upload/v1739286356/Exo-Prime_Cover_r7w5ou.png",
-    link: "https://www.exo-prime.com/",    
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1758016021/CAEH_1_gut6ht.png",
+    link: "https://www.controlaccesshub.com/",    
     content: [
       {
         title: "Project Overview",
@@ -362,25 +362,16 @@ const projects = [
         ],
       },
       {
-        title: "Project Prototype",
-        content: [
-          {
-            type: "video",
-            url: "https://www.youtube.com/embed/wNS6NQQjNAQ?si=Lxh6hJocbzxT0bB7",
-          },
-        ],
-      },
-      {
         title: "Project Screens",
         content: [
           {
             type: "swipper",
             img_list: [
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1739285478/Exo-Prime_1_wfzrvi.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1739285488/Exo-Prime_2_hxbsmn.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1739285490/Exo-Prime_4_tcwntw.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1739285486/Exo-Prime_3_s3jay4.png",
-              "https://res.cloudinary.com/delbjwwfy/image/upload/v1739285484/Exo-Prime_5_onfjjb.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1758015535/CAEH_2_aavgp6.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1758015535/CAEH_3_ovqgvm.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1758015535/CAEH_4_g4s5cn.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1758015535/CAEH_5_ym5sd6.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1758015535/CAEH_6_evl8cg.png",
             ],
           },
         ],
@@ -517,6 +508,82 @@ const projects = [
               "https://res.cloudinary.com/delbjwwfy/image/upload/v1738844984/Pews_Pro_6_q9ed2j.png",
               "https://res.cloudinary.com/delbjwwfy/image/upload/v1738844984/Pews_Pro_5_xklgw0.png",
               "https://res.cloudinary.com/delbjwwfy/image/upload/v1738844984/Pews_Pro_7_dqa9wh.png",
+            ],
+          },
+        ],
+      },
+    ],
+    description: [
+      "Pews Pro Church Management Software is an end-to-end software solution that focuses heavily on automating key church activities such as managing church events, coordinating any church payments seamlessly, and keeping a standard database for the congregation.",
+      "It aims at relieving church pastors and administrative workers of the huge burden of keeping track of members, finances, and all other important records.",
+    ],
+  },
+  {
+    title: "ExoPrime Exosome Website Design",
+    status: "Live",
+    image:
+      "https://res.cloudinary.com/delbjwwfy/image/upload/v1739286356/Exo-Prime_Cover_r7w5ou.png",
+    link: "https://www.exo-prime.com/",    
+    content: [
+      {
+        title: "Project Overview",
+        content: [
+          {
+            type: "text",
+            text: "ExoPrime International develops groundbreaking skin rejuvenation solutions based on advanced exosome technology. Nestled in the outskirts of ancient Rome, ExoPrime International is on the cutting edge of exosome-based mesotherapy and bioscience.",
+          },
+          {
+            type: "text",
+            text: "The website will serve as an engaging platform for customers to explore products, access beauty tips, and make purchases effortlessly.",
+          },
+        ],
+      },
+      {
+        title: "Problem Statement",
+        content: [
+          {
+            type: "text",
+            text: "Despite offering high-quality cosmetic products, ExoPrime’s previous website faced challenges such as complicated navigation, lack of personalization, and suboptimal mobile performance.",
+          },
+          {
+            type: "text",
+            text: "Customers struggled with product discovery, and the checkout process led to high cart abandonment rates. The goal was to revamp the website to create a seamless, immersive, and conversion-driven shopping experience.",
+          },
+        ],
+      },
+      {
+        title: "Solution Statement",
+        content: [
+          {
+            type: "text",
+            text: "ExoPrime’s website redesign successfully elevated the online shopping experience, blending aesthetics with functionality.",
+          },
+          {
+            type: "text",
+            text: "By focusing on user-centric design, AI-driven personalization, and seamless mobile integration, the platform now delivers a high-end digital shopping journey that aligns with modern consumer expectations.",
+          },
+        ],
+      },
+      {
+        title: "Project Prototype",
+        content: [
+          {
+            type: "video",
+            url: "https://www.youtube.com/embed/wNS6NQQjNAQ?si=Lxh6hJocbzxT0bB7",
+          },
+        ],
+      },
+      {
+        title: "Project Screens",
+        content: [
+          {
+            type: "swipper",
+            img_list: [
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1739285478/Exo-Prime_1_wfzrvi.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1739285488/Exo-Prime_2_hxbsmn.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1739285490/Exo-Prime_4_tcwntw.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1739285486/Exo-Prime_3_s3jay4.png",
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1739285484/Exo-Prime_5_onfjjb.png",
             ],
           },
         ],
