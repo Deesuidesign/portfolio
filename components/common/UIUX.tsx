@@ -327,11 +327,11 @@ const projects = [
         content: [
           {
             type: "text",
-            text: "ExoPrime International develops groundbreaking skin rejuvenation solutions based on advanced exosome technology. Nestled in the outskirts of ancient Rome, ExoPrime International is on the cutting edge of exosome-based mesotherapy and bioscience.",
+            text: "The Control Access Electronic Hub website is a digital platform designed to showcase, promote, and provide seamless access to advanced security and automation solutions, including Access Control Systems, Time Attendance Solutions, Smart Locks, CCTV Surveillance, and Smart Home/Office Automation.",
           },
           {
             type: "text",
-            text: "The website will serve as an engaging platform for customers to explore products, access beauty tips, and make purchases effortlessly.",
+            text: "The project focuses on creating a modern, user-friendly, and intuitive interface that highlights the brand’s expertise in electronic security solutions while ensuring smooth navigation and a positive customer journey.",
           },
         ],
       },
@@ -340,11 +340,11 @@ const projects = [
         content: [
           {
             type: "text",
-            text: "Despite offering high-quality cosmetic products, ExoPrime’s previous website faced challenges such as complicated navigation, lack of personalization, and suboptimal mobile performance.",
+            text: "In today’s fast-paced world, businesses, institutions, and homeowners require efficient, secure, and reliable access management systems. While the demand for access control, time attendance solutions, smart locks, and automation technologies is rapidly increasing",
           },
           {
             type: "text",
-            text: "Customers struggled with product discovery, and the checkout process led to high cart abandonment rates. The goal was to revamp the website to create a seamless, immersive, and conversion-driven shopping experience.",
+            text: "As a result, Control Access Electronic Hub needs a modern, user-friendly, and professional website that not only displays its wide range of security and automation products but also enhances user trust, provides a seamless browsing experience, and drives customer engagement and conversion.",
           },
         ],
       },
@@ -353,11 +353,11 @@ const projects = [
         content: [
           {
             type: "text",
-            text: "ExoPrime’s website redesign successfully elevated the online shopping experience, blending aesthetics with functionality.",
+            text: "The solution is to design and develop a modern, intuitive, and responsive website for Control Access Electronic Hub that addresses user pain points and showcases the brand’s expertise in access control, time attendance, smart locks, CCTV surveillance, and automation solutions.",
           },
           {
             type: "text",
-            text: "By focusing on user-centric design, AI-driven personalization, and seamless mobile integration, the platform now delivers a high-end digital shopping journey that aligns with modern consumer expectations.",
+            text: "This solution will position Control Access Electronic Hub as a trusted leader in electronic security and automation, while giving users a smooth, informative, and satisfying digital experience.",
           },
         ],
       },
@@ -367,6 +367,7 @@ const projects = [
           {
             type: "swipper",
             img_list: [
+              "https://res.cloudinary.com/delbjwwfy/image/upload/v1758015535/CAEH_1_gwtwwc.png",
               "https://res.cloudinary.com/delbjwwfy/image/upload/v1758015535/CAEH_2_aavgp6.png",
               "https://res.cloudinary.com/delbjwwfy/image/upload/v1758015535/CAEH_3_ovqgvm.png",
               "https://res.cloudinary.com/delbjwwfy/image/upload/v1758015535/CAEH_4_g4s5cn.png",
