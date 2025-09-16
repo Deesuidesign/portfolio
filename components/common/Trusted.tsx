@@ -15,7 +15,7 @@ const companies = [
   { name: "Podium App", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1739542076/Podium_Betting_App_logo_qo3pfp.svg" },
   { name: "SB Telecoms", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726056453/y1j3ljfisbquayj4r2z9.svg" },
   { name: "Living", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726056451/cvbojlojfuqygoqrrc8v.svg" },
-  { name: "AirBNB", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1727946906/superhost_id_cardrere_fpnadq.png" },
+  { name: "CAEH", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1758013746/CAEH_Logo_klgmg2.png" },
   { name: "Exo Prime", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1747042451/Exo_Prime_kvqchl.png" },
   { name: "Otiz Technology", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1747041277/Otiz_Logo_iykkaq.png" },
   { name: "Arcus", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1754298886/Arcus_Brand_Guidegrt_lyxqi1.png" },
