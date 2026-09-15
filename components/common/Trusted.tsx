@@ -12,7 +12,6 @@ const companies = [
   { name: "Spark Xplorer", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726056455/ucupwtrkswhk3yiligvi.svg" },
   { name: "Tri Edge Technologies", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1737453334/Tri-Edge_Technologies_Logotrt_uo3o0l.png" },
   { name: "DeData Hub", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1747039650/DeDataHub_igmxsw.png" },
-  { name: "Transcorp Power", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1789461192/Transcorp_Power_g_ft5bnb.png" },
   { name: "SB Telecoms", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726056453/y1j3ljfisbquayj4r2z9.svg" },
   { name: "Living", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726056451/cvbojlojfuqygoqrrc8v.svg" },
   { name: "CAEH", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1758013746/CAEH_Logo_klgmg2.png" },
