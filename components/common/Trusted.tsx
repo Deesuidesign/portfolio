@@ -12,13 +12,15 @@ const companies = [
   { name: "Spark Xplorer", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726056455/ucupwtrkswhk3yiligvi.svg" },
   { name: "Tri Edge Technologies", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1737453334/Tri-Edge_Technologies_Logotrt_uo3o0l.png" },
   { name: "DeData Hub", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1747039650/DeDataHub_igmxsw.png" },
+  { name: "Podium App", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1739542076/Podium_Betting_App_logo_qo3pfp.svg" },
+  { name: "Podium App", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1739542076/Podium_Betting_App_logo_qo3pfp.svg" },
   { name: "SB Telecoms", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726056453/y1j3ljfisbquayj4r2z9.svg" },
   { name: "Living", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1726056451/cvbojlojfuqygoqrrc8v.svg" },
-  { name: "CAEH", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1758013746/CAEH_Logo_klgmg2.png" },
+  { name: "AirBNB", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1727946906/superhost_id_cardrere_fpnadq.png" },
   { name: "Exo Prime", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1747042451/Exo_Prime_kvqchl.png" },
   { name: "Otiz Technology", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1747041277/Otiz_Logo_iykkaq.png" },
-  { name: "Arcus", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1754298886/Arcus_Brand_Guidegrt_lyxqi1.png" },
-  { name: "Drolx", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1751961294/Drolx_3_m4dq4p.png" },
+  { name: "ZKDigimax", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1747042450/digimax_qsdiwi.png" },
+  { name: "SG Scoot App", logo: "https://res.cloudinary.com/delbjwwfy/image/upload/v1747041278/SG_d4d71p.png" },
 ];
 
 const Trusted = () => {
@@ -48,4 +50,3 @@ const Trusted = () => {
 };
 
 export default Trusted;
-
