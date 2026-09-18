@@ -6,7 +6,7 @@ import Avatar from "../../public/avatar.svg";
 const reviews = [
   {
     text: "The design is absolutely stunning! The creativity and attention to detail are impressive. The visuals are striking and really capture the essence of our brand.",
-    name: "Helen David",
+    name: "Helen Davies",
     description: "Product Manager, Flowwave Inc",
   },
   {
